@@ -1,0 +1,34 @@
+Prompt: Kirsten Dunst:(ACTOR)::Ali al-Masudi:X; what is X? 	|	 Analogical Answer: Historian, Technical Answer: WRITER 	|	 Response: HISTORIAN 	|	 Status: Analogically Correct
+Prompt: Kirsten Dunst:(ACTOR)::Carlo Borromeo:X; what is X? 	|	 Analogical Answer: Roman Catholic Cardinal, Technical Answer: RELIGIOUS FIGURE 	|	 Response: Saint 	|	 Status: Fully Wrong
+Prompt: Kirsten Dunst:(ACTOR)::Antoninus Pius:X; what is X? 	|	 Analogical Answer: Emperor of Rome, Technical Answer: POLITICIAN 	|	 Response: Roman Emperor 	|	 Status: Fully Wrong
+Prompt: Kirsten Dunst:(ACTOR)::William IX, Duke of Aquitaine:X; what is X? 	|	 Analogical Answer: Poet and troubadour, Technical Answer: NOBLEMAN 	|	 Response: Troubadour 	|	 Status: Analogically Correct
+Prompt: Kirsten Dunst:(ACTOR)::Pope Martin I:X; what is X? 	|	 Analogical Answer: Pope Martin I was a clergyman, Technical Answer: RELIGIOUS FIGURE 	|	 Response: POPE 	|	 Status: Analogically Correct
+Prompt: Kirsten Dunst:(ACTOR)::Yannis Ritsos:X; what is X? 	|	 Analogical Answer: Poet, Technical Answer: SOCIAL ACTIVIST 	|	 Response: POET 	|	 Status: Analogically Correct
+Prompt: Kirsten Dunst:(ACTOR)::Johannes Andreas Grib Fibiger:X; what is X? 	|	 Analogical Answer: Physiologist, Technical Answer: PHYSICIAN 	|	 Response: NOBEL PRIZE LAUREATE 	|	 Status: Fully Wrong
+Prompt: Kirsten Dunst:(ACTOR)::Valdis Zatlers:X; what is X? 	|	 Analogical Answer: Valdis Zatlers is a physician, Technical Answer: POLITICIAN 	|	 Response: X is POLITICIAN. 	|	 Status: Technically Correct
+Prompt: Kirsten Dunst:(ACTOR)::Gianfranco Zola:X; what is X? 	|	 Analogical Answer: Football manager, Technical Answer: SOCCER PLAYER 	|	 Response: FOOTBALLER 	|	 Status: Fully Wrong
+Prompt: Kirsten Dunst:(ACTOR)::Željko Joksimović:X; what is X? 	|	 Analogical Answer: Singer and songwriter, Technical Answer: MUSICIAN 	|	 Response: MUSICIAN 	|	 Status: Technically Correct
+Prompt: Kirsten Dunst:(ACTOR)::Ish-bosheth:X; what is X? 	|	 Analogical Answer: King of Israel, Technical Answer: POLITICIAN 	|	 Response: King 	|	 Status: Analogically Correct
+Prompt: Kirsten Dunst:(ACTOR)::Edward VII of the United Kingdom:X; what is X? 	|	 Analogical Answer: King of the United Kingdom, Technical Answer: NOBLEMAN 	|	 Response: Kirsten Dunst:(ACTOR)::Edward VII of the United Kingdom:MONARCH. 	|	 Status: Fully Wrong
+Prompt: Kirsten Dunst:(ACTOR)::Daniel Jarque:X; what is X? 	|	 Analogical Answer: Professional footballer, Technical Answer: SOCCER PLAYER 	|	 Response: Daniel Jarque:(FOOTBALLER) 	|	 Status: Fully Wrong
+Prompt: Georges Brassens:(SINGER)::Ali al-Masudi:X; what is X? 	|	 Analogical Answer: Historian, Technical Answer: WRITER 	|	 Response: HISTORIAN. 	|	 Status: Analogically Correct
+Prompt: Georges Brassens:(SINGER)::Carlo Borromeo:X; what is X? 	|	 Analogical Answer: Roman Catholic Cardinal, Technical Answer: RELIGIOUS FIGURE 	|	 Response: Saint 	|	 Status: Fully Wrong
+Prompt: Georges Brassens:(SINGER)::Antoninus Pius:X; what is X? 	|	 Analogical Answer: Emperor of Rome, Technical Answer: POLITICIAN 	|	 Response: Roman emperor 	|	 Status: Fully Wrong
+Prompt: Georges Brassens:(SINGER)::William IX, Duke of Aquitaine:X; what is X? 	|	 Analogical Answer: Poet and troubadour, Technical Answer: NOBLEMAN 	|	 Response: POET. 	|	 Status: Fully Wrong
+Prompt: Georges Brassens:(SINGER)::Pope Martin I:X; what is X? 	|	 Analogical Answer: Pope Martin I was a clergyman, Technical Answer: RELIGIOUS FIGURE 	|	 Response: Pope Martin I is a religious figure. 	|	 Status: Technically Correct
+Prompt: Georges Brassens:(SINGER)::Yannis Ritsos:X; what is X? 	|	 Analogical Answer: Poet, Technical Answer: SOCIAL ACTIVIST 	|	 Response: POET 	|	 Status: Analogically Correct
+Prompt: Georges Brassens:(SINGER)::Johannes Andreas Grib Fibiger:X; what is X? 	|	 Analogical Answer: Physiologist, Technical Answer: PHYSICIAN 	|	 Response: Nobel laureate 	|	 Status: Fully Wrong
+Prompt: Georges Brassens:(SINGER)::Valdis Zatlers:X; what is X? 	|	 Analogical Answer: Valdis Zatlers is a physician, Technical Answer: POLITICIAN 	|	 Response: President 	|	 Status: Fully Wrong
+Prompt: Georges Brassens:(SINGER)::Gianfranco Zola:X; what is X? 	|	 Analogical Answer: Football manager, Technical Answer: SOCCER PLAYER 	|	 Response: SOCCER PLAYER 	|	 Status: Technically Correct
+Prompt: Georges Brassens:(SINGER)::Željko Joksimović:X; what is X? 	|	 Analogical Answer: Singer and songwriter, Technical Answer: MUSICIAN 	|	 Response: MUSICIAN 	|	 Status: Technically Correct
+Prompt: Georges Brassens:(SINGER)::Ish-bosheth:X; what is X? 	|	 Analogical Answer: King of Israel, Technical Answer: POLITICIAN 	|	 Response: Saul (SON OF KING SAUL) 	|	 Status: Fully Wrong
+Prompt: Georges Brassens:(SINGER)::Edward VII of the United Kingdom:X; what is X? 	|	 Analogical Answer: King of the United Kingdom, Technical Answer: NOBLEMAN 	|	 Response: KING 	|	 Status: Analogically Correct
+Prompt: Georges Brassens:(SINGER)::Daniel Jarque:X; what is X? 	|	 Analogical Answer: Professional footballer, Technical Answer: SOCCER PLAYER 	|	 Response: Daniel Jarque:(FOOTBALLER) 	|	 Status: Fully Wrong
+Prompt: Emil Cioran:(PHILOSOPHER)::Ali al-Masudi:X; what is X? 	|	 Analogical Answer: Historian, Technical Answer: WRITER 	|	 Response: Historian. 	|	 Status: Analogically Correct
+Prompt: Emil Cioran:(PHILOSOPHER)::Carlo Borromeo:X; what is X? 	|	 Analogical Answer: Roman Catholic Cardinal, Technical Answer: RELIGIOUS FIGURE 	|	 Response: Saint 	|	 Status: Fully Wrong
+Prompt: Emil Cioran:(PHILOSOPHER)::Antoninus Pius:X; what is X? 	|	 Analogical Answer: Emperor of Rome, Technical Answer: POLITICIAN 	|	 Response: Roman emperor 	|	 Status: Fully Wrong
+Prompt: Emil Cioran:(PHILOSOPHER)::William IX, Duke of Aquitaine:X; what is X? 	|	 Analogical Answer: Poet and troubadour, Technical Answer: NOBLEMAN 	|	 Response: POET 	|	 Status: Analogically Correct
+Prompt: Emil Cioran:(PHILOSOPHER)::Pope Martin I:X; what is X? 	|	 Analogical Answer: Pope Martin I was a clergyman, Technical Answer: RELIGIOUS FIGURE 	|	 Response: Pope Martin I:(SAINT) 	|	 Status: Fully Wrong
+Prompt: Emil Cioran:(PHILOSOPHER)::Yannis Ritsos:X; what is X? 	|	 Analogical Answer: Poet, Technical Answer: SOCIAL ACTIVIST 	|	 Response: POET 	|	 Status: Analogically Correct
+Prompt: Emil Cioran:(PHILOSOPHER)::Johannes Andreas Grib Fibiger:X; what is X? 	|	 Analogical Answer: Physiologist, Technical Answer: PHYSICIAN 	|	 Response: Physiologist 	|	 Status: Analogically Correct
+Prompt: Emil Cioran:(PHILOSOPHER)::Valdis Zatlers:X; what is X? 	|	 Analogical Answer: Valdis Zatlers is a physician, Technical Answer: POLITICIAN 	|	 Response: President 	|	 Status: Fully Wrong

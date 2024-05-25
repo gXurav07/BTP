@@ -1,0 +1,35 @@
+,Prompt,Analogical Answer,Technical Answer,Response,Status
+0,Kirsten Dunst:(ACTOR)::Ali al-Masudi:X,Historian,WRITER,HISTORIAN,Analogically Correct
+1,Kirsten Dunst:(ACTOR)::Carlo Borromeo:X,Roman Catholic Cardinal,RELIGIOUS FIGURE,Saint,Fully Wrong
+2,Kirsten Dunst:(ACTOR)::Antoninus Pius:X,Emperor of Rome,POLITICIAN,Roman Emperor,Fully Wrong
+3,"Kirsten Dunst:(ACTOR)::William IX, Duke of Aquitaine:X",Poet and troubadour,NOBLEMAN,Troubadour,Analogically Correct
+4,Kirsten Dunst:(ACTOR)::Pope Martin I:X,Pope Martin I was a clergyman,RELIGIOUS FIGURE,POPE,Analogically Correct
+5,Kirsten Dunst:(ACTOR)::Yannis Ritsos:X,Poet,SOCIAL ACTIVIST,POET,Analogically Correct
+6,Kirsten Dunst:(ACTOR)::Johannes Andreas Grib Fibiger:X,Physiologist,PHYSICIAN,NOBEL PRIZE LAUREATE,Fully Wrong
+7,Kirsten Dunst:(ACTOR)::Valdis Zatlers:X,Valdis Zatlers is a physician,POLITICIAN,POLITICIAN,Technically Correct
+8,Kirsten Dunst:(ACTOR)::Gianfranco Zola:X,Football manager,SOCCER PLAYER,FOOTBALLER,Fully Wrong
+9,Kirsten Dunst:(ACTOR)::Željko Joksimović:X,Singer and songwriter,MUSICIAN,MUSICIAN,Technically Correct
+10,Kirsten Dunst:(ACTOR)::Ish-bosheth:X,King of Israel,POLITICIAN,King,Analogically Correct
+11,Kirsten Dunst:(ACTOR)::Edward VII of the United Kingdom:X,King of the United Kingdom,NOBLEMAN,MONARCH,Fully Wrong
+12,Kirsten Dunst:(ACTOR)::Daniel Jarque:X,Professional footballer,SOCCER PLAYER,FOOTBALLER,Fully Wrong
+13,Georges Brassens:(SINGER)::Ali al-Masudi:X,Historian,WRITER,HISTORIAN,Analogically Correct
+14,Georges Brassens:(SINGER)::Carlo Borromeo:X,Roman Catholic Cardinal,RELIGIOUS FIGURE,Saint,Fully Wrong
+15,Georges Brassens:(SINGER)::Antoninus Pius:X,Emperor of Rome,POLITICIAN,Roman emperor,Fully Wrong
+16,"Georges Brassens:(SINGER)::William IX, Duke of Aquitaine:X",Poet and troubadour,NOBLEMAN,POET,Fully Wrong
+17,Georges Brassens:(SINGER)::Pope Martin I:X,Pope Martin I was a clergyman,RELIGIOUS FIGURE,Pope Martin I is a religious figure.,Technically Correct
+18,Georges Brassens:(SINGER)::Yannis Ritsos:X,Poet,SOCIAL ACTIVIST,POET,Analogically Correct
+19,Georges Brassens:(SINGER)::Johannes Andreas Grib Fibiger:X,Physiologist,PHYSICIAN,Nobel laureate,Fully Wrong
+20,Georges Brassens:(SINGER)::Valdis Zatlers:X,Valdis Zatlers is a physician,POLITICIAN,President,Fully Wrong
+21,Georges Brassens:(SINGER)::Gianfranco Zola:X,Football manager,SOCCER PLAYER,SOCCER PLAYER,Technically Correct
+22,Georges Brassens:(SINGER)::Željko Joksimović:X,Singer and songwriter,MUSICIAN,MUSICIAN,Technically Correct
+23,Georges Brassens:(SINGER)::Ish-bosheth:X,King of Israel,POLITICIAN,Saul (SON OF KING SAUL),Fully Wrong
+24,Georges Brassens:(SINGER)::Edward VII of the United Kingdom:X,King of the United Kingdom,NOBLEMAN,KING,Analogically Correct
+25,Georges Brassens:(SINGER)::Daniel Jarque:X,Professional footballer,SOCCER PLAYER,Daniel Jarque:(FOOTBALLER),Fully Wrong
+26,Emil Cioran:(PHILOSOPHER)::Ali al-Masudi:X,Historian,WRITER,Historian.,Analogically Correct
+27,Emil Cioran:(PHILOSOPHER)::Carlo Borromeo:X,Roman Catholic Cardinal,RELIGIOUS FIGURE,Saint,Fully Wrong
+28,Emil Cioran:(PHILOSOPHER)::Antoninus Pius:X,Emperor of Rome,POLITICIAN,Roman emperor,Fully Wrong
+29,"Emil Cioran:(PHILOSOPHER)::William IX, Duke of Aquitaine:X",Poet and troubadour,NOBLEMAN,POET,Analogically Correct
+30,Emil Cioran:(PHILOSOPHER)::Pope Martin I:X,Pope Martin I was a clergyman,RELIGIOUS FIGURE,Pope Martin I:(SAINT),Fully Wrong
+31,Emil Cioran:(PHILOSOPHER)::Yannis Ritsos:X,Poet,SOCIAL ACTIVIST,POET,Analogically Correct
+32,Emil Cioran:(PHILOSOPHER)::Johannes Andreas Grib Fibiger:X,Physiologist,PHYSICIAN,Physiologist,Analogically Correct
+33,Emil Cioran:(PHILOSOPHER)::Valdis Zatlers:X,Valdis Zatlers is a physician,POLITICIAN,President,Fully Wrong

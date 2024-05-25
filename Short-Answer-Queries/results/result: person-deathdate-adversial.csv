@@ -1,0 +1,21 @@
+,Prompt,Analogical Answer,Technical Answer,GPT-reply,Status
+0,Bowie Kuhn:(March 2007)::Arnold Fine:X; what is X?,July 2012,September 2014,April 2008,Fully Wrong
+1,Reginald Turnill:(February 2013)::Beverly Fawell:X; what is X?,August 2012,June 2013,December 2012,Fully Wrong
+2,Molly Glynn:(September 2014)::Raymond Daniels:X; what is X?,June 2022,January 2008,September 2014,Fully Wrong
+3,Vilgot SjÃ¶man:(April 2006)::Collin Wilcox:X; what is X?,October 2009,October 2009,To Kill a Mockingbird,Fully Wrong
+4,Guillermo Luksic Craig:(March 2013)::Larry Turner:X; what is X?,December 2020,November 2009,Larry Turner died.,Fully Wrong
+5,Bob Welch:(June 2012)::Motoichi Kumagai:X; what is X?,February 2020,November 2010,May 2021,Fully Wrong
+6,Collin Wilcox:(October 2009)::Joaquín Piña Batllevell:X; what is X?,October 2010,July 2013,January 1968,Fully Wrong
+7,Dennis Byrd:(October 2016)::Mimi Darwish:X; what is X?,June 2021,December 2011,December 2017,Fully Wrong
+8,Dickie Jeeps:(October 2016)::Vladimir Kesarev:X; what is X?,April 1966,January 2015,June 2021,Fully Wrong
+9,Clay Felker:(July 2008)::Patrick Francis Sheehan:X; what is X?,March 2024,November 2012,May 1988,Fully Wrong
+10,Bowie Kuhn:(March 2007)::George Ardisson:X; what is X?,August 2014,December 2014,September 2004,Fully Wrong
+11,Reginald Turnill:(February 2013)::Marian Przykucki:X; what is X?,December 2019,October 2009,Retired.,Fully Wrong
+12,Molly Glynn:(September 2014)::Joe Rogers:X; what is X?,June 2021,October 2013,August 2014,Fully Wrong
+13,Vilgot SjÃ¶man:(April 2006)::Arnold Fine:X; what is X?,July 2012,September 2014,January 1999,Fully Wrong
+14,Guillermo Luksic Craig:(March 2013)::Beverly Fawell:X; what is X?,August 2012,June 2013,September 2025,Fully Wrong
+15,Bob Welch:(June 2012)::Raymond Daniels:X; what is X?,June 2022,January 2008,October 2015,Fully Wrong
+16,Collin Wilcox:(October 2009)::Collin Wilcox:X; what is X?,October 2009,October 2009,X is April 1995.,Fully Wrong
+17,Dennis Byrd:(October 2016)::Larry Turner:X; what is X?,December 2020,November 2009,May 1982,Fully Wrong
+18,Dickie Jeeps:(October 2016)::Motoichi Kumagai:X; what is X?,February 2020,November 2010,June 2016,Fully Wrong
+19,Clay Felker:(July 2008)::Joaquín Piña Batllevell:X; what is X?,October 2010,July 2013, José Martínez de Hoyos,Fully Wrong

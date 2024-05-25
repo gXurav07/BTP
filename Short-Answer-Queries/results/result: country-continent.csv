@@ -1,0 +1,11 @@
+,Prompt,Answer,GPT-reply,Status
+0,Barbados:North America::Bahrain:X; What is X?,Asia,Asia,True
+1,Mexico:North America::Macedonia:X; What is X?,Europe,Europe,True
+2,Djibouti:Africa::Marshall Islands:X; What is X?,Oceania,Oceania,True
+3,Iceland:Europe::San Marino:X; What is X?,Europe,Europe,True
+4,Armenia:Europe::Suriname:X; What is X?,South America,South America,True
+5,Cape Verde:Africa::Bhutan:X; What is X?,Asia,Asia,True
+6,Nicaragua:North America::Colombia:X; What is X?,South America,South America,True
+7,Maldives:Asia::Kuwait:X; What is X?,Asia,Asia,True
+8,"Tunisia:Africa::Korea, North:X; What is X?",Asia,Asia,True
+9,Ukraine:Europe::Monaco:X; What is X?,Europe,Europe,True

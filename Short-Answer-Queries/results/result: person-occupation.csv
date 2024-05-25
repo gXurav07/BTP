@@ -1,0 +1,11 @@
+,Prompt,Answer,GPT-reply,Status
+0,Pete Conrad:ASTRONAUT::Alizé Cornet:X; What is X?,TENNIS PLAYER,TENNIS,True
+1,Kajsa Bergqvist:ATHLETE::Karl Briullov:X; What is X?,PAINTER,ARTIST,True
+2,Mohammad Ali Rajai:POLITICIAN::Robert Wagner:X; What is X?,ACTOR,ACTOR,True
+3,Alexander Graham Bell:INVENTOR::Jeb Bush:X; What is X?,POLITICIAN,Politician.,True
+4,Tommy Haas:TENNIS PLAYER::Koji Murofushi:X; What is X?,ATHLETE,HAMMER THROWER,False
+5,Roman Jakobson:LINGUIST::Joschka Fischer:X; What is X?,POLITICIAN,Politician,True
+6,Brian P. Schmidt:ASTRONOMER::Arthur Honegger:X; What is X?,COMPOSER,COMPOSER,True
+7,Henry Hudson:EXPLORER::Lucas Grabeel:X; What is X?,ACTOR,ACTOR,True
+8,Apuleius:WRITER::Farinelli:X; What is X?,SINGER,Singer,True
+9,Antisthenes:PHILOSOPHER::Robert C. Merton:X; What is X?,ECONOMIST,ECONOMIST,True

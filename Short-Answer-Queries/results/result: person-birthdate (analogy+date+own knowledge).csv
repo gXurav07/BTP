@@ -1,0 +1,11 @@
+,Prompt,Answer,GPT-reply,Status
+0,Tubby Smith:(1951-06-30)::Jim Furyk:X; Estimate the date X?,1970-05-12,X: 1970-05-12,True
+1,Eileen Atkins:(1934-06-16)::Bill Parcells:X; Estimate the date X?,1941-08-22,X would be 1941-08-22.,True
+2,Willie Nelson:(1933-04-29)::Shaun Ellis:X; Estimate the date X?,1977-06-24,Estimate the date X: 1970-01-01,False
+3,Ethan Hawke:(1970-11-06)::Adam Sandler:X; Estimate the date X?,1966-09-09,"Adam Sandler's birthdate is September 9th, 1966. (1966-09-09)",True
+4,Tilda Swinton:(1960-11-05)::Ringo Starr:X; Estimate the date X?,1940-07-07,"Ringo Starr's birthdate is July 7th, 1940.",False
+5,Charles Kuralt:(1934-09-10)::Roy Rogers:X; Estimate the date X?,1911-11-05,"Roy Rogers was born on November 5, 1911. Therefore, X would be estimated to be 1911-11-05.",True
+6,Etienne Tshisekedi:(1932-12-14)::Jorge Posada:X; Estimate the date X?,1971-08-17,Jorge Posada was born on 1971-08-17.,True
+7,George F Will:(1941-05-04)::Kate Hudson:X; Estimate the date X?,1979-04-19,"Based on the information that George F. Will was born on May 4, 1941, we cannot estimate the exact date of Kate Hudson without further information.",False
+8,Charlie Parker:(1920-08-29)::Elliott Abrams:X; Estimate the date X?,1948-01-24,"Elliott Abrams was born on 1948-01-24, therefore X would be 1948-01-24.",True
+9,Tim Wakefield:(1966-08-02)::Norman Lear:X; Estimate the date X?,1922-07-27,"Norman Lear was born on July 27, 1922.",False

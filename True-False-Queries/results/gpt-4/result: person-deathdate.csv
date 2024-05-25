@@ -1,0 +1,850 @@
+,Prompt,Correct Object,GPT-reply,Status
+0,Lyle Williams:(November 2008)::Eko Maulana Ali:X; X is July 2013,July 2013,False,False
+1,Eko Maulana Ali:(July 2013)::Arsenio Chirinos:X; X is October 2015,October 2015,False,False
+2,Arsenio Chirinos:(October 2015)::John Cloake:X; X is December 2012,July 2014,False,True
+3,John Cloake:(July 2014)::Cara McCollum:X; X is February 2016,February 2016,True,True
+4,Cara McCollum:(February 2016)::LÃ¡zaro Blanco:X; X is July 2011,May 2011,False,True
+5,LÃ¡zaro Blanco:(May 2011)::Raul Solnado:X; X is August 2009,August 2009,True,True
+6,Raul Solnado:(August 2009)::Ken Orsatti:X; X is August 2010,August 2010,False,False
+7,Ken Orsatti:(August 2010)::Alan Seymour:X; X is March 2015,March 2015,False,False
+8,Alan Seymour:(March 2015)::Sir Brian Talboys:X; X is April 2015,June 2012,False,True
+9,Sir Brian Talboys:(June 2012)::Robert Jeangerard:X; X is May 2011,July 2014,False,True
+10,Robert Jeangerard:(July 2014)::John E. Brooks:X; X is July 2012,July 2012,False,False
+11,John E. Brooks:(July 2012)::Susan Luckey:X; X is December 2012,November 2012,True,False
+12,Susan Luckey:(November 2012)::Kenchappa Varadaraj:X; X is April 2016,December 2011,False,True
+13,Kenchappa Varadaraj:(December 2011)::E. R. Braithwaite:X; X is May 2011,December 2016,False,True
+14,E. R. Braithwaite:(December 2016)::Zeke Bella:X; X is April 2015,November 2013,False,True
+15,Zeke Bella:(November 2013)::Puck Oversloot:X; X is January 2016,January 2009,True,False
+16,Puck Oversloot:(January 2009)::Jerry Leiber:X; X is August 2011,August 2011,True,True
+17,Jerry Leiber:(August 2011)::Nelson Mandela:X; X is January 2016,December 2013,False,True
+18,Nelson Mandela:(December 2013)::Rob Williams:X; X is March 2014,March 2014,False,False
+19,Rob Williams:(March 2014)::Samih Darwazah:X; X is May 2015,May 2015,True,True
+20,Samih Darwazah:(May 2015)::Allan McKeown:X; X is December 2013,December 2013,True,True
+21,Allan McKeown:(December 2013)::Steven Gilborn:X; X is May 2014,January 2009,False,True
+22,Steven Gilborn:(January 2009)::Gary Glick:X; X is December 2011,February 2015,False,True
+23,Gary Glick:(February 2015)::Paul-Louis CarriÃ¨re:X; X is February 2008,February 2008,False,False
+24,Paul-Louis CarriÃ¨re:(February 2008)::Harry Galbreath:X; X is July 2010,July 2010,False,False
+25,Harry Galbreath:(July 2010)::David C. Copley:X; X is June 2011,November 2012,False,True
+26,David C. Copley:(November 2012)::Luigi Filippo D'Amico:X; X is April 2007,April 2007,False,False
+27,Luigi Filippo D'Amico:(April 2007)::John Kerr:X; X is July 2016,July 2016,False,False
+28,John Kerr:(July 2016)::ZoltÃ¡n PÃ¡lkovÃ¡cs:X; X is December 2008,September 2010,False,True
+29,ZoltÃ¡n PÃ¡lkovÃ¡cs:(September 2010)::Carlos Camus:X; X is July 2007,March 2014,False,True
+30,Carlos Camus:(March 2014)::John Marzano:X; X is June 2010,April 2008,False,True
+31,John Marzano:(April 2008)::Luis Alberto Monge:X; X is November 2016,November 2016,True,True
+32,Luis Alberto Monge:(November 2016)::Vagrich Bakhchanyan:X; X is December 2012,November 2009,False,True
+33,Vagrich Bakhchanyan:(November 2009)::Bernard Archard:X; X is May 2008,May 2008,False,False
+34,Bernard Archard:(May 2008)::Abdirizak Haji Hussein:X; X is January 2014,January 2014,True,True
+35,Abdirizak Haji Hussein:(January 2014)::Antonio DÃ_az Jurado:X; X is April 2013,April 2013,False,False
+36,Antonio DÃ_az Jurado:(April 2013)::Tomasi Kulimoetoke II:X; X is May 2007,May 2007,True,True
+37,Tomasi Kulimoetoke II:(May 2007)::Chu Fu-Sung:X; X is May 2012,June 2008,False,True
+38,Chu Fu-Sung:(June 2008)::Yogi Berra:X; X is September 2015,September 2015,True,True
+39,Yogi Berra:(September 2015)::Len Phillips:X; X is December 2011,December 2011,False,False
+40,Len Phillips:(December 2011)::Luigi Padovese:X; X is October 2010,June 2010,False,True
+41,Luigi Padovese:(June 2010)::Meldric Daluz:X; X is August 2011,August 2011,False,False
+42,Meldric Daluz:(August 2011)::Zalman King:X; X is February 2012,February 2012,True,True
+43,Zalman King:(February 2012)::Shay Duffin:X; X is March 2012,April 2010,False,True
+44,Shay Duffin:(April 2010)::Helen Beverley:X; X is July 2010,July 2011,False,True
+45,Helen Beverley:(July 2011)::CÃ©cile Aubry:X; X is July 2010,July 2010,True,True
+46,CÃ©cile Aubry:(July 2010)::Robert W. Castle:X; X is October 2012,October 2012,False,False
+47,Robert W. Castle:(October 2012)::Denzil Freeth:X; X is April 2010,April 2010,False,False
+48,Denzil Freeth:(April 2010)::High Chaparral:X; X is April 2014,December 2014,False,True
+49,High Chaparral:(December 2014)::Antonio Chocano:X; X is May 2009,May 2009,False,False
+50,Antonio Chocano:(May 2009)::Phyllis Hodges Boyce:X; X is May 2010,May 2010,False,False
+51,Phyllis Hodges Boyce:(May 2010)::Dorothy Jelicich:X; X is March 2010,April 2015,False,True
+52,Dorothy Jelicich:(April 2015)::Khalid El Bakraoui:X; X is October 2013,March 2016,False,True
+53,Khalid El Bakraoui:(March 2016)::Don McIver:X; X is November 2015,August 2016,False,True
+54,Don McIver:(August 2016)::Melissa Mathison:X; X is August 2013,November 2015,False,True
+55,Melissa Mathison:(November 2015)::Vladimir Dolbonosov:X; X is September 2014,September 2014,False,False
+56,Vladimir Dolbonosov:(September 2014)::Al Molinaro:X; X is May 2011,October 2015,False,True
+57,Al Molinaro:(October 2015)::Sammy Baugh:X; X is December 2008,December 2008,True,True
+58,Sammy Baugh:(December 2008)::RaÃºl Arsenio Casado:X; X is July 2010,July 2010,False,False
+59,RaÃºl Arsenio Casado:(July 2010)::Vince Camuto:X; X is January 2015,January 2015,True,True
+60,Vince Camuto:(January 2015)::Renata Fronzi:X; X is July 2010,April 2008,False,True
+61,Renata Fronzi:(April 2008)::Dave MacFarlane:X; X is October 2013,October 2013,False,False
+62,Dave MacFarlane:(October 2013)::Emilio Q. Daddario:X; X is July 2010,July 2010,False,False
+63,Emilio Q. Daddario:(July 2010)::Betty Driver:X; X is October 2011,October 2011,True,True
+64,Betty Driver:(October 2011)::Frank Vaughan:X; X is July 2011,July 2014,True,False
+65,Frank Vaughan:(July 2014)::Dick Flowers:X; X is November 2010,May 2010,False,True
+66,Dick Flowers:(May 2010)::Trevor Obst:X; X is December 2015,December 2015,False,False
+67,Trevor Obst:(December 2015)::Vigor Bovolenta:X; X is March 2012,March 2012,True,True
+68,Vigor Bovolenta:(March 2012)::Robert B. Rheault:X; X is May 2014,October 2013,False,True
+69,Robert B. Rheault:(October 2013)::Christine D'Haen:X; X is October 2013,September 2009,False,True
+70,Christine D'Haen:(September 2009)::George DiCenzo:X; X is August 2010,August 2010,False,False
+71,George DiCenzo:(August 2010)::Gordon Mowrer:X; X is March 2014,July 2016,False,True
+72,Gordon Mowrer:(July 2016)::John Hill:X; X is December 2007,December 2007,False,False
+73,John Hill:(December 2007)::Omar Mateen:X; X is February 2012,June 2016,True,False
+74,Omar Mateen:(June 2016)::Robert Gammage:X; X is September 2012,September 2012,True,True
+75,Robert Gammage:(September 2012)::Johnny Bach:X; X is January 2015,January 2016,False,True
+76,Johnny Bach:(January 2016)::Veatrice Rice:X; X is January 2009,January 2009,True,True
+77,Veatrice Rice:(January 2009)::Dalian Atkinson:X; X is June 2012,August 2016,False,True
+78,Dalian Atkinson:(August 2016)::He Qun:X; X is December 2016,December 2016,False,False
+79,He Qun:(December 2016)::Tony Warren:X; X is March 2016,March 2016,False,False
+80,Tony Warren:(March 2016)::B. S. Abdur Rahman:X; X is January 2015,January 2015,True,True
+81,B. S. Abdur Rahman:(January 2015)::Zeng Xianyi:X; X is February 2011,January 2011,False,True
+82,Zeng Xianyi:(January 2011)::Alavi Moulana:X; X is December 2010,June 2016,False,True
+83,Alavi Moulana:(June 2016)::Joe Ryan:X; X is January 2016,November 2016,False,True
+84,Joe Ryan:(November 2016)::Ronald B. Cameron:X; X is September 2006,February 2006,False,True
+85,Ronald B. Cameron:(February 2006)::Annie Fargue:X; X is February 2016,March 2011,False,True
+86,Annie Fargue:(March 2011)::JosÃ© Luiz Pacheco:X; X is July 2012,January 2008,False,True
+87,JosÃ© Luiz Pacheco:(January 2008)::Tim Francis:X; X is January 2016,January 2016,False,False
+88,Tim Francis:(January 2016)::Witold ZagÃ_rski:X; X is June 2016,June 2016,False,False
+89,Witold ZagÃ_rski:(June 2016)::Kinjarapu Yerran Naidu:X; X is August 2011,November 2012,False,True
+90,Kinjarapu Yerran Naidu:(November 2012)::Jamaluddin Jarjis:X; X is June 2015,April 2015,True,False
+91,Jamaluddin Jarjis:(April 2015)::John Dendahl:X; X is November 2013,November 2013,False,False
+92,John Dendahl:(November 2013)::Gene Goodreault:X; X is April 2009,July 2010,False,True
+93,Gene Goodreault:(July 2010)::Joseph Mascolo:X; X is December 2016,December 2016,True,True
+94,Joseph Mascolo:(December 2016)::Uan Rasey:X; X is December 2016,September 2011,False,True
+95,Uan Rasey:(September 2011)::Dave Williams:X; X is July 2013,February 2015,False,True
+96,Dave Williams:(February 2015)::Lou Lucier:X; X is October 2014,October 2014,False,False
+97,Lou Lucier:(October 2014)::Agneta Bolme BÃ¶rjefors:X; X is August 2008,August 2008,False,False
+98,Agneta Bolme BÃ¶rjefors:(August 2008)::Arthur Gietzelt:X; X is January 2014,January 2014,True,True
+99,Arthur Gietzelt:(January 2014)::Pedro Reginaldo Lira:X; X is May 2014,December 2012,False,True
+100,Pedro Reginaldo Lira:(December 2012)::Louis Pienaar:X; X is June 2011,November 2012,False,True
+101,Louis Pienaar:(November 2012)::Larry Scott:X; X is March 2014,March 2014,False,False
+102,Larry Scott:(March 2014)::Cornelius Botha:X; X is June 2014,February 2014,True,False
+103,Cornelius Botha:(February 2014)::Andrew Quintero:X; X is December 2011,May 2014,False,True
+104,Andrew Quintero:(May 2014)::Louis Rosen:X; X is April 2015,August 2009,False,True
+105,Louis Rosen:(August 2009)::Sir Fred Phillips:X; X is February 2011,February 2011,False,False
+106,Sir Fred Phillips:(February 2011)::Garry Shider:X; X is June 2010,June 2010,True,True
+107,Garry Shider:(June 2010)::Johnny Munkhammar:X; X is August 2012,August 2012,True,True
+108,Johnny Munkhammar:(August 2012)::Scotty Robertson:X; X is June 2016,August 2011,False,True
+109,Scotty Robertson:(August 2011)::Svetozar StojanoviÄ‡:X; X is May 2010,May 2010,False,False
+110,Svetozar StojanoviÄ‡:(May 2010)::Mamman Bello Ali:X; X is February 2011,January 2009,False,True
+111,Mamman Bello Ali:(January 2009)::Charles Morris:X; X is January 2012,January 2012,False,False
+112,Charles Morris:(January 2012)::John Murtha:X; X is April 2014,February 2010,False,True
+113,John Murtha:(February 2010)::Frank Upton:X; X is May 2011,May 2011,False,False
+114,Frank Upton:(May 2011)::Yitzhak Shamir:X; X is June 2012,June 2012,True,True
+115,Yitzhak Shamir:(June 2012)::Ian McLagan:X; X is January 2007,December 2014,False,True
+116,Ian McLagan:(December 2014)::William Christopher:X; X is April 2015,December 2016,False,True
+117,William Christopher:(December 2016)::Viktor Zinger:X; X is February 2012,September 2013,False,True
+118,Viktor Zinger:(September 2013)::John Armitage:X; X is April 2009,April 2009,False,False
+119,John Armitage:(April 2009)::Tige Andrews:X; X is January 2007,January 2007,False,False
+120,Tige Andrews:(January 2007)::LeRoy Ellis:X; X is May 2012,June 2012,True,False
+121,LeRoy Ellis:(June 2012)::Alvin Colt:X; X is May 2008,May 2008,True,True
+122,Alvin Colt:(May 2008)::Dave Edwards:X; X is December 2016,December 2016,False,False
+123,Dave Edwards:(December 2016)::Derf Scratch:X; X is July 2010,July 2010,True,True
+124,Derf Scratch:(July 2010)::Henderson Forsythe:X; X is April 2006,April 2006,True,True
+125,Henderson Forsythe:(April 2006)::Gregory Slay:X; X is January 2010,January 2010,True,True
+126,Gregory Slay:(January 2010)::Joy Baluch:X; X is August 2006,May 2013,False,True
+127,Joy Baluch:(May 2013)::Jean Kent:X; X is February 2016,November 2013,False,True
+128,Jean Kent:(November 2013)::Roger Auque:X; X is January 2016,September 2014,False,True
+129,Roger Auque:(September 2014)::Michael Gottlieb:X; X is May 2014,May 2014,False,False
+130,Michael Gottlieb:(May 2014)::Rocky Bridges:X; X is January 2015,January 2015,False,False
+131,Rocky Bridges:(January 2015)::Shelby Grant:X; X is April 2008,June 2011,False,True
+132,Shelby Grant:(June 2011)::Oh Se-jong:X; X is June 2016,June 2016,True,True
+133,Oh Se-jong:(June 2016)::Trevor Griffin:X; X is August 2010,March 2015,False,True
+134,Trevor Griffin:(March 2015)::Stjepan Steiner:X; X is June 2016,January 2006,False,True
+135,Stjepan Steiner:(January 2006)::Taylor Mead:X; X is October 2011,May 2013,False,True
+136,Taylor Mead:(May 2013)::John Gunnell:X; X is January 2008,January 2008,False,False
+137,John Gunnell:(January 2008)::Billy Joe Royal:X; X is January 2015,October 2015,True,False
+138,Billy Joe Royal:(October 2015)::Franco Interlenghi:X; X is September 2015,September 2015,True,True
+139,Franco Interlenghi:(September 2015)::Alan Coren:X; X is October 2007,October 2007,True,True
+140,Alan Coren:(October 2007)::Kinya Aikawa:X; X is April 2015,April 2015,True,True
+141,Kinya Aikawa:(April 2015)::Bob Gain:X; X is November 2016,November 2016,False,False
+142,Bob Gain:(November 2016)::Alberto Castagnetti:X; X is October 2009,October 2009,True,True
+143,Alberto Castagnetti:(October 2009)::Mary Call Darby Collins:X; X is March 2016,November 2009,False,True
+144,Mary Call Darby Collins:(November 2009)::Rizalino Navarro:X; X is July 2011,July 2011,True,True
+145,Rizalino Navarro:(July 2011)::Sergei Belov:X; X is January 2016,October 2013,False,True
+146,Sergei Belov:(October 2013)::Jack Lund Schofield:X; X is April 2013,March 2015,False,True
+147,Jack Lund Schofield:(March 2015)::Hobart Alter:X; X is April 2008,March 2014,False,True
+148,Hobart Alter:(March 2014)::Radomir Naumov:X; X is May 2015,May 2015,False,False
+149,Radomir Naumov:(May 2015)::Roger Newman:X; X is June 2016,March 2010,False,True
+150,Roger Newman:(March 2010)::Kjell Albin Abrahamson:X; X is September 2016,September 2016,False,False
+151,Kjell Albin Abrahamson:(September 2016)::Anton Yelchin:X; X is July 2008,June 2016,False,True
+152,Anton Yelchin:(June 2016)::Izabela Jaruga-Nowacka:X; X is April 2010,April 2010,True,True
+153,Izabela Jaruga-Nowacka:(April 2010)::Bill Birchfield:X; X is February 2016,February 2016,False,False
+154,Bill Birchfield:(February 2016)::Lil Greenwood:X; X is March 2015,July 2011,False,True
+155,Lil Greenwood:(July 2011)::Vyacheslav Nevinny:X; X is May 2009,May 2009,False,False
+156,Vyacheslav Nevinny:(May 2009)::Bill Young:X; X is May 2016,October 2013,False,True
+157,Bill Young:(October 2013)::Frank Budgen:X; X is December 2015,November 2015,True,False
+158,Frank Budgen:(November 2015)::Larry Cassidy:X; X is February 2010,February 2010,True,True
+159,Larry Cassidy:(February 2010)::Frances Shea-Buckley:X; X is July 2016,July 2015,False,True
+160,Frances Shea-Buckley:(July 2015)::Russell Olson:X; X is October 2010,April 2010,False,True
+161,Russell Olson:(April 2010)::Tura Satana:X; X is October 2015,February 2011,False,True
+162,Tura Satana:(February 2011)::Eldar Ryazanov:X; X is November 2015,November 2015,True,True
+163,Eldar Ryazanov:(November 2015)::William Royer:X; X is July 2016,April 2013,False,True
+164,William Royer:(April 2013)::Marat Kalimulin:X; X is January 2015,September 2011,False,True
+165,Marat Kalimulin:(September 2011)::Frances Reid:X; X is February 2010,February 2010,True,True
+166,Frances Reid:(February 2010)::W. Willard Wirtz:X; X is April 2010,April 2010,True,True
+167,W. Willard Wirtz:(April 2010)::C. Odumegwu Ojukwu:X; X is November 2011,November 2011,True,True
+168,C. Odumegwu Ojukwu:(November 2011)::Charles Newman (author):X; X is January 2016,March 2006,False,True
+169,Charles Newman (author):(March 2006)::Donald J. Irwin:X; X is December 2010,July 2013,False,True
+170,Donald J. Irwin:(July 2013)::Erica Andrews:X; X is March 2013,March 2013,True,True
+171,Erica Andrews:(March 2013)::Dan Haggerty:X; X is July 2011,January 2016,False,True
+172,Dan Haggerty:(January 2016)::Bootsie Calhoun:X; X is February 2014,February 2014,False,False
+173,Bootsie Calhoun:(February 2014)::Guy Rousseau:X; X is November 2016,November 2016,False,False
+174,Guy Rousseau:(November 2016)::John A. Choi Jae-seon:X; X is July 2010,June 2008,False,True
+175,John A. Choi Jae-seon:(June 2008)::Ivan Jensen:X; X is July 2012,January 2009,False,True
+176,Ivan Jensen:(January 2009)::Ivica BrziÄ‡:X; X is June 2014,June 2014,False,False
+177,Ivica BrziÄ‡:(June 2014)::Corinne Day:X; X is October 2010,August 2010,False,True
+178,Corinne Day:(August 2010)::Daryl McClure:X; X is March 2015,March 2015,False,False
+179,Daryl McClure:(March 2015)::Dale Memmelaar:X; X is March 2009,March 2009,False,False
+180,Dale Memmelaar:(March 2009)::Justo Mullor GarcÃ_a:X; X is February 2008,December 2016,False,True
+181,Justo Mullor GarcÃ_a:(December 2016)::Harry Hyams:X; X is March 2007,December 2015,False,True
+182,Harry Hyams:(December 2015)::Joe Morrone:X; X is September 2015,September 2015,True,True
+183,Joe Morrone:(September 2015)::Jean Gagnon:X; X is December 2016,December 2016,False,False
+184,Jean Gagnon:(December 2016)::Zbigniew Jaremski:X; X is January 2011,January 2011,False,False
+185,Zbigniew Jaremski:(January 2011)::Lotfi Mansouri:X; X is December 2016,August 2013,False,True
+186,Lotfi Mansouri:(August 2013)::Edward Yang:X; X is June 2007,June 2007,True,True
+187,Edward Yang:(June 2007)::Steve Stevaert:X; X is April 2015,April 2015,True,True
+188,Steve Stevaert:(April 2015)::Bill Schmitz:X; X is August 2013,August 2013,True,True
+189,Bill Schmitz:(August 2013)::Michael Baigent:X; X is May 2016,June 2013,False,True
+190,Michael Baigent:(June 2013)::Neil Turner:X; X is July 2011,July 2011,False,False
+191,Neil Turner:(July 2011)::Ratnasiri Wickremanayake:X; X is December 2012,December 2016,False,True
+192,Ratnasiri Wickremanayake:(December 2016)::ThÃ¸ger Birkeland:X; X is April 2011,April 2011,False,False
+193,ThÃ¸ger Birkeland:(April 2011)::Michael Ansara:X; X is August 2011,July 2013,False,True
+194,Michael Ansara:(July 2013)::Ottmar Schreiner:X; X is March 2014,April 2013,False,True
+195,Ottmar Schreiner:(April 2013)::Francesco De Nittis:X; X is August 2006,March 2014,False,True
+196,Francesco De Nittis:(March 2014)::Louis Johnson:X; X is May 2015,May 2015,False,False
+197,Louis Johnson:(May 2015)::Angioletta Coradini:X; X is June 2014,September 2011,False,True
+198,Angioletta Coradini:(September 2011)::Larry Munson:X; X is November 2011,November 2011,True,True
+199,Larry Munson:(November 2011)::Rudy Bukich:X; X is July 2016,February 2016,False,True
+200,Rudy Bukich:(February 2016)::Charles C. Barham:X; X is October 2006,May 2010,False,True
+201,Charles C. Barham:(May 2010)::Ian Moir:X; X is March 2015,March 2015,False,False
+202,Ian Moir:(March 2015)::Earle Howard:X; X is February 2013,February 2013,False,False
+203,Earle Howard:(February 2013)::^ Laris:X; X is January 2013,March 2012,False,True
+204,^ Laris:(March 2012)::Beverlee McKinsey:X; X is May 2008,May 2008,False,False
+205,Beverlee McKinsey:(May 2008)::Niall Andrews:X; X is April 2016,October 2006,False,True
+206,Niall Andrews:(October 2006)::John Reinhardt:X; X is February 2016,February 2016,False,False
+207,John Reinhardt:(February 2016)::Elliot Tiber:X; X is January 2011,August 2016,False,True
+208,Elliot Tiber:(August 2016)::Dewayne Bunch:X; X is August 2011,July 2012,True,False
+209,Dewayne Bunch:(July 2012)::Don Covay:X; X is August 2014,January 2015,False,True
+210,Don Covay:(January 2015)::Frana Cardno:X; X is April 2015,April 2015,False,False
+211,Frana Cardno:(April 2015)::Dennis Yost:X; X is February 2010,December 2008,False,True
+212,Dennis Yost:(December 2008)::Armen Gilliam:X; X is November 2013,July 2011,False,True
+213,Armen Gilliam:(July 2011)::Ng Chiau-tong:X; X is November 2011,November 2011,True,True
+214,Ng Chiau-tong:(November 2011)::Riccardo Ruotolo:X; X is August 2012,August 2012,False,False
+215,Riccardo Ruotolo:(August 2012)::Wong Choon Wah:X; X is December 2016,January 2014,False,True
+216,Wong Choon Wah:(January 2014)::Pamela Bryant:X; X is March 2016,December 2010,False,True
+217,Pamela Bryant:(December 2010)::Wolfgang Bartels:X; X is February 2007,February 2007,False,False
+218,Wolfgang Bartels:(February 2007)::Jean Constantin:X; X is May 2010,May 2010,False,False
+219,Jean Constantin:(May 2010)::Justo Oscar Laguna:X; X is November 2011,November 2011,False,False
+220,Justo Oscar Laguna:(November 2011)::Joan Taylor:X; X is November 2014,March 2012,False,True
+221,Joan Taylor:(March 2012)::Wilhelmus Demarteau:X; X is December 2012,December 2012,False,False
+222,Wilhelmus Demarteau:(December 2012)::William Louis Dickinson:X; X is April 2013,March 2008,False,True
+223,William Louis Dickinson:(March 2008)::Imre PolyÃ¡k:X; X is November 2010,November 2010,False,False
+224,Imre PolyÃ¡k:(November 2010)::Bruno CÃ´tÃ©:X; X is October 2008,June 2010,False,True
+225,Bruno CÃ´tÃ©:(June 2010)::Leonard Fein:X; X is August 2014,August 2014,False,False
+226,Leonard Fein:(August 2014)::Haskell Wexler:X; X is September 2014,December 2015,False,True
+227,Haskell Wexler:(December 2015)::Stephen Crohn:X; X is December 2013,August 2013,True,False
+228,Stephen Crohn:(August 2013)::Gerald W. Thomas:X; X is July 2013,July 2013,False,False
+229,Gerald W. Thomas:(July 2013)::JesÃºs RamÃ_n MartÃ_nez de Ezquerecocha Suso:X; X is January 2009,February 2013,False,True
+230,JesÃºs RamÃ_n MartÃ_nez de Ezquerecocha Suso:(February 2013)::Shirley Herz:X; X is June 2011,August 2013,False,True
+231,Shirley Herz:(August 2013)::George Allen:X; X is July 2016,July 2016,False,False
+232,George Allen:(July 2016)::Fran Warren:X; X is March 2013,March 2013,True,True
+233,Fran Warren:(March 2013)::Mario Verdial:X; X is July 2008,February 2015,False,True
+234,Mario Verdial:(February 2015)::Marc Rocco:X; X is May 2009,May 2009,False,False
+235,Marc Rocco:(May 2009)::Ken Kostick:X; X is October 2011,April 2011,True,False
+236,Ken Kostick:(April 2011)::Owen Edwards:X; X is August 2010,August 2010,False,False
+237,Owen Edwards:(August 2010)::Bert Lance:X; X is August 2013,August 2013,False,False
+238,Bert Lance:(August 2013)::Bracha Qafih:X; X is October 2014,November 2013,False,True
+239,Bracha Qafih:(November 2013)::Joseph Stein:X; X is October 2010,October 2010,False,False
+240,Joseph Stein:(October 2010)::Oswaldo Louzada:X; X is February 2008,February 2008,True,True
+241,Oswaldo Louzada:(February 2008)::Flemming JÃ¸rgensen:X; X is January 2011,January 2011,False,False
+242,Flemming JÃ¸rgensen:(January 2011)::WisÅ‚awa Szymborska:X; X is February 2012,February 2012,True,True
+243,WisÅ‚awa Szymborska:(February 2012)::Vito Taccone:X; X is October 2007,October 2007,True,True
+244,Vito Taccone:(October 2007)::BjÃ¶rn von der Esch:X; X is October 2011,March 2010,False,True
+245,BjÃ¶rn von der Esch:(March 2010)::Neil Farrington:X; X is July 2010,December 2009,False,True
+246,Neil Farrington:(December 2009)::Sue Landske:X; X is April 2011,February 2015,False,True
+247,Sue Landske:(February 2015)::Nick Lashaway:X; X is October 2009,May 2016,False,True
+248,Nick Lashaway:(May 2016)::Pu Zoduha:X; X is June 2013,June 2013,False,False
+249,Pu Zoduha:(June 2013)::Aage MÃ¸st:X; X is February 2010,April 2011,False,True
+250,Aage MÃ¸st:(April 2011)::Shlomo Pinto:X; X is June 2011,June 2011,False,False
+251,Shlomo Pinto:(June 2011)::IÃ±aki Lejarreta:X; X is December 2012,December 2012,True,True
+252,IÃ±aki Lejarreta:(December 2012)::Don Quayle:X; X is April 2015,April 2015,False,False
+253,Don Quayle:(April 2015)::Retta Ward:X; X is March 2016,March 2016,False,False
+254,Retta Ward:(March 2016)::Harry Mulisch:X; X is October 2010,October 2010,True,True
+255,Harry Mulisch:(October 2010)::^ Chayka:X; X is December 2015,February 2012,False,True
+256,^ Chayka:(February 2012)::Sandy Kenyon:X; X is February 2010,February 2010,False,False
+257,Sandy Kenyon:(February 2010)::Saud bin Faisal bin Abdulaziz Al Saud:X; X is February 2012,July 2015,False,True
+258,Saud bin Faisal bin Abdulaziz Al Saud:(July 2015)::James F. Goodrich:X; X is July 2012,July 2012,False,False
+259,James F. Goodrich:(July 2012)::Val Logsdon Fitch:X; X is February 2015,February 2015,True,True
+260,Val Logsdon Fitch:(February 2015)::ThorbjÃ¸rn Svenssen:X; X is January 2011,January 2011,False,False
+261,ThorbjÃ¸rn Svenssen:(January 2011)::Bansi Lal:X; X is July 2014,March 2006,False,True
+262,Bansi Lal:(March 2006)::Tommy Cummings:X; X is April 2015,July 2009,False,True
+263,Tommy Cummings:(July 2009)::Harold Hofmann:X; X is November 2013,November 2013,True,True
+264,Harold Hofmann:(November 2013)::Giuseppe Moccia:X; X is August 2006,August 2006,False,False
+265,Giuseppe Moccia:(August 2006)::Paul Picerni:X; X is May 2015,January 2011,False,True
+266,Paul Picerni:(January 2011)::Scott Miller:X; X is April 2013,April 2013,False,False
+267,Scott Miller:(April 2013)::Hugh O'Brian:X; X is September 2016,September 2016,True,True
+268,Hugh O'Brian:(September 2016)::Patrick Roy:X; X is May 2011,May 2011,False,False
+269,Patrick Roy:(May 2011)::Titus Munteanu:X; X is December 2013,December 2013,False,False
+270,Titus Munteanu:(December 2013)::Angelo Dundee:X; X is May 2011,February 2012,False,True
+271,Angelo Dundee:(February 2012)::Cahit Aral:X; X is November 2011,November 2011,True,True
+272,Cahit Aral:(November 2011)::Gary Brandner:X; X is February 2014,September 2013,False,True
+273,Gary Brandner:(September 2013)::JosÃ© de JesÃºs Castillo RenterÃ_a:X; X is April 2013,April 2013,False,False
+274,JosÃ© de JesÃºs Castillo RenterÃ_a:(April 2013)::DamiÃ£o AntÃ_nio Franklin:X; X is June 2012,April 2014,False,True
+275,DamiÃ£o AntÃ_nio Franklin:(April 2014)::Patrick Ekeng:X; X is June 2014,May 2016,False,True
+276,Patrick Ekeng:(May 2016)::Colin Tarrant:X; X is January 2012,January 2012,True,True
+277,Colin Tarrant:(January 2012)::Alberto Bustamante Belaunde:X; X is February 2008,February 2008,False,False
+278,Alberto Bustamante Belaunde:(February 2008)::Julieta MarÃ_n Torres:X; X is May 2009,March 2015,False,True
+279,Julieta MarÃ_n Torres:(March 2015)::Nic Gotham:X; X is July 2013,July 2013,False,False
+280,Nic Gotham:(July 2013)::Richard P. Lindsay:X; X is June 2010,June 2010,False,False
+281,Richard P. Lindsay:(June 2010)::Emil Schulz:X; X is March 2010,March 2010,False,False
+282,Emil Schulz:(March 2010)::Ted Kennedy:X; X is March 2013,August 2009,False,True
+283,Ted Kennedy:(August 2009)::Paul W. Airey:X; X is March 2009,March 2009,True,True
+284,Paul W. Airey:(March 2009)::Martin Lewis Perl:X; X is July 2010,September 2014,False,True
+285,Martin Lewis Perl:(September 2014)::Jacques Sernas:X; X is February 2010,July 2015,False,True
+286,Jacques Sernas:(July 2015)::Antonio Brack Egg:X; X is July 2010,December 2014,False,True
+287,Antonio Brack Egg:(December 2014)::Graham Mackay:X; X is June 2014,December 2013,False,True
+288,Graham Mackay:(December 2013)::Shigeru Mizuki:X; X is January 2013,November 2015,False,True
+289,Shigeru Mizuki:(November 2015)::Gilbert Taylor:X; X is October 2011,August 2013,False,True
+290,Gilbert Taylor:(August 2013)::SaÅ¡a MarkoviÄ‡ Mikrob:X; X is November 2015,July 2010,False,True
+291,SaÅ¡a MarkoviÄ‡ Mikrob:(July 2010)::Lucian BÄƒlan:X; X is November 2015,November 2015,False,False
+292,Lucian BÄƒlan:(November 2015)::Larry Brezner:X; X is October 2015,October 2015,False,False
+293,Larry Brezner:(October 2015)::Yoshimitsu Morita:X; X is December 2011,December 2011,True,True
+294,Yoshimitsu Morita:(December 2011)::Ali Hassan al-Jaber:X; X is March 2011,March 2011,True,True
+295,Ali Hassan al-Jaber:(March 2011)::Don Barry:X; X is May 2014,May 2014,False,False
+296,Don Barry:(May 2014)::Lucien Paiement:X; X is March 2011,January 2013,False,True
+297,Lucien Paiement:(January 2013)::Abel Goumba:X; X is November 2011,May 2009,False,True
+298,Abel Goumba:(May 2009)::Michael Evans:X; X is July 2011,July 2011,False,False
+299,Michael Evans:(July 2011)::Bobby Campbell:X; X is May 2009,May 2009,False,False
+300,Bobby Campbell:(May 2009)::Milt Schoon:X; X is December 2016,January 2015,False,True
+301,"Milt Schoon:(January 2015)::^ Staff (2012-01-27). ""Jeannette Hamby:X; X is July 2011",January 2012,False,True
+302,"^ Staff (2012-01-27). ""Jeannette Hamby:(January 2012)::Henry Hartsfield:X; X is July 2014",July 2014,False,False
+303,Henry Hartsfield:(July 2014)::John Edzerza:X; X is November 2011,November 2011,True,True
+304,John Edzerza:(November 2011)::Sylvie Roy:X; X is February 2007,July 2016,False,True
+305,Sylvie Roy:(July 2016)::Marty Marion:X; X is May 2009,March 2011,True,False
+306,Marty Marion:(March 2011)::Ryan Dunn:X; X is June 2011,June 2011,True,True
+307,Ryan Dunn:(June 2011)::Doug Beasy:X; X is May 2013,May 2013,False,False
+308,"Doug Beasy:(May 2013)::^ New York Times (2012-09-15). ""Tony Goldman:X; X is October 2012",September 2012,False,True
+309,"^ New York Times (2012-09-15). ""Tony Goldman:(September 2012)::Jean Giraud:X; X is March 2012",March 2012,False,False
+310,Jean Giraud:(March 2012)::Ivan Plyushch:X; X is February 2016,June 2014,False,True
+311,Ivan Plyushch:(June 2014)::Virginia Shehee:X; X is February 2015,July 2015,False,True
+312,Virginia Shehee:(July 2015)::Tony Conrad:X; X is April 2016,April 2016,True,True
+313,Tony Conrad:(April 2016)::Alfonso GÃ_mez-Lobo:X; X is December 2011,December 2011,False,False
+314,Alfonso GÃ_mez-Lobo:(December 2011)::Peter Garrisson:X; X is April 2013,April 2013,False,False
+315,Peter Garrisson:(April 2013)::Josep Maria Guix Ferreres:X; X is June 2009,June 2009,False,False
+316,Josep Maria Guix Ferreres:(June 2009)::RubÃ©n AmorÃ_n:X; X is April 2016,December 2014,False,True
+317,RubÃ©n AmorÃ_n:(December 2014)::Jamelle Folsom:X; X is March 2013,November 2012,False,True
+318,Jamelle Folsom:(November 2012)::Chuck Kress:X; X is March 2014,March 2014,False,False
+319,Chuck Kress:(March 2014)::Axl Rotten:X; X is February 2006,February 2016,False,True
+320,Axl Rotten:(February 2016)::Michael Gower Coleman:X; X is February 2015,December 2011,False,True
+321,Michael Gower Coleman:(December 2011)::Andriy Kuzmenko:X; X is November 2011,February 2015,False,True
+322,Andriy Kuzmenko:(February 2015)::Luis Ortega ÃÅlvarez:X; X is August 2013,April 2015,False,True
+323,Luis Ortega ÃÅlvarez:(April 2015)::Abune Dioskoros:X; X is December 2015,December 2015,True,True
+324,Abune Dioskoros:(December 2015)::Jerry Coleman:X; X is January 2014,January 2014,True,True
+325,Jerry Coleman:(January 2014)::Chinua Achebe:X; X is March 2013,March 2013,True,True
+326,Chinua Achebe:(March 2013)::David Jacobs:X; X is November 2008,September 2013,False,True
+327,David Jacobs:(September 2013)::Roger Bennett:X; X is November 2016,March 2007,False,True
+328,Roger Bennett:(March 2007)::Frank J. Dodd:X; X is June 2008,May 2010,False,True
+329,Frank J. Dodd:(May 2010)::Helena Rakoczy:X; X is August 2013,September 2014,False,True
+330,Helena Rakoczy:(September 2014)::Gerard Reedy:X; X is March 2016,March 2016,False,False
+331,Gerard Reedy:(March 2016)::Lupe Gigliotti:X; X is December 2010,December 2010,True,True
+332,Lupe Gigliotti:(December 2010)::Gene Gene the Dancing Machine:X; X is March 2015,March 2015,False,False
+333,Gene Gene the Dancing Machine:(March 2015)::JosÃ© Canalejas:X; X is May 2015,May 2015,False,False
+334,JosÃ© Canalejas:(May 2015)::Brad Ecklund:X; X is February 2010,February 2010,False,False
+335,Brad Ecklund:(February 2010)::Richard Holmlund:X; X is November 2013,October 2011,False,True
+336,Richard Holmlund:(October 2011)::Bruno Gamberini:X; X is August 2011,August 2011,False,False
+337,Bruno Gamberini:(August 2011)::Meine Pit:X; X is November 2009,February 2014,False,True
+338,Meine Pit:(February 2014)::Ardhendu Bhushan Bardhan:X; X is January 2016,January 2016,False,False
+339,Ardhendu Bhushan Bardhan:(January 2016)::Kristian Ealey:X; X is May 2016,May 2016,False,False
+340,Kristian Ealey:(May 2016)::Placidus Nkalanga:X; X is November 2016,December 2015,False,True
+341,Placidus Nkalanga:(December 2015)::Juanita M. Kreps:X; X is July 2010,July 2010,False,False
+342,Juanita M. Kreps:(July 2010)::Jean Wishart:X; X is November 2013,November 2016,False,True
+343,Jean Wishart:(November 2016)::Doris Pilkington Garimara:X; X is April 2014,April 2014,True,True
+344,Doris Pilkington Garimara:(April 2014)::Bob Beaumont:X; X is May 2009,October 2011,False,True
+345,Bob Beaumont:(October 2011)::Vic Lynn:X; X is September 2014,December 2010,False,True
+346,Vic Lynn:(December 2010)::Sterling Ridge:X; X is April 2012,April 2012,False,False
+347,Sterling Ridge:(April 2012)::Leonid Shebarshin:X; X is July 2010,March 2012,False,True
+348,Leonid Shebarshin:(March 2012)::Nick Adenhart:X; X is June 2014,April 2009,False,True
+349,Nick Adenhart:(April 2009)::Russell W. Peterson:X; X is February 2011,February 2011,False,False
+350,Russell W. Peterson:(February 2011)::Joseph Candolfi:X; X is August 2011,August 2011,False,False
+351,Joseph Candolfi:(August 2011)::Gene Wilder:X; X is August 2016,August 2016,True,True
+352,Gene Wilder:(August 2016)::Dick Hudson:X; X is March 2016,March 2016,False,False
+353,Dick Hudson:(March 2016)::Barbara Kelly:X; X is August 2010,January 2007,False,True
+354,Barbara Kelly:(January 2007)::Herman Badillo:X; X is January 2011,December 2014,False,True
+355,Herman Badillo:(December 2014)::Dick Hoerner:X; X is December 2010,December 2010,False,False
+356,Dick Hoerner:(December 2010)::Norman Bridwell:X; X is January 2012,December 2014,False,True
+357,Norman Bridwell:(December 2014)::Jim Ross:X; X is May 2011,January 2016,False,True
+358,Jim Ross:(January 2016)::Maleli Kunavore:X; X is December 2012,November 2012,True,False
+359,Maleli Kunavore:(November 2012)::Natasja Saad:X; X is June 2007,June 2007,True,True
+360,Natasja Saad:(June 2007)::Debbie Reynolds:X; X is December 2016,December 2016,True,True
+361,Debbie Reynolds:(December 2016)::David Cairns:X; X is April 2007,May 2011,True,False
+362,David Cairns:(May 2011)::Allan Lawrence:X; X is September 2008,September 2008,False,False
+363,Allan Lawrence:(September 2008)::Charles H. Smelser:X; X is November 2011,January 2009,False,True
+364,Charles H. Smelser:(January 2009)::Buddy Kerr:X; X is July 2007,November 2006,False,True
+365,Buddy Kerr:(November 2006)::Blanca Vela:X; X is February 2015,February 2014,False,True
+366,Blanca Vela:(February 2014)::Dale Bumpers:X; X is January 2016,January 2016,True,True
+367,Dale Bumpers:(January 2016)::GÃ¶sta Krantz:X; X is December 2008,December 2008,True,True
+368,GÃ¶sta Krantz:(December 2008)::Greville Janner:X; X is October 2016,December 2015,False,True
+369,Greville Janner:(December 2015)::Clifford Curry:X; X is January 2015,September 2016,False,True
+370,Clifford Curry:(September 2016)::Tom Towles:X; X is April 2015,April 2015,True,True
+371,Tom Towles:(April 2015)::Lou Saban:X; X is March 2009,March 2009,True,True
+372,"Lou Saban:(March 2009)::^ Elaine Woo (2012-02-23). ""Barney Rosset:X; X is February 2012",February 2012,True,True
+373,"^ Elaine Woo (2012-02-23). ""Barney Rosset:(February 2012)::Bob Kennedy:X; X is April 2016",July 2010,False,True
+374,Bob Kennedy:(July 2010)::Lew Carpenter:X; X is July 2007,November 2010,False,True
+375,Lew Carpenter:(November 2010)::AngÃ©lico Vieira:X; X is June 2011,June 2011,True,True
+376,AngÃ©lico Vieira:(June 2011)::Mark Reeds:X; X is April 2015,April 2015,True,True
+377,"Mark Reeds:(April 2015)::Notable convicted drug traffickers executed by Indonesian firing squad:[560]Andrew Chan:X; X is April 2015",April 2015,True,True
+378,"Notable convicted drug traffickers executed by Indonesian firing squad:[560]Andrew Chan:(April 2015)::Terry Blair:X; X is June 2014",June 2014,False,False
+379,Terry Blair:(June 2014)::Sigrid Schjetne:X; X is September 2012,September 2012,True,True
+380,Sigrid Schjetne:(September 2012)::Dragan Holcer:X; X is January 2015,September 2015,False,True
+381,Dragan Holcer:(September 2015)::Freddy Bienstock:X; X is June 2015,September 2009,False,True
+382,Freddy Bienstock:(September 2009)::Kyle Jean-Baptiste:X; X is March 2011,August 2015,False,True
+383,Kyle Jean-Baptiste:(August 2015)::Frans Vermeyen:X; X is February 2009,January 2014,False,True
+384,Frans Vermeyen:(January 2014)::Aziz Sedki:X; X is February 2011,January 2008,False,True
+385,Aziz Sedki:(January 2008)::Jules Ancion:X; X is January 2011,November 2011,False,True
+386,Jules Ancion:(November 2011)::Herm Schneidman:X; X is August 2008,August 2008,False,False
+387,Herm Schneidman:(August 2008)::DeVan Dallas:X; X is April 2013,November 2016,False,True
+388,DeVan Dallas:(November 2016)::Bill Binder:X; X is January 2010,January 2010,False,False
+389,Bill Binder:(January 2010)::Shinya Taniguchi:X; X is July 2012,September 2013,False,True
+390,Shinya Taniguchi:(September 2013)::Tommy Morrison:X; X is September 2013,September 2013,False,False
+391,Tommy Morrison:(September 2013)::Wilfred Agbonavbare:X; X is August 2014,January 2015,False,True
+392,Wilfred Agbonavbare:(January 2015)::Ian Rilen:X; X is June 2010,October 2006,False,True
+393,Ian Rilen:(October 2006)::Buddy Freitag:X; X is April 2015,May 2012,True,False
+394,Buddy Freitag:(May 2012)::Jim Kelley:X; X is November 2010,November 2010,False,False
+395,Jim Kelley:(November 2010)::Irwin Caplan:X; X is March 2014,February 2007,False,True
+396,Irwin Caplan:(February 2007)::Matthew Dickens:X; X is February 2013,January 2013,False,True
+397,Matthew Dickens:(January 2013)::Gary Richrath:X; X is September 2015,September 2015,True,True
+398,Gary Richrath:(September 2015)::Derek Vonberg:X; X is April 2015,April 2015,False,False
+399,Derek Vonberg:(April 2015)::LeÃ_n Febres Cordero:X; X is December 2008,December 2008,True,True
+400,LeÃ_n Febres Cordero:(December 2008)::Warren Perkins:X; X is September 2014,September 2014,False,False
+401,Warren Perkins:(September 2014)::Yorman Landa:X; X is December 2016,December 2016,True,True
+402,Yorman Landa:(December 2016)::Reno Bertoia:X; X is June 2016,April 2011,False,True
+403,Reno Bertoia:(April 2011)::Lance Hahn:X; X is August 2016,October 2007,False,True
+404,Lance Hahn:(October 2007)::Edmund Collins:X; X is May 2010,August 2014,False,True
+405,Edmund Collins:(August 2014)::Jacques Georges Habib Hafouri:X; X is May 2011,May 2011,False,False
+406,Jacques Georges Habib Hafouri:(May 2011)::Martin Sandberger:X; X is March 2010,March 2010,False,False
+407,Martin Sandberger:(March 2010)::Matulidi Jusoh:X; X is May 2015,May 2015,False,False
+408,Matulidi Jusoh:(May 2015)::RaÃºl CÃ¡rdenas:X; X is June 2010,March 2016,False,True
+409,RaÃºl CÃ¡rdenas:(March 2016)::Karl-Alfred Jacobsson:X; X is March 2015,March 2015,False,False
+410,Karl-Alfred Jacobsson:(March 2015)::Ellie Greenwich:X; X is July 2010,August 2009,False,True
+411,Ellie Greenwich:(August 2009)::JesÃºs de Polanco:X; X is July 2007,July 2007,True,True
+412,JesÃºs de Polanco:(July 2007)::Ruth Springford:X; X is November 2010,November 2010,False,False
+413,Ruth Springford:(November 2010)::Ian Wells:X; X is November 2013,January 2013,False,True
+414,Ian Wells:(January 2013)::Milo Hamilton:X; X is January 2012,September 2015,False,True
+415,Milo Hamilton:(September 2015)::Alejandro Romay:X; X is July 2010,June 2015,False,True
+416,Alejandro Romay:(June 2015)::Grady Allen:X; X is July 2015,December 2012,False,True
+417,Grady Allen:(December 2012)::Sir Wallace Rae:X; X is January 2013,March 2006,False,True
+418,Sir Wallace Rae:(March 2006)::Justin Kaplan:X; X is March 2014,March 2014,False,False
+419,Justin Kaplan:(March 2014)::Origa:X; X is January 2016,January 2015,False,True
+420,Origa:(January 2015)::Rory Ellinger:X; X is December 2008,April 2014,False,True
+421,Rory Ellinger:(April 2014)::Harihar Swain:X; X is October 2012,October 2012,False,False
+422,Harihar Swain:(October 2012)::Lothar SpÃ_th:X; X is March 2016,March 2016,True,True
+423,Lothar SpÃ_th:(March 2016)::Emmanuel LÃª Phong ThuÃ¢n:X; X is February 2010,October 2010,False,True
+424,Emmanuel LÃª Phong ThuÃ¢n:(October 2010)::AdÃ¡n MartÃ_n Menis:X; X is October 2010,October 2010,False,False
+425,AdÃ¡n MartÃ_n Menis:(October 2010)::Osvaldo ÃÅlvarez Guerrero:X; X is September 2013,July 2008,False,True
+426,Osvaldo ÃÅlvarez Guerrero:(July 2008)::Damiano Damiani:X; X is October 2008,March 2013,False,True
+427,Damiano Damiani:(March 2013)::Sergio Lauricella:X; X is October 2016,May 2008,False,True
+428,Sergio Lauricella:(May 2008)::Zeb Alley:X; X is July 2013,July 2013,True,True
+429,Zeb Alley:(July 2013)::Panagiotis Poikilidis:X; X is May 2014,May 2014,False,False
+430,Panagiotis Poikilidis:(May 2014)::Carla Laemmle:X; X is June 2014,June 2014,False,False
+431,Carla Laemmle:(June 2014)::Anne Francis:X; X is January 2011,January 2011,True,True
+432,Anne Francis:(January 2011)::Pat Summitt:X; X is June 2016,June 2016,False,False
+433,Pat Summitt:(June 2016)::Gustavo Eberto:X; X is September 2007,September 2007,True,True
+434,Gustavo Eberto:(September 2007)::Brendan Lyons:X; X is June 2016,September 2010,False,True
+435,Brendan Lyons:(September 2010)::Valentin Kornev:X; X is January 2010,November 2016,False,True
+436,Valentin Kornev:(November 2016)::Valdis MuiÅ_nieks:X; X is November 2013,November 2013,False,False
+437,Valdis MuiÅ_nieks:(November 2013)::Aase Bjerkholt:X; X is August 2012,August 2012,False,False
+438,Aase Bjerkholt:(August 2012)::Kostas Andriopoulos:X; X is February 2011,February 2011,False,False
+439,Kostas Andriopoulos:(February 2011)::Bud Andrews:X; X is March 2014,August 2014,False,True
+440,Bud Andrews:(August 2014)::Richard L. Williams:X; X is August 2013,February 2011,False,True
+441,Richard L. Williams:(February 2011)::Rory Markas:X; X is January 2010,January 2010,False,False
+442,Rory Markas:(January 2010)::Sparky Anderson:X; X is November 2010,November 2010,True,True
+443,Sparky Anderson:(November 2010)::Doug Buffone:X; X is April 2015,April 2015,True,True
+444,Doug Buffone:(April 2015)::Gilles Tremblay:X; X is December 2016,November 2014,False,True
+445,Gilles Tremblay:(November 2014)::Sir Peter Gwynn-Jones:X; X is August 2010,August 2010,True,True
+446,Sir Peter Gwynn-Jones:(August 2010)::Thomas S. Crow:X; X is November 2008,November 2008,False,False
+447,Thomas S. Crow:(November 2008)::Nevin Spence:X; X is November 2013,September 2012,False,True
+448,Nevin Spence:(September 2012)::Pablo Palazuelo:X; X is October 2012,October 2007,False,True
+449,Pablo Palazuelo:(October 2007)::Joe Krol:X; X is July 2012,December 2008,False,True
+450,Joe Krol:(December 2008)::Brian Cadle:X; X is November 2015,November 2015,False,False
+451,Brian Cadle:(November 2015)::Shelagh Delaney:X; X is November 2011,November 2011,False,False
+452,Shelagh Delaney:(November 2011)::Harvey Stevens:X; X is October 2010,December 2016,False,True
+453,Harvey Stevens:(December 2016)::Zarkus Poussa:X; X is November 2006,January 2016,False,True
+454,Zarkus Poussa:(January 2016)::Fred Whitfield:X; X is January 2013,January 2013,False,False
+455,Fred Whitfield:(January 2013)::Kay McFarland:X; X is August 2015,August 2015,False,False
+456,Kay McFarland:(August 2015)::Thomas Berger:X; X is July 2014,July 2014,True,True
+457,Thomas Berger:(July 2014)::Bonnie Lynn Fields:X; X is November 2012,November 2012,True,True
+458,Bonnie Lynn Fields:(November 2012)::Vladimir Popovkin:X; X is June 2014,June 2014,False,False
+459,Vladimir Popovkin:(June 2014)::William Wilson:X; X is May 2015,May 2015,False,False
+460,William Wilson:(May 2015)::Mohammed Bassiouni:X; X is September 2011,September 2011,False,False
+461,Mohammed Bassiouni:(September 2011)::John-David Schofield:X; X is October 2013,October 2013,False,False
+462,John-David Schofield:(October 2013)::Jack King:X; X is June 2015,June 2015,False,False
+463,Jack King:(June 2015)::Ajahn Maha Bua:X; X is July 2010,January 2011,True,False
+464,Ajahn Maha Bua:(January 2011)::Piergiorgio Nesti:X; X is December 2009,December 2009,False,False
+465,Piergiorgio Nesti:(December 2009)::Evelyn Keyes:X; X is July 2008,July 2008,True,True
+466,Evelyn Keyes:(July 2008)::Lloyd House:X; X is January 2015,January 2015,False,False
+467,Lloyd House:(January 2015)::Patricia Merbreier:X; X is April 2010,June 2011,False,True
+468,Patricia Merbreier:(June 2011)::Naken Kyrykbaev:X; X is April 2015,April 2015,False,False
+469,Naken Kyrykbaev:(April 2015)::Risley C. Triche:X; X is August 2008,June 2012,False,True
+470,Risley C. Triche:(June 2012)::William Mgimwa:X; X is February 2012,January 2014,False,True
+471,William Mgimwa:(January 2014)::RÃ©my Vogel:X; X is October 2016,October 2016,False,False
+472,RÃ©my Vogel:(October 2016)::Jasjit Singh:X; X is February 2014,August 2013,False,True
+473,Jasjit Singh:(August 2013)::George Kohut:X; X is September 2014,May 2014,False,True
+474,George Kohut:(May 2014)::Yuriy Dumchev:X; X is February 2011,February 2016,False,True
+475,Yuriy Dumchev:(February 2016)::Nao Takasugi:X; X is November 2009,November 2009,True,True
+476,Nao Takasugi:(November 2009)::Warwick Parer:X; X is March 2014,March 2014,False,False
+477,Warwick Parer:(March 2014)::Bob Chappuis:X; X is November 2010,June 2012,False,True
+478,Bob Chappuis:(June 2012)::John H. Reed:X; X is January 2012,October 2012,False,True
+479,John H. Reed:(October 2012)::Gordon Fairweather:X; X is December 2008,December 2008,False,False
+480,Gordon Fairweather:(December 2008)::Bill Werle:X; X is November 2010,November 2010,False,False
+481,Bill Werle:(November 2010)::Jack Gold:X; X is August 2015,August 2015,False,False
+482,Jack Gold:(August 2015)::Charles A. Hines:X; X is July 2013,July 2013,False,False
+483,Charles A. Hines:(July 2013)::Kurtis Haiu:X; X is April 2016,April 2016,True,True
+484,Kurtis Haiu:(April 2016)::Jean-Claude Gasigwa:X; X is January 2015,January 2015,True,True
+485,Jean-Claude Gasigwa:(January 2015)::Ib Olsen:X; X is November 2009,November 2009,False,False
+486,Ib Olsen:(November 2009)::Jan Wejchert:X; X is December 2016,October 2009,False,True
+487,Jan Wejchert:(October 2009)::Gamani Corea:X; X is January 2014,November 2013,False,True
+488,Gamani Corea:(November 2013)::Larry Block:X; X is October 2012,October 2012,False,False
+489,Larry Block:(October 2012)::Claude Lefebvre:X; X is January 2016,January 2016,False,False
+490,Claude Lefebvre:(January 2016)::Bronzell Miller:X; X is June 2013,December 2013,False,True
+491,Bronzell Miller:(December 2013)::Artur da TÃ¡vola:X; X is December 2015,May 2008,False,True
+492,Artur da TÃ¡vola:(May 2008)::Peter Liba:X; X is January 2011,June 2007,False,True
+493,Peter Liba:(June 2007)::Mordechai Eliyahu:X; X is June 2010,June 2010,True,True
+494,Mordechai Eliyahu:(June 2010)::Justin Marie Bomboko:X; X is December 2016,April 2014,False,True
+495,Justin Marie Bomboko:(April 2014)::Alan Hirschfield:X; X is January 2015,January 2015,False,False
+496,Alan Hirschfield:(January 2015)::Jay Van Noy:X; X is March 2016,November 2010,False,True
+497,Jay Van Noy:(November 2010)::Ken Lucas:X; X is August 2014,August 2014,False,False
+498,Ken Lucas:(August 2014)::Alba Bouwer:X; X is October 2010,October 2010,False,False
+499,Alba Bouwer:(October 2010)::Matt Price:X; X is November 2007,November 2007,False,False
+500,Matt Price:(November 2007)::Tom Marr:X; X is August 2013,July 2016,False,True
+501,Tom Marr:(July 2016)::Robert E. Cooper Sr.:X; X is July 2011,July 2016,True,False
+502,Robert E. Cooper Sr.:(July 2016)::John S. Boskovich:X; X is September 2006,September 2006,True,True
+503,John S. Boskovich:(September 2006)::Geraint Stanley Jones:X; X is July 2009,August 2015,False,True
+504,Geraint Stanley Jones:(August 2015)::Jim Freeman:X; X is August 2015,August 2015,False,False
+505,Jim Freeman:(August 2015)::Jess Cain:X; X is April 2013,February 2008,False,True
+506,Jess Cain:(February 2008)::Kenneth B. Lee:X; X is August 2016,December 2010,False,True
+507,Kenneth B. Lee:(December 2010)::Paul Meier:X; X is August 2011,August 2011,False,False
+508,Paul Meier:(August 2011)::Abbas-Ali Amid Zanjani:X; X is October 2011,October 2011,False,False
+509,Abbas-Ali Amid Zanjani:(October 2011)::Patricia Scott:X; X is December 2016,October 2016,False,True
+510,Patricia Scott:(October 2016)::Jimmy Walker:X; X is September 2014,July 2007,False,True
+511,Jimmy Walker:(July 2007)::MichÃ¨le Morgan:X; X is December 2014,December 2016,False,True
+512,MichÃ¨le Morgan:(December 2016)::Matt Carragher:X; X is December 2016,December 2016,False,False
+513,Matt Carragher:(December 2016)::Charles ToubÃ©:X; X is January 2006,August 2016,False,True
+514,Charles ToubÃ©:(August 2016)::Allan King:X; X is April 2010,June 2009,False,True
+515,Allan King:(June 2009)::Bob Crow:X; X is March 2014,March 2014,True,True
+516,Bob Crow:(March 2014)::Armando Tobar:X; X is May 2011,November 2016,False,True
+517,Armando Tobar:(November 2016)::John Henry Johnson:X; X is June 2011,June 2011,True,True
+518,John Henry Johnson:(June 2011)::Jacques Grimonpon:X; X is July 2014,January 2013,False,True
+519,Jacques Grimonpon:(January 2013)::Rose Francine RogombÃ©:X; X is November 2011,April 2015,False,True
+520,Rose Francine RogombÃ©:(April 2015)::Mike Kelly:X; X is December 2016,December 2016,False,False
+521,Mike Kelly:(December 2016)::Hazel Adair:X; X is February 2008,November 2015,False,True
+522,Hazel Adair:(November 2015)::Bille Brown:X; X is January 2013,January 2013,True,True
+523,Bille Brown:(January 2013)::Martial CÃ©lestin:X; X is September 2013,February 2011,False,True
+524,Martial CÃ©lestin:(February 2011)::Bobo Osborne:X; X is April 2011,April 2011,False,False
+525,Bobo Osborne:(April 2011)::Abdullah of Saudi Arabia:X; X is June 2014,January 2015,False,True
+526,Abdullah of Saudi Arabia:(January 2015)::Chris Sievey:X; X is February 2012,June 2010,False,True
+527,Chris Sievey:(June 2010)::Theodore T. Jones:X; X is March 2012,November 2012,False,True
+528,Theodore T. Jones:(November 2012)::Allen Jacobs:X; X is June 2011,April 2014,False,True
+529,Allen Jacobs:(April 2014)::John Reid:X; X is April 2014,January 2016,False,True
+530,John Reid:(January 2016)::Matthias Joseph Isuja:X; X is April 2016,April 2016,False,False
+531,Matthias Joseph Isuja:(April 2016)::Billy Ward:X; X is July 2016,August 2013,False,True
+532,Billy Ward:(August 2013)::Peter Yates:X; X is January 2011,January 2011,False,False
+533,Peter Yates:(January 2011)::Clint Ritchie:X; X is January 2009,January 2009,True,True
+534,Clint Ritchie:(January 2009)::Christina Grimmie:X; X is March 2016,June 2016,True,False
+535,Christina Grimmie:(June 2016)::Jim Pleass:X; X is February 2016,February 2016,False,False
+536,Jim Pleass:(February 2016)::Mary Lee Robb Cline:X; X is August 2006,August 2006,False,False
+537,Mary Lee Robb Cline:(August 2006)::Jack Gordon:X; X is May 2011,May 2011,False,False
+538,Jack Gordon:(May 2011)::Bobby McIlvenny:X; X is May 2016,May 2016,False,False
+539,Bobby McIlvenny:(May 2016)::Jean Baeza:X; X is July 2014,February 2011,False,True
+540,Jean Baeza:(February 2011)::Jean Melzer:X; X is April 2013,June 2013,False,True
+541,Jean Melzer:(June 2013)::Neil McNeill:X; X is March 2014,February 2009,False,True
+542,Neil McNeill:(February 2009)::Anne-Sylvie Mouzon:X; X is September 2013,September 2013,False,False
+543,Anne-Sylvie Mouzon:(September 2013)::John Olguin:X; X is April 2011,January 2011,False,True
+544,John Olguin:(January 2011)::George Ho:X; X is January 2015,June 2014,False,True
+545,George Ho:(June 2014)::Zina Bethune:X; X is October 2011,February 2012,True,False
+546,Zina Bethune:(February 2012)::Jim Appleby:X; X is January 2014,January 2014,False,False
+547,Jim Appleby:(January 2014)::Rafael Addiego Bruno:X; X is February 2014,February 2014,False,False
+548,Rafael Addiego Bruno:(February 2014)::Jesse Pintado:X; X is June 2011,August 2006,False,True
+549,Jesse Pintado:(August 2006)::Karl Kassulke:X; X is April 2009,October 2008,False,True
+550,Karl Kassulke:(October 2008)::Mickey Rose:X; X is December 2011,April 2013,False,True
+551,Mickey Rose:(April 2013)::Doug Griffin:X; X is July 2016,July 2016,False,False
+552,Doug Griffin:(July 2016)::Richard Rodney Bennett:X; X is January 2015,December 2012,False,True
+553,Richard Rodney Bennett:(December 2012)::Edward Albee:X; X is September 2016,September 2016,True,True
+554,Edward Albee:(September 2016)::Alvin Wiederspahn:X; X is December 2008,October 2014,False,True
+555,Alvin Wiederspahn:(October 2014)::Jean-Yves Besselat:X; X is March 2012,March 2012,False,False
+556,Jean-Yves Besselat:(March 2012)::Gerard Batliner:X; X is September 2016,June 2008,False,True
+557,Gerard Batliner:(June 2008)::Marcella Althaus-Reid:X; X is June 2016,February 2009,False,True
+558,Marcella Althaus-Reid:(February 2009)::JosÃ© Afonso Ribeiro:X; X is November 2009,November 2009,False,False
+559,JosÃ© Afonso Ribeiro:(November 2009)::John Treadgold:X; X is May 2011,February 2015,False,True
+560,John Treadgold:(February 2015)::Leslie Thomas:X; X is October 2014,May 2014,False,True
+561,"Leslie Thomas:(May 2014)::^ Megan McDonough (2012-08-09). ""John J. Phelan Jr.:X; X is August 2012",August 2012,False,False
+562,"^ Megan McDonough (2012-08-09). ""John J. Phelan Jr.:(August 2012)::Rauni Mollberg:X; X is August 2016",October 2007,False,True
+563,Rauni Mollberg:(October 2007)::Mufti Mohammad Sayeed:X; X is January 2016,January 2016,True,True
+564,Mufti Mohammad Sayeed:(January 2016)::Lonnie Mack:X; X is July 2010,April 2016,False,True
+565,Lonnie Mack:(April 2016)::Nicholas Katzenbach:X; X is July 2010,May 2012,False,True
+566,Nicholas Katzenbach:(May 2012)::Malcolm Browne:X; X is August 2012,August 2012,True,True
+567,Malcolm Browne:(August 2012)::Claire Betz:X; X is December 2014,February 2014,False,True
+568,Claire Betz:(February 2014)::Gisela Mota Ocampo:X; X is January 2016,January 2016,True,True
+569,Gisela Mota Ocampo:(January 2016)::Frazier Mohawk:X; X is December 2016,June 2012,False,True
+570,Frazier Mohawk:(June 2012)::Julio Grondona:X; X is January 2009,July 2014,False,True
+571,Julio Grondona:(July 2014)::Kathryn Joosten:X; X is June 2012,June 2012,True,True
+572,Kathryn Joosten:(June 2012)::Mogens Glistrup:X; X is July 2008,July 2008,False,False
+573,Mogens Glistrup:(July 2008)::Joyce Ingalls:X; X is August 2015,August 2015,False,False
+574,Joyce Ingalls:(August 2015)::Marpessa Dawn:X; X is August 2008,August 2008,True,True
+575,Marpessa Dawn:(August 2008)::Anne Pressly:X; X is October 2008,October 2008,True,True
+576,Anne Pressly:(October 2008)::Benny Woit:X; X is October 2014,December 2016,False,True
+577,Benny Woit:(December 2016)::Judi Ann Mason:X; X is July 2009,July 2009,True,True
+578,Judi Ann Mason:(July 2009)::Thomas Crowley:X; X is March 2015,August 2013,False,True
+579,Thomas Crowley:(August 2013)::Raymond Cusick:X; X is February 2013,February 2013,True,True
+580,Raymond Cusick:(February 2013)::Ivan Biakov:X; X is November 2009,November 2009,False,False
+581,Ivan Biakov:(November 2009)::Edmund Bruggmann:X; X is November 2016,June 2014,False,True
+582,Edmund Bruggmann:(June 2014)::Bill Dineen:X; X is March 2011,December 2016,False,True
+583,Bill Dineen:(December 2016)::Dick Giordano:X; X is April 2010,March 2010,True,False
+584,Dick Giordano:(March 2010)::Terence Rigby:X; X is February 2011,August 2008,False,True
+585,Terence Rigby:(August 2008)::Rosalie Ritz:X; X is April 2008,April 2008,False,False
+586,Rosalie Ritz:(April 2008)::Mauril BÃ©langer:X; X is August 2016,August 2016,True,True
+587,Mauril BÃ©langer:(August 2016)::Karlheinz BÃ¶hm:X; X is May 2014,May 2014,True,True
+588,Karlheinz BÃ¶hm:(May 2014)::Bob Bignall:X; X is August 2013,August 2013,False,False
+589,Bob Bignall:(August 2013)::Arthur Wightman:X; X is November 2014,January 2013,False,True
+590,Arthur Wightman:(January 2013)::Balram Jakhar:X; X is February 2016,February 2016,True,True
+591,Balram Jakhar:(February 2016)::Elmer Wingate:X; X is October 2013,February 2016,False,True
+592,Elmer Wingate:(February 2016)::Lucio Quarantotto:X; X is July 2012,July 2012,True,True
+593,Lucio Quarantotto:(July 2012)::Chet Giermak:X; X is March 2015,March 2015,False,False
+594,Chet Giermak:(March 2015)::Peter Callanan:X; X is October 2009,October 2009,False,False
+595,Peter Callanan:(October 2009)::Dariush Homayoon:X; X is January 2011,January 2011,False,False
+596,Dariush Homayoon:(January 2011)::Leo Rwabwogo:X; X is September 2013,January 2009,False,True
+597,Leo Rwabwogo:(January 2009)::Sunil Gudge:X; X is November 2009,May 2016,False,True
+598,Sunil Gudge:(May 2016)::Sheila Tracy:X; X is September 2014,September 2014,True,True
+599,Sheila Tracy:(September 2014)::Jack Narz:X; X is October 2008,October 2008,True,True
+600,Jack Narz:(October 2008)::Alan Woodward:X; X is January 2012,May 2015,False,True
+601,Alan Woodward:(May 2015)::Daryl Duke:X; X is December 2014,October 2006,False,True
+602,Daryl Duke:(October 2006)::Jack Fleck:X; X is March 2014,March 2014,False,False
+603,Jack Fleck:(March 2014)::Lou Tsioropoulos:X; X is August 2015,August 2015,True,True
+604,Lou Tsioropoulos:(August 2015)::RenÃ©e Asherson:X; X is October 2014,October 2014,False,False
+605,RenÃ©e Asherson:(October 2014)::Erich Zenger:X; X is April 2010,April 2010,False,False
+606,Erich Zenger:(April 2010)::Evelyn Gandy:X; X is December 2016,December 2007,False,True
+607,Evelyn Gandy:(December 2007)::Gilles DubÃ©:X; X is September 2016,September 2016,False,False
+608,Gilles DubÃ©:(September 2016)::Craig Norgate:X; X is July 2015,July 2015,False,False
+609,Craig Norgate:(July 2015)::Richard Blackwell:X; X is October 2011,October 2008,False,True
+610,Richard Blackwell:(October 2008)::Tommy Chesbro:X; X is February 2009,September 2006,False,True
+611,Tommy Chesbro:(September 2006)::Paul Rogers:X; X is April 2014,October 2008,False,True
+612,Paul Rogers:(October 2008)::James Baker Hall:X; X is June 2009,June 2009,True,True
+613,James Baker Hall:(June 2009)::JÃºlio Redecker:X; X is July 2007,July 2007,True,True
+614,JÃºlio Redecker:(July 2007)::Kristian Digby:X; X is March 2015,March 2010,False,True
+615,Kristian Digby:(March 2010)::Masaharu Matsushita:X; X is June 2007,July 2012,False,True
+616,Masaharu Matsushita:(July 2012)::Dody Goodman:X; X is June 2008,June 2008,True,True
+617,Dody Goodman:(June 2008)::Lydia Lamaison:X; X is March 2016,February 2012,True,False
+618,Lydia Lamaison:(February 2012)::Guillermo AbadÃ_a Morales:X; X is September 2013,January 2010,False,True
+619,Guillermo AbadÃ_a Morales:(January 2010)::Walter Conahan:X; X is March 2015,April 2015,False,True
+620,Walter Conahan:(April 2015)::Louise Currie:X; X is September 2013,September 2013,True,True
+621,Louise Currie:(September 2013)::Parekura Horomia:X; X is April 2013,April 2013,True,True
+622,Parekura Horomia:(April 2013)::Chad Robinson:X; X is December 2016,December 2016,True,True
+623,Chad Robinson:(December 2016)::Lawrence Paul:X; X is May 2014,May 2014,False,False
+624,Lawrence Paul:(May 2014)::Dame Beryl Bainbridge:X; X is July 2010,July 2010,True,True
+625,Dame Beryl Bainbridge:(July 2010)::Krzysztof KozÅ‚owski:X; X is March 2013,March 2013,False,False
+626,Krzysztof KozÅ‚owski:(March 2013)::Helen F. Holt:X; X is July 2015,July 2015,False,False
+627,Helen F. Holt:(July 2015)::Paul Massey:X; X is January 2016,October 2009,False,True
+628,Paul Massey:(October 2009)::Bennie Swain:X; X is March 2016,June 2008,True,False
+629,Bennie Swain:(June 2008)::Christophe de Margerie:X; X is April 2012,October 2014,False,True
+630,Christophe de Margerie:(October 2014)::Cliff Meely:X; X is July 2016,May 2013,False,True
+631,Cliff Meely:(May 2013)::Mansour Eid:X; X is July 2013,July 2013,False,False
+632,Mansour Eid:(July 2013)::Bob Rush:X; X is October 2011,March 2011,False,True
+633,Bob Rush:(March 2011)::Gerry Bron:X; X is June 2012,June 2012,False,False
+634,Gerry Bron:(June 2012)::George Horse-Capture:X; X is March 2009,April 2013,False,True
+635,George Horse-Capture:(April 2013)::Bill Warner:X; X is January 2013,July 2013,False,True
+636,Bill Warner:(July 2013)::GÃ©rard Rinaldi:X; X is July 2016,March 2012,False,True
+637,GÃ©rard Rinaldi:(March 2012)::Steve Shagan:X; X is November 2015,November 2015,False,False
+638,Steve Shagan:(November 2015)::Yngve Moe:X; X is July 2008,April 2013,False,True
+639,Yngve Moe:(April 2013)::Bob Coburn:X; X is December 2016,December 2016,True,True
+640,Bob Coburn:(December 2016)::Lou Brissie:X; X is August 2013,November 2013,False,True
+641,Lou Brissie:(November 2013)::Ashok Ghosh:X; X is February 2008,March 2016,False,True
+642,Ashok Ghosh:(March 2016)::Colleen Walker:X; X is December 2012,December 2012,False,False
+643,Colleen Walker:(December 2012)::Patsy Byrne:X; X is June 2014,June 2014,True,True
+644,Patsy Byrne:(June 2014)::Anders Buraas:X; X is May 2010,May 2010,False,False
+645,Anders Buraas:(May 2010)::Piers Merchant:X; X is January 2013,September 2009,False,True
+646,Piers Merchant:(September 2009)::Joe Blanchard:X; X is January 2014,March 2012,False,True
+647,Joe Blanchard:(March 2012)::Susan Gordon:X; X is September 2011,December 2011,False,True
+648,Susan Gordon:(December 2011)::Sukekiyo Kameyama:X; X is January 2013,January 2013,False,False
+649,Sukekiyo Kameyama:(January 2013)::Chief Zee:X; X is November 2010,July 2016,False,True
+650,Chief Zee:(July 2016)::Sark Arslanian:X; X is December 2016,December 2016,False,False
+651,Sark Arslanian:(December 2016)::Ed Skinner:X; X is January 2015,January 2015,False,False
+652,Ed Skinner:(January 2015)::Ere Kokkonen:X; X is July 2014,October 2008,False,True
+653,Ere Kokkonen:(October 2008)::Marek Grechuta:X; X is October 2006,October 2006,False,False
+654,Marek Grechuta:(October 2006)::Gustavo Sondermann:X; X is May 2013,April 2011,False,True
+655,"Gustavo Sondermann:(April 2011)::^ New York Times (2012-09-15). ""Tony Goldman:X; X is June 2012",September 2012,False,True
+656,"^ New York Times (2012-09-15). ""Tony Goldman:(September 2012)::Apirana Mahuika:X; X is February 2015",February 2015,True,True
+657,Apirana Mahuika:(February 2015)::Moisis Michail Bourlas:X; X is March 2011,March 2011,False,False
+658,Moisis Michail Bourlas:(March 2011)::David Dore:X; X is December 2015,April 2016,False,True
+659,David Dore:(April 2016)::IstvÃ¡n Csurka:X; X is January 2013,February 2012,False,True
+660,IstvÃ¡n Csurka:(February 2012)::Frank E. Maestrone:X; X is May 2007,May 2007,False,False
+661,Frank E. Maestrone:(May 2007)::Greg Cook:X; X is January 2012,January 2012,False,False
+662,Greg Cook:(January 2012)::Daouda Sow:X; X is July 2011,December 2009,False,True
+663,Daouda Sow:(December 2009)::Abbas Bahri:X; X is January 2013,January 2016,False,True
+664,Abbas Bahri:(January 2016)::Tran Dinh Truong:X; X is May 2012,May 2012,False,False
+665,Tran Dinh Truong:(May 2012)::ÃÅrpÃ¡d GÃ¶ncz:X; X is March 2009,October 2015,False,True
+666,ÃÅrpÃ¡d GÃ¶ncz:(October 2015)::Mary Fenech Adami:X; X is July 2011,July 2011,False,False
+667,Mary Fenech Adami:(July 2011)::Patrick Manning:X; X is July 2016,July 2016,True,True
+668,Patrick Manning:(July 2016)::PÃ¡l Csernai:X; X is February 2016,September 2013,False,True
+669,PÃ¡l Csernai:(September 2013)::Akira Tonomura:X; X is January 2013,May 2012,False,True
+670,Akira Tonomura:(May 2012)::Nikolay Olyalin:X; X is November 2009,November 2009,True,True
+671,Nikolay Olyalin:(November 2009)::Susan Tyrrell:X; X is June 2012,June 2012,True,True
+672,Susan Tyrrell:(June 2012)::Percy Smith:X; X is April 2011,January 2009,False,True
+673,Percy Smith:(January 2009)::Akiyuki Nosaka:X; X is December 2015,December 2015,True,True
+674,Akiyuki Nosaka:(December 2015)::Natale H. Bellocchi:X; X is August 2015,November 2014,True,False
+675,Natale H. Bellocchi:(November 2014)::Suprovat Chakravarty:X; X is July 2015,December 2015,False,True
+676,Suprovat Chakravarty:(December 2015)::Michael C. Janeway:X; X is April 2014,April 2014,True,True
+677,Michael C. Janeway:(April 2014)::E. M. Nathanson:X; X is April 2016,April 2016,False,False
+678,E. M. Nathanson:(April 2016)::Bobby Nicol:X; X is July 2012,July 2012,False,False
+679,Bobby Nicol:(July 2012)::JÃºlio Tavares Rebimbas:X; X is May 2012,December 2010,False,True
+680,JÃºlio Tavares Rebimbas:(December 2010)::Graham Atkinson:X; X is December 2013,November 2015,False,True
+681,Graham Atkinson:(November 2015)::Edward Judd:X; X is January 2012,February 2009,False,True
+682,Edward Judd:(February 2009)::LÃ©on HÃ©gÃ©lÃ©:X; X is March 2016,February 2014,False,True
+683,LÃ©on HÃ©gÃ©lÃ©:(February 2014)::Peter Rajah:X; X is December 2012,November 2014,False,True
+684,Peter Rajah:(November 2014)::Takahiro Tamura:X; X is April 2015,May 2006,False,True
+685,Takahiro Tamura:(May 2006)::Ola O. RÃ¸ssum:X; X is May 2012,May 2012,False,False
+686,Ola O. RÃ¸ssum:(May 2012)::Sir John Tavener:X; X is November 2013,November 2013,True,True
+687,Sir John Tavener:(November 2013)::Wayne Tippit:X; X is February 2007,August 2009,False,True
+688,Wayne Tippit:(August 2009)::Waldemar Levy Cardoso:X; X is May 2009,May 2009,True,True
+689,Waldemar Levy Cardoso:(May 2009)::Rudolf MÃ¶ssbauer:X; X is September 2011,September 2011,False,False
+690,Rudolf MÃ¶ssbauer:(September 2011)::Bel Kaufman:X; X is January 2014,July 2014,False,True
+691,Bel Kaufman:(July 2014)::Ram Niwas Mirdha:X; X is January 2010,January 2010,False,False
+692,Ram Niwas Mirdha:(January 2010)::David Langner:X; X is November 2010,April 2014,False,True
+693,David Langner:(April 2014)::Rudi Vis:X; X is May 2010,May 2010,True,True
+694,Rudi Vis:(May 2010)::Nabil Hemani:X; X is March 2016,June 2014,False,True
+695,Nabil Hemani:(June 2014)::Leszek Drogosz:X; X is September 2012,September 2012,False,False
+696,Leszek Drogosz:(September 2012)::Perry Lopez:X; X is July 2015,February 2008,False,True
+697,Perry Lopez:(February 2008)::Conrad Phillips:X; X is January 2016,January 2016,True,True
+698,Conrad Phillips:(January 2016)::Karsten Lund:X; X is May 2015,May 2015,False,False
+699,Karsten Lund:(May 2015)::Darrin Winston:X; X is April 2013,August 2008,False,True
+700,Darrin Winston:(August 2008)::Stewart Udall:X; X is March 2010,March 2010,True,True
+701,Stewart Udall:(March 2010)::Mike Shipley:X; X is July 2013,July 2013,False,False
+702,Mike Shipley:(July 2013)::Wim van der Voort:X; X is October 2016,October 2016,False,False
+703,Wim van der Voort:(October 2016)::Kojima Nobuo:X; X is October 2006,October 2006,False,False
+704,Kojima Nobuo:(October 2006)::Sam Greenlee:X; X is May 2014,May 2014,True,True
+705,Sam Greenlee:(May 2014)::Ursula Franklin:X; X is July 2016,July 2016,True,True
+706,Ursula Franklin:(July 2016)::Austin M. Lee:X; X is March 2011,June 2013,False,True
+707,Austin M. Lee:(June 2013)::Harlan Erwin Mitchell:X; X is September 2011,September 2011,False,False
+708,Harlan Erwin Mitchell:(September 2011)::Gene Vance:X; X is February 2012,February 2012,False,False
+709,Gene Vance:(February 2012)::Kennett Love:X; X is January 2011,May 2013,False,True
+710,Kennett Love:(May 2013)::Sir Geoffrey de Bellaigue:X; X is August 2016,January 2013,False,True
+711,Sir Geoffrey de Bellaigue:(January 2013)::Guido Nicheli:X; X is November 2015,October 2007,False,True
+712,Guido Nicheli:(October 2007)::Jean-Jacques Guissart:X; X is September 2008,September 2008,False,False
+713,Jean-Jacques Guissart:(September 2008)::Gidget Gein:X; X is October 2008,October 2008,True,True
+714,Gidget Gein:(October 2008)::Jaroslav Cardal:X; X is May 2010,May 2010,False,False
+715,Jaroslav Cardal:(May 2010)::Jerome Reppa:X; X is October 2014,October 2014,False,False
+716,Jerome Reppa:(October 2014)::Vicente Paterno:X; X is February 2016,November 2014,False,True
+717,Vicente Paterno:(November 2014)::Dimitra Arliss:X; X is January 2012,January 2012,True,True
+718,Dimitra Arliss:(January 2012)::Ghulam Azam:X; X is October 2014,October 2014,True,True
+719,Ghulam Azam:(October 2014)::Robert A. Young:X; X is October 2007,October 2007,False,False
+720,Robert A. Young:(October 2007)::Ourasi:X; X is January 2013,January 2013,False,False
+721,Ourasi:(January 2013)::Francis Matthews:X; X is June 2014,June 2014,True,True
+722,Francis Matthews:(June 2014)::Rena Golden:X; X is September 2011,March 2013,True,False
+723,Rena Golden:(March 2013)::Alex Webster:X; X is July 2010,March 2012,False,True
+724,Alex Webster:(March 2012)::Mykola Plaviuk:X; X is February 2014,March 2012,False,True
+725,Mykola Plaviuk:(March 2012)::Mike DeStefano:X; X is January 2012,March 2011,False,True
+726,Mike DeStefano:(March 2011)::Maggie Stables:X; X is September 2014,September 2014,True,True
+727,Maggie Stables:(September 2014)::Julien Guiomar:X; X is November 2010,November 2010,False,False
+728,Julien Guiomar:(November 2010)::P. W. Botha:X; X is May 2008,October 2006,False,True
+729,P. W. Botha:(October 2006)::Bill Nunn:X; X is May 2014,May 2014,False,False
+730,Bill Nunn:(May 2014)::Mandawuy Yunupingu:X; X is October 2011,June 2013,False,True
+731,Mandawuy Yunupingu:(June 2013)::Robert Lipshutz:X; X is November 2010,November 2010,False,False
+732,Robert Lipshutz:(November 2010)::Ray McFall:X; X is June 2015,January 2015,False,True
+733,Ray McFall:(January 2015)::Ilene Woods:X; X is July 2010,July 2010,False,False
+734,Ilene Woods:(July 2010)::Jean-Marie Berckmans:X; X is August 2008,August 2008,True,True
+735,Jean-Marie Berckmans:(August 2008)::Natasha Richardson:X; X is March 2009,March 2009,True,True
+736,Natasha Richardson:(March 2009)::Al Rosen:X; X is March 2015,March 2015,False,False
+737,Al Rosen:(March 2015)::Albert West:X; X is May 2009,June 2015,False,True
+738,Albert West:(June 2015)::J. Robert Hooper:X; X is May 2016,January 2008,False,True
+739,J. Robert Hooper:(January 2008)::Peter Sutton:X; X is March 2013,March 2013,False,False
+740,Peter Sutton:(March 2013)::Gavin Clark:X; X is February 2015,February 2015,False,False
+741,Gavin Clark:(February 2015)::Mitchell Todd:X; X is August 2012,August 2012,False,False
+742,Mitchell Todd:(August 2012)::Bernardo ÃÅlvarez Herrera:X; X is November 2016,November 2016,False,False
+743,Bernardo ÃÅlvarez Herrera:(November 2016)::Frank Swaelen:X; X is March 2013,December 2007,False,True
+744,Frank Swaelen:(December 2007)::Sir Ian McKay:X; X is April 2014,February 2014,False,True
+745,Sir Ian McKay:(February 2014)::Raul Cortez:X; X is October 2013,July 2006,False,True
+746,Raul Cortez:(July 2006)::Agostinho Januszewicz:X; X is March 2011,March 2011,False,False
+747,Agostinho Januszewicz:(March 2011)::Wilfried Martens:X; X is April 2015,October 2013,False,True
+748,Wilfried Martens:(October 2013)::Bernie Worrell:X; X is August 2010,June 2016,False,True
+749,Bernie Worrell:(June 2016)::Barney Schultz:X; X is January 2016,September 2015,False,True
+750,Barney Schultz:(September 2015)::Charles Vanik:X; X is August 2007,August 2007,True,True
+751,Charles Vanik:(August 2007)::Rudy Andabaker:X; X is September 2012,September 2016,False,True
+752,Rudy Andabaker:(September 2016)::Romeo Olea:X; X is June 2011,June 2011,True,True
+753,Romeo Olea:(June 2011)::Tomas TranstrÃ¶mer:X; X is March 2015,March 2015,False,False
+754,Tomas TranstrÃ¶mer:(March 2015)::MicheÃ¡l O'Brien:X; X is May 2015,May 2015,False,False
+755,MicheÃ¡l O'Brien:(May 2015)::Beata Brookes:X; X is November 2011,August 2015,False,True
+756,Beata Brookes:(August 2015)::Lorena Gale:X; X is June 2009,June 2009,True,True
+757,Lorena Gale:(June 2009)::E. L. Doctorow:X; X is August 2012,July 2015,False,True
+758,E. L. Doctorow:(July 2015)::Judy Baar Topinka:X; X is November 2012,December 2014,False,True
+759,Judy Baar Topinka:(December 2014)::ErnÃ¢ni Lopes:X; X is December 2010,December 2010,False,False
+760,ErnÃ¢ni Lopes:(December 2010)::Richard LeParmentier:X; X is July 2011,April 2013,False,True
+761,Richard LeParmentier:(April 2013)::Charles Gyamfi:X; X is September 2015,September 2015,True,True
+762,Charles Gyamfi:(September 2015)::Ernst Albrecht:X; X is December 2014,December 2014,True,True
+763,Ernst Albrecht:(December 2014)::Darren Seals:X; X is September 2016,September 2016,True,True
+764,Darren Seals:(September 2016)::Frank Dickens:X; X is January 2011,July 2016,False,True
+765,Frank Dickens:(July 2016)::Paul Torgersen:X; X is March 2015,March 2015,True,True
+766,Paul Torgersen:(March 2015)::Otto Brandenburg:X; X is March 2007,March 2007,False,False
+767,Otto Brandenburg:(March 2007)::Frank Torley:X; X is March 2016,March 2016,True,True
+768,Frank Torley:(March 2016)::Anna Yablonskaya:X; X is March 2010,January 2011,False,True
+769,Anna Yablonskaya:(January 2011)::Sir Arthur C. Clarke:X; X is February 2009,March 2008,False,True
+770,Sir Arthur C. Clarke:(March 2008)::Ray Columbus:X; X is November 2013,November 2016,True,False
+771,Ray Columbus:(November 2016)::Alexey Chervonenkis:X; X is September 2014,September 2014,False,False
+772,Alexey Chervonenkis:(September 2014)::David Parland:X; X is August 2011,March 2013,False,True
+773,David Parland:(March 2013)::William A. Rusher:X; X is May 2008,April 2011,False,True
+774,William A. Rusher:(April 2011)::Paz YrarrÃ¡zaval:X; X is March 2012,April 2010,False,True
+775,Paz YrarrÃ¡zaval:(April 2010)::Gisela Karau:X; X is April 2010,April 2010,False,False
+776,Gisela Karau:(April 2010)::Jerry McMorris:X; X is May 2012,May 2012,True,True
+777,Jerry McMorris:(May 2012)::Laza Ristovski:X; X is February 2014,October 2007,False,True
+778,Laza Ristovski:(October 2007)::VladimÃ_r Kobranov:X; X is October 2012,October 2015,False,True
+779,VladimÃ_r Kobranov:(October 2015)::B.J.Divan:X; X is August 2009,March 2012,False,True
+780,B.J.Divan:(March 2012)::Sherman Parker:X; X is September 2008,September 2008,False,False
+781,Sherman Parker:(September 2008)::Armando Villanueva:X; X is April 2013,April 2013,False,False
+782,Armando Villanueva:(April 2013)::Robert L. Howard:X; X is December 2009,December 2009,True,True
+783,Robert L. Howard:(December 2009)::Antony Gibbs:X; X is August 2015,February 2016,False,True
+784,Antony Gibbs:(February 2016)::Luciano Emmer:X; X is November 2013,September 2009,False,True
+785,Luciano Emmer:(September 2009)::Susanna Foster:X; X is January 2009,January 2009,False,False
+786,Susanna Foster:(January 2009)::Eneas Perdomo:X; X is February 2011,February 2011,True,True
+787,Eneas Perdomo:(February 2011)::Karine Kazinian:X; X is December 2012,December 2012,False,False
+788,Karine Kazinian:(December 2012)::Barry Hines:X; X is March 2016,March 2016,True,True
+789,Barry Hines:(March 2016)::George Nicholaw:X; X is August 2014,August 2014,False,False
+790,George Nicholaw:(August 2014)::George S. Irving:X; X is December 2016,December 2016,True,True
+791,George S. Irving:(December 2016)::Freddie Solomon:X; X is February 2012,February 2012,True,True
+792,Freddie Solomon:(February 2012)::Wang Dongxing:X; X is August 2015,August 2015,True,True
+793,Wang Dongxing:(August 2015)::Marvin Mandel:X; X is August 2013,August 2015,False,True
+794,Marvin Mandel:(August 2015)::Gerhard Zwerenz:X; X is July 2015,July 2015,False,False
+795,Gerhard Zwerenz:(July 2015)::Marcelo Moren Brito:X; X is September 2015,September 2015,False,False
+796,Marcelo Moren Brito:(September 2015)::Bill Varney:X; X is April 2011,April 2011,False,False
+797,Bill Varney:(April 2011)::Ian Crawford:X; X is November 2007,November 2007,False,False
+798,Ian Crawford:(November 2007)::Jophery Brown:X; X is November 2012,January 2014,False,True
+799,Jophery Brown:(January 2014)::Rita Gam:X; X is March 2016,March 2016,True,True
+800,Rita Gam:(March 2016)::Lorin Maazel:X; X is July 2014,July 2014,True,True
+801,Lorin Maazel:(July 2014)::Saad Al-Abdullah Al-Salim Al-Sabah:X; X is June 2014,May 2008,False,True
+802,Saad Al-Abdullah Al-Salim Al-Sabah:(May 2008)::Patrick Ricard:X; X is April 2014,August 2012,False,True
+803,Patrick Ricard:(August 2012)::Albert Naughton:X; X is June 2016,September 2013,False,True
+804,Albert Naughton:(September 2013)::Lou Watson:X; X is May 2012,May 2012,False,False
+805,Lou Watson:(May 2012)::Zillur Rahman:X; X is March 2013,March 2013,True,True
+806,Zillur Rahman:(March 2013)::Francisco Xavier do Amaral:X; X is March 2012,March 2012,False,False
+807,Francisco Xavier do Amaral:(March 2012)::Imrich GablechÂ (cs):X; X is July 2015,December 2016,False,True
+808,Imrich GablechÂ (cs):(December 2016)::Michel Galabru:X; X is November 2010,January 2016,False,True
+809,Michel Galabru:(January 2016)::JosÃ© Gustavo Angel RamÃ_rez:X; X is June 2016,February 2013,False,True
+810,JosÃ© Gustavo Angel RamÃ_rez:(February 2013)::Aharon Lichtenstein:X; X is April 2015,April 2015,True,True
+811,Aharon Lichtenstein:(April 2015)::Felix Bowness:X; X is September 2009,September 2009,False,False
+812,Felix Bowness:(September 2009)::Sir Ellis Clarke:X; X is December 2010,December 2010,True,True
+813,Sir Ellis Clarke:(December 2010)::Ingvar Rydell:X; X is December 2014,June 2013,False,True
+814,Ingvar Rydell:(June 2013)::Don Sharp:X; X is December 2011,December 2011,False,False
+815,Don Sharp:(December 2011)::Giorgos Pavlidis:X; X is October 2016,October 2016,False,False
+816,Giorgos Pavlidis:(October 2016)::William S. Richardson:X; X is June 2010,June 2010,False,False
+817,William S. Richardson:(June 2010)::T. Sailo:X; X is July 2016,March 2015,False,True
+818,T. Sailo:(March 2015)::Angelo Henderson:X; X is February 2014,February 2014,True,True
+819,Angelo Henderson:(February 2014)::Dick Wilson:X; X is December 2014,November 2007,False,True
+820,Dick Wilson:(November 2007)::^ Martin:X; X is January 2010,January 2012,False,True
+821,^ Martin:(January 2012)::Tassos Papadopoulos:X; X is December 2008,December 2008,True,True
+822,Tassos Papadopoulos:(December 2008)::Liam Tuohy:X; X is August 2011,August 2016,True,False
+823,Liam Tuohy:(August 2016)::Mervyn M. Dymally:X; X is October 2012,October 2012,True,True
+824,Mervyn M. Dymally:(October 2012)::Russell Means:X; X is October 2012,October 2012,False,False
+825,Russell Means:(October 2012)::Kazi Lhendup Dorjee:X; X is July 2007,July 2007,False,False
+826,Kazi Lhendup Dorjee:(July 2007)::Erico Aumentado:X; X is December 2012,December 2012,True,True
+827,Erico Aumentado:(December 2012)::Charley van de Weerd:X; X is October 2015,February 2008,False,True
+828,Charley van de Weerd:(February 2008)::Wong Lam:X; X is December 2014,March 2016,False,True
+829,Wong Lam:(March 2016)::Peter Hallock:X; X is December 2010,April 2014,False,True
+830,Peter Hallock:(April 2014)::Bob Hopkins:X; X is April 2013,May 2015,False,True
+831,Bob Hopkins:(May 2015)::JosÃ© RamÃ_n Herrero Merediz:X; X is May 2011,March 2016,False,True
+832,JosÃ© RamÃ_n Herrero Merediz:(March 2016)::Paul Galloway:X; X is November 2014,February 2009,False,True
+833,Paul Galloway:(February 2009)::Matti Hagman:X; X is April 2015,October 2016,False,True
+834,Matti Hagman:(October 2016)::Maj-Len GrÃ¶nholm:X; X is June 2009,June 2009,False,False
+835,Maj-Len GrÃ¶nholm:(June 2009)::Rhodes Reason:X; X is December 2014,December 2014,True,True
+836,Rhodes Reason:(December 2014)::GaÅ¡o KneÅ_eviÄ‡:X; X is March 2014,March 2014,False,False
+837,GaÅ¡o KneÅ_eviÄ‡:(March 2014)::Besik Kudukhov:X; X is May 2011,December 2013,False,True
+838,Besik Kudukhov:(December 2013)::Eduardo Prado Coelho:X; X is January 2013,August 2007,False,True
+839,Eduardo Prado Coelho:(August 2007)::Mansour Hobeika:X; X is April 2011,October 2014,False,True
+840,Mansour Hobeika:(October 2014)::Bill Snowden:X; X is June 2016,June 2016,False,False
+841,Bill Snowden:(June 2016)::Carmelita GonzÃ¡lez:X; X is April 2010,April 2010,False,False
+842,Carmelita GonzÃ¡lez:(April 2010)::Louise Wilson:X; X is May 2014,May 2014,True,True
+843,Louise Wilson:(May 2014)::Glenn Frey:X; X is January 2016,January 2016,True,True
+844,Glenn Frey:(January 2016)::Henk Hofs:X; X is February 2011,October 2011,False,True
+845,Henk Hofs:(October 2011)::Karl Baumgartner:X; X is March 2014,March 2014,True,True
+846,Karl Baumgartner:(March 2014)::Robin Fletcher:X; X is February 2015,January 2016,False,True
+847,Robin Fletcher:(January 2016)::Bob Babbitt:X; X is August 2011,July 2012,False,True
+848,Bob Babbitt:(July 2012)::Emile Ford:X; X is November 2011,April 2016,False,True

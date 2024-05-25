@@ -1,0 +1,21 @@
+,Prompt,Analogical Answer,Technical Answer,Response,Status
+0,Jorg Haider:(1950-01-26)::George Vecsey:X,1939-07-04,1940-07-04,"X is the birth date of George Vecsey, which is not provided in the question.",Fully Wrong
+1,Jorg Haider:(1950-01-26)::Alicia Keys:X,1980-01-25,1981-01-25,1975-01-25,Fully Wrong
+2,Jorg Haider:(1950-01-26)::William T Esrey:X,1940-01-01,1940-11-15,Unknown,Fully Wrong
+3,Jorg Haider:(1950-01-26)::Arthur Laurents:X,1918-07-14,1917-07-14,Arthur Laurents:(1917-07-14),Technically Correct
+4,Jorg Haider:(1950-01-26)::Christoph von Dohnanyi:X,1929-09-08,1929-06-08,Unknown,Fully Wrong
+5,Jorg Haider:(1950-01-26)::Donald L Evans:X,1946-07-26,1946-07-27,X is the date of birth of Donald L Evans.,Fully Wrong
+6,Jorg Haider:(1950-01-26)::Kathleen Hall Jamieson:X,1946-01-01,1946-02-22,There is not enough information to determine what X represents.,Fully Wrong
+7,Jorg Haider:(1950-01-26)::Elizabeth S Grubman:X,1971-01-30,1976-01-30,"X is the birthdate of Elizabeth S Grubman, which is unknown based on the provided information.",Fully Wrong
+8,Petr Korda:(1968-01-23)::George Vecsey:X,1939-07-04,1940-07-04,X is unknown or unspecified.,Fully Wrong
+9,Petr Korda:(1968-01-23)::Alicia Keys:X,1980-01-25,1981-01-25,1981-01-25,Technically Correct
+10,Petr Korda:(1968-01-23)::William T Esrey:X,1940-01-01,1940-11-15,Unknown.,Fully Wrong
+11,Petr Korda:(1968-01-23)::Arthur Laurents:X,1918-07-14,1917-07-14,Unknown,Fully Wrong
+12,Petr Korda:(1968-01-23)::Christoph von Dohnanyi:X,1929-09-08,1929-06-08,1949-09-08,Fully Wrong
+13,Petr Korda:(1968-01-23)::Donald L Evans:X,1946-07-26,1946-07-27,X is Donald L Evans's birth date.,Fully Wrong
+14,Petr Korda:(1968-01-23)::Kathleen Hall Jamieson:X,1946-01-01,1946-02-22,X is unknown or not given in the provided information.,Fully Wrong
+15,Petr Korda:(1968-01-23)::Elizabeth S Grubman:X,1971-01-30,1976-01-30,Unknown,Fully Wrong
+16,Ariel Sharon:(1928-02-26)::George Vecsey:X,1939-07-04,1940-07-04,World War II or 1939-1945,Fully Wrong
+17,Ariel Sharon:(1928-02-26)::Alicia Keys:X,1980-01-25,1981-01-25,"-
+not applicable.",Fully Wrong
+18,Ariel Sharon:(1928-02-26)::William T Esrey:X,1940-01-01,1940-11-15,Unknown or not given.,Fully Wrong

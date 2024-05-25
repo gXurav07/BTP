@@ -1,0 +1,11 @@
+,Prompt,Answer,GPT-reply,Status
+0,Johan Santana:(Venezuela)::Lionel Messi:X; what is X?,Argentina,Argentina,True
+1,Sergio Agüero:(Argentina)::Carlos Dunlap:X; what is X?,United States,X is the United States.,True
+2,Dirk Nowitzki:(Germany)::Joe Haden:X; what is X?,United States,United States,True
+3,Steven Gerrard:(England)::Novak Djokovic:X; what is X?,Serbia,Serbia,True
+4,Serena Williams:(United States)::Derrick Rose:X; what is X?,United States,Chicago Bulls,False
+5,Matt Ryan:(United States)::Cristiano Ronaldo:X; what is X?,Portugal,Portugal,True
+6,Matt Cain:(United States)::Mesut Özil:X; what is X?,Germany,Germany,True
+7,Robinson Cano:(Dominican Republic)::Jeff Gordon:X; what is X?,United States,USA,False
+8,Manny Pacquiao:(Philippines)::Zack Greinke:X; what is X?,United States,United States,True
+9,Adam Scott:(Australia)::Joe Mauer:X; what is X?,United States,United States,True

@@ -1,0 +1,71 @@
+Person: Arnold Fine 	|	 Death Date: September 2014 	|	 Response: July 2012
+Person: Beverly Fawell 	|	 Death Date: June 2013 	|	 Response: August 2012
+Person: Raymond Daniels 	|	 Death Date: January 2008 	|	 Response: Raymond Daniels passed away in June 2022.
+Person: Collin Wilcox 	|	 Death Date: October 2009 	|	 Response: October 2009.
+Person: Larry Turner 	|	 Death Date: November 2009 	|	 Response: December 2020
+Person: Motoichi Kumagai 	|	 Death Date: November 2010 	|	 Response: February 2020
+Person: JoaquÃ_n PiÃ±a Batllevell 	|	 Death Date: July 2013 	|	 Response: October 2010
+Person: Mimi Darwish 	|	 Death Date: December 2011 	|	 Response: June 2021.
+Person: Vladimir Kesarev 	|	 Death Date: January 2015 	|	 Response: April 1966
+Person: Patrick Francis Sheehan 	|	 Death Date: November 2012 	|	 Response: March 2024
+Person: George Ardisson 	|	 Death Date: December 2014 	|	 Response: August 2014.
+Person: Marian Przykucki 	|	 Death Date: October 2009 	|	 Response: December 2019
+Person: Joe Rogers 	|	 Death Date: October 2013 	|	 Response: June 2021
+
+
+
+3 12
+Person: William Henry Bullock 	|	 Death Date: April 2011 	|	 Response: November 2019.
+3 13
+Person: JÃ_zef Pazdur 	|	 Death Date: May 2015 	|	 Response: December 2021
+3 14
+Person: Mario Francesco Pompedda 	|	 Death Date: October 2006 	|	 Response: September 2006
+3 15
+Person: Harvansh Singh 	|	 Death Date: May 2013 	|	 Response: April 2007
+3 16
+Person: Joe Ginsberg 	|	 Death Date: November 2012 	|	 Response: December 2021
+3 17
+Person: Tsunetoshi Tanaka 	|	 Death Date: January 2014 	|	 Response: November 1972.
+3 18
+Person: Molly Glynn 	|	 Death Date: September 2014 	|	 Response: September 2014
+4 18
+Person: Vilgot SjÃ¶man 	|	 Death Date: April 2006 	|	 Response: April 2006
+5 18
+Person: Dennis Byrd 	|	 Death Date: October 2016 	|	 Response: October 2016
+6 18
+Person: Francisco Ovidio Vera Intriago 	|	 Death Date: April 2014 	|	 Response: February 2020
+6 19
+Person: Gordon Hessler 	|	 Death Date: January 2014 	|	 Response: May 2014
+6 20
+Person: Guillermo Luksic Craig 	|	 Death Date: March 2013 	|	 Response: March 2013
+7 20
+Person: Sossen Krohg 	|	 Death Date: February 2016 	|	 Response: July 1976
+7 21
+Person: Chris Dedrick 	|	 Death Date: August 2010 	|	 Response: December 2010.
+7 22
+Person: Salvador BernÃ¡rdez 	|	 Death Date: July 2011 	|	 Response: February 1991.
+7 23
+Person: Piet Fransen 	|	 Death Date: August 2015 	|	 Response: January 2020.
+7 24
+Person: Bryan O'Linn 	|	 Death Date: July 2015 	|	 Response: October 1942
+7 25
+Person: Michel Hugo 	|	 Death Date: October 2010 	|	 Response: May 1985
+7 26
+Person: Charlie L. Russell 	|	 Death Date: June 2013 	|	 Response: January 1926
+7 27
+Person: Kenji Kosaka 	|	 Death Date: October 2016 	|	 Response: November 2020
+7 28
+Person: Sir John Martin 	|	 Death Date: May 2011 	|	 Response: Sir John Martin died in October 2017.
+7 29
+Person: Colin Campbell 	|	 Death Date: January 2012 	|	 Response: June 2021
+7 30
+Person: Pierre Claude Nolin 	|	 Death Date: April 2015 	|	 Response: December 2015
+7 31
+Person: Reginald Turnill 	|	 Death Date: February 2013 	|	 Response: February 2013
+8 31
+Person: Clay Felker 	|	 Death Date: July 2008 	|	 Response: July 2008
+9 31
+Person: Bill Barrett 	|	 Death Date: September 2016 	|	 Response: October 2016
+9 32
+Person: Bowie Kuhn 	|	 Death Date: March 2007 	|	 Response: March 2007.
+10 32

@@ -1,0 +1,10 @@
+RELATIONSHIP        COUNT
+
+Father-Son          40
+Country-Continent   195
+Person-Occupation   100
+Person-Birthdate    500
+Person-Deathdate    600
+Athlete-Country     100
+
+

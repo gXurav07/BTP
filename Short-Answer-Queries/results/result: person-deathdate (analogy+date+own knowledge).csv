@@ -1,0 +1,61 @@
+,Prompt,Answer,GPT-reply,Status
+0,Kwon Ri-se:(September 2014)::Frederick Chiluba:X; what is X?,June 2011,Levy Mwanawasa,False
+1,Kwon Ri-se:(September 2014)::Gail Dolgin:X; what is X?,October 2010,November 2010,False
+2,Kwon Ri-se:(September 2014)::Ãˆve Curie:X; what is X?,October 2007,October 2012,False
+3,Kwon Ri-se:(September 2014)::Alan Coren:X; what is X?,October 2007,September 2014,False
+4,Kwon Ri-se:(September 2014)::Ed Cassidy:X; what is X?,December 2012,?,False
+5,Toots Thielemans:(August 2016)::Kwon Ri-se:X; what is X?,September 2014,Hana Medical Rehabilitation Hospital.,False
+6,Toots Thielemans:(August 2016)::Mark Strand:X; what is X?,November 2014,November 2014,True
+7,Toots Thielemans:(August 2016)::Gail Dolgin:X; what is X?,October 2010,X is the missing date or timeframe.,False
+8,Toots Thielemans:(August 2016)::Frederick Chiluba:X; what is X?,June 2011,Former President of Zambia,False
+9,Toots Thielemans:(August 2016)::Helmut Schmidt:X; what is X?,November 2015,November 2015,True
+10,Joe Santos:(March 2016)::Toots Thielemans:X; what is X?,August 2016,August 2016,True
+11,Joe Santos:(March 2016)::Helmut Schmidt:X; what is X?,November 2015,November 2015,True
+12,Joe Santos:(March 2016)::Kitty Wells:X; what is X?,July 2012,1949,False
+13,Joe Santos:(March 2016)::Ãˆve Curie:X; what is X?,October 2007,X is unknown or unspecified.,False
+14,Joe Santos:(March 2016)::Gail Dolgin:X; what is X?,October 2010,Unknown,False
+15,Alan Coren:(October 2007)::Helmut Schmidt:X; what is X?,November 2015,X is October 2007.,False
+16,Alan Coren:(October 2007)::Ãˆve Curie:X; what is X?,October 2007,N/A,False
+17,Alan Coren:(October 2007)::Toots Thielemans:X; what is X?,August 2016,Harmonica.,False
+18,Alan Coren:(October 2007)::Tommy Makem:X; what is X?,August 2007,Liam Clancy,False
+19,Alan Coren:(October 2007)::Joe Santos:X; what is X?,March 2016,Unknown,False
+20,Ed Cassidy:(December 2012)::Alan Coren:X; what is X?,October 2007,February 2007,False
+21,Ed Cassidy:(December 2012)::Gail Dolgin:X; what is X?,October 2010,September 2010,False
+22,Ed Cassidy:(December 2012)::Helmut Schmidt:X; what is X?,November 2015,November 2015,True
+23,Ed Cassidy:(December 2012)::Mark Strand:X; what is X?,November 2014,October 2014,False
+24,Ed Cassidy:(December 2012)::Kwon Ri-se:X; what is X?,September 2014,April 2014,False
+25,Frederick Chiluba:(June 2011)::Helmut Schmidt:X; what is X?,November 2015,November 2015,True
+26,Frederick Chiluba:(June 2011)::Ed Cassidy:X; what is X?,December 2012,January 2012,False
+27,Frederick Chiluba:(June 2011)::Gail Dolgin:X; what is X?,October 2010,Deceased,False
+28,Frederick Chiluba:(June 2011)::Mark Strand:X; what is X?,November 2014,Mark Strand X is the date or month and year of his death.,False
+29,Frederick Chiluba:(June 2011)::Alan Coren:X; what is X?,October 2007,April 2007,False
+30,Gail Dolgin:(October 2010)::Mark Strand:X; what is X?,November 2014,X is an unknown item or information that is not provided in the given question.,False
+31,Gail Dolgin:(October 2010)::Joe Santos:X; what is X?,March 2016,Unknown,False
+32,Gail Dolgin:(October 2010)::Toots Thielemans:X; what is X?,August 2016,Toots Thielemans died.,False
+33,Gail Dolgin:(October 2010)::Kitty Wells:X; what is X?,July 2012,September 1986,False
+34,Gail Dolgin:(October 2010)::Helmut Schmidt:X; what is X?,November 2015,Unknown film or event,False
+35,Mark Strand:(November 2014)::Helmut Schmidt:X; what is X?,November 2015,October 2015,False
+36,Mark Strand:(November 2014)::Toots Thielemans:X; what is X?,August 2016,December 2014,False
+37,Mark Strand:(November 2014)::Gail Dolgin:X; what is X?,October 2010,Unknown,False
+38,Mark Strand:(November 2014)::Tommy Makem:X; what is X?,August 2007,Death,False
+39,Mark Strand:(November 2014)::Frederick Chiluba:X; what is X?,June 2011,February 2011,False
+40,Kitty Wells:(July 2012)::Gail Dolgin:X; what is X?,October 2010,May 2010,False
+41,Kitty Wells:(July 2012)::Ed Cassidy:X; what is X?,December 2012,June 2012,False
+42,Kitty Wells:(July 2012)::Kwon Ri-se:X; what is X?,September 2014,Ladies Code,False
+43,Kitty Wells:(July 2012)::Joe Santos:X; what is X?,March 2016,Joe Santos is a person.,False
+44,Kitty Wells:(July 2012)::Tommy Makem:X; what is X?,August 2007,August 2007,True
+45,Ãˆve Curie:(October 2007)::Alan Coren:X; what is X?,October 2007,Unknown,False
+46,Ãˆve Curie:(October 2007)::Mark Strand:X; what is X?,November 2014,March 2014,False
+47,Ãˆve Curie:(October 2007)::Ed Cassidy:X; what is X?,December 2012,the answer cannot be determined without further information,False
+48,Ãˆve Curie:(October 2007)::Kwon Ri-se:X; what is X?,September 2014,Rosie McClelland.,False
+49,Ãˆve Curie:(October 2007)::Helmut Schmidt:X; what is X?,November 2015,X is the date of Helmut Schmidt's death.,False
+50,Helmut Schmidt:(November 2015)::Mark Strand:X; what is X?,November 2014,November 2014,True
+51,Helmut Schmidt:(November 2015)::Joe Santos:X; what is X?,March 2016,January 2016,False
+52,Helmut Schmidt:(November 2015)::Ed Cassidy:X; what is X?,December 2012,Spirit,False
+53,Helmut Schmidt:(November 2015)::Toots Thielemans:X; what is X?,August 2016,August 2016,True
+54,Helmut Schmidt:(November 2015)::Kitty Wells:X; what is X?,July 2012,X is a date or specific point in time.,False
+55,Tommy Makem:(August 2007)::Toots Thielemans:X; what is X?,August 2016,August 2016,True
+56,Tommy Makem:(August 2007)::Joe Santos:X; what is X?,March 2016,"Joe Santos: March 18, 1985",False
+57,Tommy Makem:(August 2007)::Gail Dolgin:X; what is X?,October 2010,Gail Dolgin is deceased.,False
+58,Tommy Makem:(August 2007)::Alan Coren:X; what is X?,October 2007,December 2007,False
+59,Tommy Makem:(August 2007)::Helmut Schmidt:X; what is X?,November 2015,The value of X is unknown.,False
