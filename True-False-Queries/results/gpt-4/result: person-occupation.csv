@@ -1,0 +1,1131 @@
+,Prompt,Correct Object,GPT-reply,Status
+0,Sergiu Celibidache:(CONDUCTOR)::Henry Ian Cusick:X; X is ACTOR,ACTOR,True,True
+1,Henry Ian Cusick:(ACTOR)::César Cui:X; X is COMPOSER,COMPOSER,True,True
+2,César Cui:(COMPOSER)::Solomon Burke:X; X is SINGER,SINGER,True,True
+3,Solomon Burke:(SINGER)::Hans Blix:X; X is MILITARY PERSONNEL,DIPLOMAT,False,True
+4,Hans Blix:(DIPLOMAT)::Kazuo Ishiguro:X; X is WRITER,WRITER,True,True
+5,Kazuo Ishiguro:(WRITER)::Eduardo da Silva:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+6,Eduardo da Silva:(SOCCER PLAYER)::Anne Frank:X; X is WRITER,WRITER,True,True
+7,Anne Frank:(WRITER)::Béla Kun:X; X is POLITICIAN,POLITICIAN,True,True
+8,Béla Kun:(POLITICIAN)::Raymond Barre:X; X is GYMNAST,ECONOMIST,False,True
+9,Raymond Barre:(ECONOMIST)::Ivan Krylov:X; X is SOCIAL ACTIVIST,WRITER,False,True
+10,Ivan Krylov:(WRITER)::Pierre-Gilles de Gennes:X; X is PHYSICIST,PHYSICIST,True,True
+11,Pierre-Gilles de Gennes:(PHYSICIST)::Jane Krakowski:X; X is ACTOR,ACTOR,True,True
+12,Jane Krakowski:(ACTOR)::Pat Morita:X; X is ACTOR,ACTOR,True,True
+13,Pat Morita:(ACTOR)::Elizabeth Banks:X; X is ACTOR,ACTOR,True,True
+14,Elizabeth Banks:(ACTOR)::Edward Teller:X; X is ARCHITECT,PHYSICIST,False,True
+15,Edward Teller:(PHYSICIST)::Carl Czerny:X; X is COMPOSER,COMPOSER,True,True
+16,Carl Czerny:(COMPOSER)::Edgar Allan Poe:X; X is WRITER,WRITER,True,True
+17,Edgar Allan Poe:(WRITER)::Philip José Farmer:X; X is POLITICIAN,WRITER,False,True
+18,Philip José Farmer:(WRITER)::Zubin Mehta:X; X is SWIMMER,CONDUCTOR,False,True
+19,Zubin Mehta:(CONDUCTOR)::Salvador Luria:X; X is BIOLOGIST,BIOLOGIST,True,True
+20,Salvador Luria:(BIOLOGIST)::Dolph Lundgren:X; X is ACTOR,ACTOR,True,True
+21,Dolph Lundgren:(ACTOR)::Kirk Hammett:X; X is MUSICIAN,MUSICIAN,True,True
+22,Kirk Hammett:(MUSICIAN)::Ben Gazzara:X; X is COMPOSER,ACTOR,False,True
+23,"Ben Gazzara:(ACTOR)::Charles the Bald, Holy Roman Emperor:X; X is COMPOSER",POLITICIAN,False,True
+24,"Charles the Bald, Holy Roman Emperor:(POLITICIAN)::Jean-Philippe Rameau:X; X is ASTRONOMER",COMPOSER,False,True
+25,Jean-Philippe Rameau:(COMPOSER)::Abdülmecid II:X; X is WRITER,POLITICIAN,False,True
+26,Abdülmecid II:(POLITICIAN)::Sweyn I of Denmark:X; X is ARCHITECT,POLITICIAN,False,True
+27,Sweyn I of Denmark:(POLITICIAN)::Suharto:X; X is EXPLORER,POLITICIAN,False,True
+28,Suharto:(POLITICIAN)::Robert III of Scotland:X; X is POLITICIAN,POLITICIAN,False,False
+29,Robert III of Scotland:(POLITICIAN)::Julius Erving:X; X is SOCCER PLAYER,BASKETBALL PLAYER,False,True
+30,Julius Erving:(BASKETBALL PLAYER)::Christopher Walken:X; X is ACTOR,ACTOR,True,True
+31,Christopher Walken:(ACTOR)::Mike Epps:X; X is SINGER,ACTOR,False,True
+32,Mike Epps:(ACTOR)::Mohammed Mossadegh:X; X is PHYSICIST,POLITICIAN,False,True
+33,Mohammed Mossadegh:(POLITICIAN)::Cliff Robertson:X; X is WRITER,ACTOR,False,True
+34,Cliff Robertson:(ACTOR)::Ashley Judd:X; X is SOCIAL ACTIVIST,ACTOR,True,False
+35,Ashley Judd:(ACTOR)::Walter Benjamin:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+36,Walter Benjamin:(PHILOSOPHER)::Robert Schuman:X; X is SOCCER PLAYER,POLITICIAN,False,True
+37,Robert Schuman:(POLITICIAN)::Johnny Carson:X; X is PRESENTER,PRESENTER,True,True
+38,Johnny Carson:(PRESENTER)::Charles Hermite:X; X is RELIGIOUS FIGURE,MATHEMATICIAN,False,True
+39,Charles Hermite:(MATHEMATICIAN)::Andrew Garfield:X; X is ARCHITECT,ACTOR,False,True
+40,Andrew Garfield:(ACTOR)::Tintoretto:X; X is PAINTER,PAINTER,True,True
+41,Tintoretto:(PAINTER)::Leontios:X; X is SINGER,POLITICIAN,False,True
+42,Leontios:(POLITICIAN)::Charles Pic:X; X is SINGER,RACECAR DRIVER,False,True
+43,Charles Pic:(RACECAR DRIVER)::Roland Ratzenberger:X; X is RACECAR DRIVER,RACECAR DRIVER,True,True
+44,Roland Ratzenberger:(RACECAR DRIVER)::Vito Mannone:X; X is RELIGIOUS FIGURE,SOCCER PLAYER,False,True
+45,Vito Mannone:(SOCCER PLAYER)::Kevin Anderson:X; X is COMPOSER,TENNIS PLAYER,False,True
+46,Kevin Anderson:(TENNIS PLAYER)::Isaac Newton:X; X is SOCCER PLAYER,PHYSICIST,False,True
+47,Isaac Newton:(PHYSICIST)::Hannah Arendt:X; X is COMPOSER,PHILOSOPHER,False,True
+48,Hannah Arendt:(PHILOSOPHER)::Yash Chopra:X; X is FILM DIRECTOR,FILM DIRECTOR,True,True
+49,Yash Chopra:(FILM DIRECTOR)::Hermann Oberth:X; X is ENGINEER,ENGINEER,True,True
+50,Hermann Oberth:(ENGINEER)::Samuel:X; X is POLITICIAN,RELIGIOUS FIGURE,False,True
+51,Samuel:(RELIGIOUS FIGURE)::Hugo de Vries:X; X is POLITICIAN,BIOLOGIST,False,True
+52,Hugo de Vries:(BIOLOGIST)::Maurice Merleau-Ponty:X; X is MATHEMATICIAN,PHILOSOPHER,False,True
+53,Maurice Merleau-Ponty:(PHILOSOPHER)::Benni McCarthy:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+54,Benni McCarthy:(SOCCER PLAYER)::Tim Henman:X; X is POLITICIAN,TENNIS PLAYER,False,True
+55,Tim Henman:(TENNIS PLAYER)::Pope Agatho:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+56,Pope Agatho:(RELIGIOUS FIGURE)::Karl Ziegler:X; X is WRITER,CHEMIST,False,True
+57,Karl Ziegler:(CHEMIST)::Maurice Utrillo:X; X is ARCHITECT,ARTIST,False,True
+58,Maurice Utrillo:(ARTIST)::John Malkovich:X; X is ACTOR,ACTOR,True,True
+59,John Malkovich:(ACTOR)::Chen Guangcheng:X; X is SOCIAL ACTIVIST,SOCIAL ACTIVIST,True,True
+60,Chen Guangcheng:(SOCIAL ACTIVIST)::Chiang Ching-kuo:X; X is NOBLEMAN,POLITICIAN,False,True
+61,Chiang Ching-kuo:(POLITICIAN)::Giacomo Puccini:X; X is COMPOSER,COMPOSER,True,True
+62,Giacomo Puccini:(COMPOSER)::Jean Nouvel:X; X is ARCHITECT,ARCHITECT,True,True
+63,Jean Nouvel:(ARCHITECT)::John Entwistle:X; X is MUSICIAN,MUSICIAN,True,True
+64,John Entwistle:(MUSICIAN)::Subutai:X; X is MILITARY PERSONNEL,MILITARY PERSONNEL,True,True
+65,Subutai:(MILITARY PERSONNEL)::Umberto Eco:X; X is CHEMIST,WRITER,False,True
+66,"Umberto Eco:(WRITER)::Arthur Wellesley, 1st Duke of Wellington:X; X is RELIGIOUS FIGURE",POLITICIAN,False,True
+67,"Arthur Wellesley, 1st Duke of Wellington:(POLITICIAN)::Otto III, Holy Roman Emperor:X; X is SOCCER PLAYER",POLITICIAN,False,True
+68,"Otto III, Holy Roman Emperor:(POLITICIAN)::Faisal of Saudi Arabia:X; X is POLITICIAN",POLITICIAN,True,True
+69,Faisal of Saudi Arabia:(POLITICIAN)::Claire Forlani:X; X is ACTOR,ACTOR,True,True
+70,Claire Forlani:(ACTOR)::Manny Pacquiáo:X; X is ACTOR,BOXER,False,True
+71,Manny Pacquiáo:(BOXER)::Javier Mascherano:X; X is RELIGIOUS FIGURE,SOCCER PLAYER,False,True
+72,Javier Mascherano:(SOCCER PLAYER)::Bill Murray:X; X is ACTOR,ACTOR,True,True
+73,Bill Murray:(ACTOR)::James D. Watson:X; X is WRITER,BIOLOGIST,False,True
+74,James D. Watson:(BIOLOGIST)::Maria Leszczyńska:X; X is COMPANION,COMPANION,True,True
+75,Maria Leszczyńska:(COMPANION)::Siim Kallas:X; X is POLITICIAN,POLITICIAN,True,True
+76,Siim Kallas:(POLITICIAN)::Joséphine de Beauharnais:X; X is COMPANION,COMPANION,True,True
+77,Joséphine de Beauharnais:(COMPANION)::Frederick IV of Denmark:X; X is POLITICIAN,POLITICIAN,False,False
+78,Frederick IV of Denmark:(POLITICIAN)::Archilochus:X; X is WRITER,WRITER,True,True
+79,Archilochus:(WRITER)::Chilperic II:X; X is ACTOR,POLITICIAN,False,True
+80,Chilperic II:(POLITICIAN)::Titian:X; X is PAINTER,PAINTER,True,True
+81,Titian:(PAINTER)::Joseph E. Stiglitz:X; X is SINGER,ECONOMIST,False,True
+82,Joseph E. Stiglitz:(ECONOMIST)::Billy Ray Cyrus:X; X is PHYSICIST,MUSICIAN,False,True
+83,Billy Ray Cyrus:(MUSICIAN)::Gediminas of Lithuania:X; X is COMPANION,POLITICIAN,False,True
+84,Gediminas of Lithuania:(POLITICIAN)::Licinius:X; X is WRITER,POLITICIAN,False,True
+85,Licinius:(POLITICIAN)::Michael Vartan:X; X is SOCCER PLAYER,ACTOR,False,True
+86,Michael Vartan:(ACTOR)::Constantin Brancusi:X; X is MATHEMATICIAN,SCULPTOR,False,True
+87,Constantin Brancusi:(SCULPTOR)::Rivelino:X; X is FILM DIRECTOR,SOCCER PLAYER,False,True
+88,Rivelino:(SOCCER PLAYER)::Gianpaolo Pazzini:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+89,Gianpaolo Pazzini:(SOCCER PLAYER)::Hans Geiger:X; X is PHYSICIST,PHYSICIST,True,True
+90,Hans Geiger:(PHYSICIST)::Shaquille O'Neal:X; X is BASKETBALL PLAYER,BASKETBALL PLAYER,True,True
+91,Shaquille O'Neal:(BASKETBALL PLAYER)::Heinrich Müller:X; X is POLITICIAN,MILITARY PERSONNEL,False,True
+92,Heinrich Müller:(MILITARY PERSONNEL)::Juan Manuel Santos:X; X is POLITICIAN,POLITICIAN,True,True
+93,Juan Manuel Santos:(POLITICIAN)::James Irwin:X; X is ASTRONAUT,ASTRONAUT,True,True
+94,James Irwin:(ASTRONAUT)::Walther Rathenau:X; X is PHILOSOPHER,POLITICIAN,False,True
+95,Walther Rathenau:(POLITICIAN)::Tim Hunt:X; X is CHEMIST,CHEMIST,True,True
+96,Tim Hunt:(CHEMIST)::François Hollande:X; X is POLITICIAN,POLITICIAN,True,True
+97,François Hollande:(POLITICIAN)::Romain Gary:X; X is WRITER,WRITER,True,True
+98,Romain Gary:(WRITER)::Karl Dönitz:X; X is POLITICIAN,POLITICIAN,True,True
+99,Karl Dönitz:(POLITICIAN)::The Edge:X; X is POLITICIAN,MUSICIAN,False,True
+100,The Edge:(MUSICIAN)::George I of Greece:X; X is SINGER,POLITICIAN,False,True
+101,George I of Greece:(POLITICIAN)::Ian McEwan:X; X is WRITER,WRITER,True,True
+102,Ian McEwan:(WRITER)::Orhan Pamuk:X; X is WRITER,WRITER,True,True
+103,Orhan Pamuk:(WRITER)::Nancy Sinatra:X; X is SOCCER PLAYER,SINGER,False,True
+104,Nancy Sinatra:(SINGER)::Pierre de Marivaux:X; X is ACTOR,WRITER,False,True
+105,Pierre de Marivaux:(WRITER)::Owen Wilson:X; X is ACTOR,ACTOR,True,True
+106,Owen Wilson:(ACTOR)::William A. Wheeler:X; X is POLITICIAN,POLITICIAN,True,True
+107,William A. Wheeler:(POLITICIAN)::Frederick Forsyth:X; X is POLITICIAN,WRITER,False,True
+108,Frederick Forsyth:(WRITER)::Elias James Corey:X; X is MATHEMATICIAN,CHEMIST,False,True
+109,Elias James Corey:(CHEMIST)::Toyotomi Hideyoshi:X; X is POLITICIAN,POLITICIAN,True,True
+110,Toyotomi Hideyoshi:(POLITICIAN)::Pope Sisinnius:X; X is POLITICIAN,RELIGIOUS FIGURE,False,True
+111,Pope Sisinnius:(RELIGIOUS FIGURE)::Hecataeus:X; X is HISTORIAN,HISTORIAN,True,True
+112,Hecataeus:(HISTORIAN)::Pope Anastasius IV:X; X is MUSICIAN,RELIGIOUS FIGURE,False,True
+113,Pope Anastasius IV:(RELIGIOUS FIGURE)::Paul Auster:X; X is SOCCER PLAYER,WRITER,False,True
+114,Paul Auster:(WRITER)::Amenhotep I:X; X is POLITICIAN,POLITICIAN,False,False
+115,Amenhotep I:(POLITICIAN)::Ralf Dahrendorf:X; X is POLITICAL SCIENTIST,POLITICAL SCIENTIST,True,True
+116,Ralf Dahrendorf:(POLITICAL SCIENTIST)::Antipope Laurentius:X; X is DIPLOMAT,RELIGIOUS FIGURE,False,True
+117,Antipope Laurentius:(RELIGIOUS FIGURE)::Samir Nasri:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+118,Samir Nasri:(SOCCER PLAYER)::Marty Friedman:X; X is MUSICIAN,MUSICIAN,True,True
+119,Marty Friedman:(MUSICIAN)::Iolu Abil:X; X is MILITARY PERSONNEL,POLITICIAN,False,True
+120,Iolu Abil:(POLITICIAN)::Oliver Riedel:X; X is PHILOSOPHER,MUSICIAN,False,True
+121,Oliver Riedel:(MUSICIAN)::Pherecydes of Syros:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+122,"Pherecydes of Syros:(PHILOSOPHER)::Henry II, Holy Roman Emperor:X; X is MILITARY PERSONNEL",POLITICIAN,False,True
+123,"Henry II, Holy Roman Emperor:(POLITICIAN)::Cristina Fernández de Kirchner:X; X is MATHEMATICIAN",POLITICIAN,False,True
+124,Cristina Fernández de Kirchner:(POLITICIAN)::Joe Jonas:X; X is PORNOGRAPHIC ACTOR,SINGER,False,True
+125,Joe Jonas:(SINGER)::Robert Zemeckis:X; X is FILM DIRECTOR,FILM DIRECTOR,True,True
+126,Robert Zemeckis:(FILM DIRECTOR)::Felipe González:X; X is MATHEMATICIAN,POLITICIAN,False,True
+127,Felipe González:(POLITICIAN)::Christian Morgenstern:X; X is JOURNALIST,WRITER,False,True
+128,Christian Morgenstern:(WRITER)::Ram Baran Yadav:X; X is POLITICIAN,POLITICIAN,True,True
+129,Ram Baran Yadav:(POLITICIAN)::Umar:X; X is WRITER,POLITICIAN,False,True
+130,Umar:(POLITICIAN)::Ivan Klasnić:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+131,Ivan Klasnić:(SOCCER PLAYER)::Askar Akayev:X; X is BUSINESSPERSON,POLITICIAN,False,True
+132,Askar Akayev:(POLITICIAN)::Arthur Leonard Schawlow:X; X is PHYSICIST,PHYSICIST,True,True
+133,Arthur Leonard Schawlow:(PHYSICIST)::Pope John XV:X; X is NOBLEMAN,RELIGIOUS FIGURE,False,True
+134,Pope John XV:(RELIGIOUS FIGURE)::Girma Wolde-Giorgis:X; X is PHYSICIST,POLITICIAN,False,True
+135,Girma Wolde-Giorgis:(POLITICIAN)::Friedrich Wilhelm Joseph Schelling:X; X is PHYSICIAN,PHILOSOPHER,False,True
+136,Friedrich Wilhelm Joseph Schelling:(PHILOSOPHER)::Mame Biram Diouf:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+137,Mame Biram Diouf:(SOCCER PLAYER)::Herbie Hancock:X; X is MUSICIAN,MUSICIAN,True,True
+138,Herbie Hancock:(MUSICIAN)::Buckethead:X; X is WRITER,MUSICIAN,False,True
+139,Buckethead:(MUSICIAN)::Zilda Arns:X; X is MODEL,PHYSICIAN,False,True
+140,Zilda Arns:(PHYSICIAN)::Procopius:X; X is HISTORIAN,HISTORIAN,True,True
+141,Procopius:(HISTORIAN)::Luciano Pavarotti:X; X is SINGER,SINGER,True,True
+142,"Luciano Pavarotti:(SINGER)::Philip III, Duke of Burgundy:X; X is EXTREMIST",POLITICIAN,False,True
+143,"Philip III, Duke of Burgundy:(POLITICIAN)::Tomáš Sivok:X; X is POLITICIAN",SOCCER PLAYER,False,True
+144,Tomáš Sivok:(SOCCER PLAYER)::Salvatore Quasimodo:X; X is WRITER,WRITER,True,True
+145,Salvatore Quasimodo:(WRITER)::Moshe Dayan:X; X is POLITICIAN,POLITICIAN,True,True
+146,Moshe Dayan:(POLITICIAN)::Gerardus Mercator:X; X is BUSINESSPERSON,GEOGRAPHER,False,True
+147,Gerardus Mercator:(GEOGRAPHER)::John Hughes:X; X is FILM DIRECTOR,FILM DIRECTOR,True,True
+148,John Hughes:(FILM DIRECTOR)::Nilmar:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+149,Nilmar:(SOCCER PLAYER)::Jules Michelet:X; X is WRITER,WRITER,True,True
+150,Jules Michelet:(WRITER)::Abu al-Qasim:X; X is PHYSICIAN,PHYSICIAN,True,True
+151,Abu al-Qasim:(PHYSICIAN)::Chinedu Obasi Ogbuke:X; X is POLITICIAN,SOCCER PLAYER,False,True
+152,Chinedu Obasi Ogbuke:(SOCCER PLAYER)::Guido Reni:X; X is POLITICIAN,PAINTER,False,True
+153,Guido Reni:(PAINTER)::Ibn Tufail:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+154,Ibn Tufail:(PHILOSOPHER)::Omar Sharif:X; X is SOCCER PLAYER,ACTOR,False,True
+155,Omar Sharif:(ACTOR)::Risto Ryti:X; X is WRITER,POLITICIAN,False,True
+156,Risto Ryti:(POLITICIAN)::Ramesses IV:X; X is POLITICIAN,POLITICIAN,False,False
+157,Ramesses IV:(POLITICIAN)::Antonio Tabucchi:X; X is WRITER,WRITER,True,True
+158,Antonio Tabucchi:(WRITER)::Isaac Asimov:X; X is COMPOSER,WRITER,False,True
+159,Isaac Asimov:(WRITER)::Reza Shah:X; X is SOCCER PLAYER,POLITICIAN,False,True
+160,Reza Shah:(POLITICIAN)::Emmanuel Eboué:X; X is SINGER,SOCCER PLAYER,False,True
+161,Emmanuel Eboué:(SOCCER PLAYER)::Osman II:X; X is COMPOSER,POLITICIAN,False,True
+162,Osman II:(POLITICIAN)::Martin Niemöller:X; X is SOCIAL ACTIVIST,SOCIAL ACTIVIST,True,True
+163,Martin Niemöller:(SOCIAL ACTIVIST)::Ryunosuke Akutagawa:X; X is WRITER,WRITER,True,True
+164,Ryunosuke Akutagawa:(WRITER)::Dorothy Crowfoot Hodgkin:X; X is MUSICIAN,CHEMIST,False,True
+165,Dorothy Crowfoot Hodgkin:(CHEMIST)::Kublai Khan:X; X is BASKETBALL PLAYER,POLITICIAN,False,True
+166,Kublai Khan:(POLITICIAN)::Philip IV of Spain:X; X is WRITER,POLITICIAN,False,True
+167,Philip IV of Spain:(POLITICIAN)::Abbot Suger:X; X is ARCHITECT,ARCHITECT,False,False
+168,Abbot Suger:(ARCHITECT)::Ignacy Jan Paderewski:X; X is POLITICIAN,POLITICIAN,True,True
+169,Ignacy Jan Paderewski:(POLITICIAN)::Barbra Streisand:X; X is COMEDIAN,SINGER,False,True
+170,Barbra Streisand:(SINGER)::Ryan Babel:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+171,Ryan Babel:(SOCCER PLAYER)::Aravind Adiga:X; X is POLITICIAN,WRITER,False,True
+172,Aravind Adiga:(WRITER)::Laurie Holden:X; X is ACTOR,ACTOR,True,True
+173,Laurie Holden:(ACTOR)::Ivan Mazepa:X; X is ACTOR,POLITICIAN,False,True
+174,Ivan Mazepa:(POLITICIAN)::Tilda Swinton:X; X is POLITICIAN,ACTOR,False,True
+175,Tilda Swinton:(ACTOR)::Giovanni Boccaccio:X; X is POLITICIAN,WRITER,False,True
+176,Giovanni Boccaccio:(WRITER)::Péter Lékó:X; X is CHESSMASTER,CHESSMASTER,True,True
+177,Péter Lékó:(CHESSMASTER)::Thomas à Kempis:X; X is PHILOSOPHER,RELIGIOUS FIGURE,False,True
+178,Thomas à Kempis:(RELIGIOUS FIGURE)::Marouane Chamakh:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+179,Marouane Chamakh:(SOCCER PLAYER)::Milorad Čavić:X; X is ACTOR,SWIMMER,False,True
+180,Milorad Čavić:(SWIMMER)::Willard Libby:X; X is CHEMIST,CHEMIST,True,True
+181,Willard Libby:(CHEMIST)::John E. Walker:X; X is POLITICIAN,CHEMIST,False,True
+182,John E. Walker:(CHEMIST)::Yulia Volkova:X; X is SINGER,SINGER,True,True
+183,Yulia Volkova:(SINGER)::Primo Levi:X; X is WRITER,WRITER,True,True
+184,Primo Levi:(WRITER)::László Moholy-Nagy:X; X is DESIGNER,DESIGNER,True,True
+185,László Moholy-Nagy:(DESIGNER)::Hostilian:X; X is COMPANION,POLITICIAN,False,True
+186,Hostilian:(POLITICIAN)::Vasili I of Russia:X; X is MUSICIAN,POLITICIAN,False,True
+187,Vasili I of Russia:(POLITICIAN)::Maya Plisetskaya:X; X is GEOGRAPHER,DANCER,False,True
+188,Maya Plisetskaya:(DANCER)::Roque Santa Cruz:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+189,Roque Santa Cruz:(SOCCER PLAYER)::Virginia Apgar:X; X is PHYSICIAN,PHYSICIAN,True,True
+190,Virginia Apgar:(PHYSICIAN)::Nana Mouskouri:X; X is ACTOR,SINGER,False,True
+191,Nana Mouskouri:(SINGER)::Jean Vigo:X; X is FILM DIRECTOR,FILM DIRECTOR,True,True
+192,Jean Vigo:(FILM DIRECTOR)::Cosmin Contra:X; X is WRITER,SOCCER PLAYER,False,True
+193,Cosmin Contra:(SOCCER PLAYER)::Adolf Butenandt:X; X is CHEMIST,CHEMIST,True,True
+194,Adolf Butenandt:(CHEMIST)::Jo Nesbø:X; X is SOCCER PLAYER,WRITER,False,True
+195,Jo Nesbø:(WRITER)::Beyoncé:X; X is SINGER,SINGER,True,True
+196,Beyoncé:(SINGER)::Li Bai:X; X is WRITER,WRITER,True,True
+197,Li Bai:(WRITER)::John III of Portugal:X; X is POLITICIAN,POLITICIAN,True,True
+198,John III of Portugal:(POLITICIAN)::René Adler:X; X is BOXER,SOCCER PLAYER,False,True
+199,René Adler:(SOCCER PLAYER)::Pope Leo VII:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+200,Pope Leo VII:(RELIGIOUS FIGURE)::Robert Redford:X; X is WRITER,ACTOR,False,True
+201,Robert Redford:(ACTOR)::Ahmed Hossam:X; X is POLITICIAN,SOCCER PLAYER,False,True
+202,Ahmed Hossam:(SOCCER PLAYER)::Hans Georg Dehmelt:X; X is SOCCER PLAYER,PHYSICIST,False,True
+203,Hans Georg Dehmelt:(PHYSICIST)::Wendell Meredith Stanley:X; X is ECONOMIST,CHEMIST,False,True
+204,Wendell Meredith Stanley:(CHEMIST)::Michael Caine:X; X is ACTOR,ACTOR,True,True
+205,Michael Caine:(ACTOR)::Charles-Valentin Alkan:X; X is RELIGIOUS FIGURE,MUSICIAN,False,True
+206,Charles-Valentin Alkan:(MUSICIAN)::Katie Holmes:X; X is SINGER,ACTOR,False,True
+207,Katie Holmes:(ACTOR)::Kevin Love:X; X is BASKETBALL PLAYER,BASKETBALL PLAYER,True,True
+208,Kevin Love:(BASKETBALL PLAYER)::Väinö Linna:X; X is WRITER,WRITER,True,True
+209,Väinö Linna:(WRITER)::Jennifer Garner:X; X is WRITER,ACTOR,False,True
+210,Jennifer Garner:(ACTOR)::Imelda Staunton:X; X is ACTOR,ACTOR,True,True
+211,Imelda Staunton:(ACTOR)::Carl Barks:X; X is FILM DIRECTOR,COMIC ARTIST,False,True
+212,Carl Barks:(COMIC ARTIST)::Jan Mucha:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+213,Jan Mucha:(SOCCER PLAYER)::Siphiwe Tshabalala:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+214,Siphiwe Tshabalala:(SOCCER PLAYER)::Igor Tudor:X; X is ASTRONOMER,SOCCER PLAYER,False,True
+215,Igor Tudor:(SOCCER PLAYER)::Boris III of Bulgaria:X; X is ACTOR,POLITICIAN,False,True
+216,Boris III of Bulgaria:(POLITICIAN)::Assia Djebar:X; X is WRITER,WRITER,True,True
+217,Assia Djebar:(WRITER)::Fatmir Sejdiu:X; X is WRITER,POLITICIAN,False,True
+218,Fatmir Sejdiu:(POLITICIAN)::Rosie Huntington-Whiteley:X; X is EXTREMIST,MODEL,False,True
+219,Rosie Huntington-Whiteley:(MODEL)::Charles Gounod:X; X is PHILOSOPHER,COMPOSER,False,True
+220,Charles Gounod:(COMPOSER)::Alberto Gilardino:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+221,Alberto Gilardino:(SOCCER PLAYER)::Bede:X; X is SOCCER PLAYER,HISTORIAN,False,True
+222,Bede:(HISTORIAN)::Constantine III:X; X is POLITICIAN,POLITICIAN,True,True
+223,Constantine III:(POLITICIAN)::Ángel Di María:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+224,Ángel Di María:(SOCCER PLAYER)::Max Liebermann:X; X is PAINTER,PAINTER,True,True
+225,Max Liebermann:(PAINTER)::Sterling Knight:X; X is WRITER,ACTOR,False,True
+226,Sterling Knight:(ACTOR)::Ctesias:X; X is PHYSICIAN,PHYSICIAN,True,True
+227,Ctesias:(PHYSICIAN)::Seleucus I Nicator:X; X is RELIGIOUS FIGURE,MILITARY PERSONNEL,False,True
+228,Seleucus I Nicator:(MILITARY PERSONNEL)::Macaulay Culkin:X; X is ACTOR,ACTOR,True,True
+229,Macaulay Culkin:(ACTOR)::Antonio Canova:X; X is ARTIST,ARTIST,True,True
+230,Antonio Canova:(ARTIST)::Harold Shipman:X; X is POLITICIAN,PHYSICIAN,False,True
+231,Harold Shipman:(PHYSICIAN)::George Carlin:X; X is COMEDIAN,COMEDIAN,True,True
+232,George Carlin:(COMEDIAN)::Cheech Marin:X; X is ACTOR,ACTOR,True,True
+233,Cheech Marin:(ACTOR)::Raymond IV of Toulouse:X; X is MILITARY PERSONNEL,MILITARY PERSONNEL,False,False
+234,Raymond IV of Toulouse:(MILITARY PERSONNEL)::Augustine of Hippo:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+235,Augustine of Hippo:(PHILOSOPHER)::Nichi Vendola:X; X is MUSICIAN,POLITICIAN,False,True
+236,Nichi Vendola:(POLITICIAN)::Julian McMahon:X; X is POLITICIAN,ACTOR,False,True
+237,Julian McMahon:(ACTOR)::Martin of Tours:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+238,Martin of Tours:(RELIGIOUS FIGURE)::Dado Pršo:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+239,Dado Pršo:(SOCCER PLAYER)::Silvestre Varela:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+240,Silvestre Varela:(SOCCER PLAYER)::Chrétien de Troyes:X; X is WRITER,WRITER,True,True
+241,Chrétien de Troyes:(WRITER)::Daniel Schneidermann:X; X is POLITICIAN,JOURNALIST,False,True
+242,Daniel Schneidermann:(JOURNALIST)::Michael Chang:X; X is POLITICIAN,TENNIS PLAYER,False,True
+243,Michael Chang:(TENNIS PLAYER)::Hafez:X; X is WRITER,WRITER,True,True
+244,Hafez:(WRITER)::James II of Scotland:X; X is SOCIAL ACTIVIST,POLITICIAN,False,True
+245,"James II of Scotland:(POLITICIAN)::Henri de la Tour d'Auvergne, Vicomte de Turenne:X; X is RELIGIOUS FIGURE",MILITARY PERSONNEL,False,True
+246,"Henri de la Tour d'Auvergne, Vicomte de Turenne:(MILITARY PERSONNEL)::Farouk of Egypt:X; X is NOBLEMAN",POLITICIAN,True,False
+247,Farouk of Egypt:(POLITICIAN)::Craig Venter:X; X is ACTOR,BIOLOGIST,False,True
+248,Craig Venter:(BIOLOGIST)::Heike Kamerlingh Onnes:X; X is SOCCER PLAYER,PHYSICIST,False,True
+249,Heike Kamerlingh Onnes:(PHYSICIST)::Aribert Heim:X; X is PHOTOGRAPHER,PHYSICIAN,False,True
+250,Aribert Heim:(PHYSICIAN)::Mary Steenburgen:X; X is POLITICIAN,ACTOR,False,True
+251,Mary Steenburgen:(ACTOR)::Justin Bartha:X; X is SINGER,ACTOR,False,True
+252,Justin Bartha:(ACTOR)::Ronald George Wreyford Norrish:X; X is BUSINESSPERSON,CHEMIST,False,True
+253,Ronald George Wreyford Norrish:(CHEMIST)::Arrian:X; X is BUSINESSPERSON,HISTORIAN,False,True
+254,Arrian:(HISTORIAN)::Augustus De Morgan:X; X is MATHEMATICIAN,MATHEMATICIAN,True,True
+255,Augustus De Morgan:(MATHEMATICIAN)::Eleftherios Venizelos:X; X is SOCCER PLAYER,POLITICIAN,False,True
+256,"Eleftherios Venizelos:(POLITICIAN)::Sophie, The Countess of Wessex:X; X is SINGER",COMPANION,False,True
+257,"Sophie, The Countess of Wessex:(COMPANION)::Santiago Ramón y Cajal:X; X is POLITICIAN",PHYSICIAN,False,True
+258,Santiago Ramón y Cajal:(PHYSICIAN)::Luc Besson:X; X is COMPOSER,FILM DIRECTOR,False,True
+259,Luc Besson:(FILM DIRECTOR)::Benny Benassi:X; X is COMPOSER,MUSICIAN,True,False
+260,"Benny Benassi:(MUSICIAN)::Alexei Nikolaevich, Tsarevich of Russia:X; X is POLITICIAN",NOBLEMAN,False,True
+261,"Alexei Nikolaevich, Tsarevich of Russia:(NOBLEMAN)::Crispin Glover:X; X is ACTOR",ACTOR,True,True
+262,Crispin Glover:(ACTOR)::Cam Gigandet:X; X is SOCCER PLAYER,ACTOR,False,True
+263,Cam Gigandet:(ACTOR)::Pietro Lorenzetti:X; X is POLITICIAN,PAINTER,False,True
+264,Pietro Lorenzetti:(PAINTER)::Alois Hitler:X; X is PUBLIC WORKER,PUBLIC WORKER,True,True
+265,Alois Hitler:(PUBLIC WORKER)::Arius:X; X is TENNIS PLAYER,PHILOSOPHER,False,True
+266,Arius:(PHILOSOPHER)::Klement Gottwald:X; X is PAINTER,POLITICIAN,False,True
+267,Klement Gottwald:(POLITICIAN)::Roberto Carlos da Silva:X; X is SOCIAL ACTIVIST,SOCCER PLAYER,False,True
+268,Roberto Carlos da Silva:(SOCCER PLAYER)::Álvaro Arbeloa Coca:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+269,Álvaro Arbeloa Coca:(SOCCER PLAYER)::Adnan Menderes:X; X is POLITICIAN,POLITICIAN,True,True
+270,Adnan Menderes:(POLITICIAN)::Frederick VI of Denmark:X; X is WRITER,POLITICIAN,False,True
+271,Frederick VI of Denmark:(POLITICIAN)::George Soros:X; X is WRESTLER,BUSINESSPERSON,False,True
+272,George Soros:(BUSINESSPERSON)::Zsa Zsa Gábor:X; X is FILM DIRECTOR,ACTOR,False,True
+273,Zsa Zsa Gábor:(ACTOR)::Jan Fischer:X; X is POLITICIAN,POLITICIAN,True,True
+274,Jan Fischer:(POLITICIAN)::Alice Cooper:X; X is MUSICIAN,MUSICIAN,True,True
+275,Alice Cooper:(MUSICIAN)::Carlos Andrés Pérez:X; X is SINGER,POLITICIAN,False,True
+276,Carlos Andrés Pérez:(POLITICIAN)::Iannis Xenakis:X; X is POLITICAL SCIENTIST,COMPOSER,False,True
+277,Iannis Xenakis:(COMPOSER)::Jason Mraz:X; X is ATHLETE,MUSICIAN,False,True
+278,Jason Mraz:(MUSICIAN)::D'Artagnan:X; X is PHYSICIST,MILITARY PERSONNEL,False,True
+279,D'Artagnan:(MILITARY PERSONNEL)::DJ BoBo:X; X is ACTOR,MUSICIAN,False,True
+280,DJ BoBo:(MUSICIAN)::John II Komnenos:X; X is COMPUTER SCIENTIST,POLITICIAN,False,True
+281,John II Komnenos:(POLITICIAN)::Dean Koontz:X; X is MILITARY PERSONNEL,WRITER,False,True
+282,Dean Koontz:(WRITER)::Pope Alexander I:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+283,Pope Alexander I:(RELIGIOUS FIGURE)::Hugo Gunckel Lüer:X; X is CHEMIST,BIOLOGIST,True,False
+284,Hugo Gunckel Lüer:(BIOLOGIST)::Ezra:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+285,Ezra:(RELIGIOUS FIGURE)::Isabeau of Bavaria:X; X is COMPANION,COMPANION,False,False
+286,Isabeau of Bavaria:(COMPANION)::Pat Nixon:X; X is POLITICIAN,COMPANION,False,True
+287,Pat Nixon:(COMPANION)::Leucippus:X; X is ACTOR,PHILOSOPHER,False,True
+288,Leucippus:(PHILOSOPHER)::Hu Jia:X; X is ARCHITECT,SOCIAL ACTIVIST,False,True
+289,Hu Jia:(SOCIAL ACTIVIST)::Horloogiyn Choybalsan:X; X is POLITICIAN,POLITICIAN,True,True
+290,Horloogiyn Choybalsan:(POLITICIAN)::Mickaël Landreau:X; X is MUSICIAN,SOCCER PLAYER,False,True
+291,Mickaël Landreau:(SOCCER PLAYER)::Marc-Antoine Charpentier:X; X is POLITICIAN,COMPOSER,False,True
+292,Marc-Antoine Charpentier:(COMPOSER)::John Cornforth:X; X is SOCCER PLAYER,CHEMIST,False,True
+293,John Cornforth:(CHEMIST)::John Huston:X; X is FILM DIRECTOR,FILM DIRECTOR,True,True
+294,John Huston:(FILM DIRECTOR)::Thomas Newcomen:X; X is ECONOMIST,INVENTOR,False,True
+295,Thomas Newcomen:(INVENTOR)::Ferdinand Lassalle:X; X is WRITER,SOCIAL ACTIVIST,False,True
+296,Ferdinand Lassalle:(SOCIAL ACTIVIST)::Pedro Calderón de la Barca:X; X is WRITER,WRITER,True,True
+297,Pedro Calderón de la Barca:(WRITER)::Fred Dalton Thompson:X; X is SINGER,POLITICIAN,False,True
+298,Fred Dalton Thompson:(POLITICIAN)::Herbert Marcuse:X; X is SCULPTOR,PHILOSOPHER,False,True
+299,Herbert Marcuse:(PHILOSOPHER)::Martin Heinrich Klaproth:X; X is CHEMIST,CHEMIST,True,True
+300,Martin Heinrich Klaproth:(CHEMIST)::Mozi:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+301,Mozi:(PHILOSOPHER)::Jerzy Buzek:X; X is POLITICIAN,POLITICIAN,True,True
+302,Jerzy Buzek:(POLITICIAN)::Manuel de Falla:X; X is SOCCER PLAYER,COMPOSER,False,True
+303,Manuel de Falla:(COMPOSER)::Edward Lear:X; X is INVENTOR,WRITER,False,True
+304,Edward Lear:(WRITER)::Pompey:X; X is POLITICIAN,POLITICIAN,False,False
+305,Pompey:(POLITICIAN)::Ashanti:X; X is SINGER,SINGER,True,True
+306,Ashanti:(SINGER)::Claudia Schiffer:X; X is WRITER,MODEL,False,True
+307,Claudia Schiffer:(MODEL)::Claudio Monteverdi:X; X is WRITER,COMPOSER,False,True
+308,Claudio Monteverdi:(COMPOSER)::Ilham Aliyev:X; X is POLITICIAN,POLITICIAN,True,True
+309,Ilham Aliyev:(POLITICIAN)::Danny DeVito:X; X is ACTOR,ACTOR,True,True
+310,Danny DeVito:(ACTOR)::Steve Buscemi:X; X is ACTOR,ACTOR,True,True
+311,Steve Buscemi:(ACTOR)::Giuliano Amato:X; X is POLITICIAN,POLITICIAN,True,True
+312,Giuliano Amato:(POLITICIAN)::Tommy Lee Jones:X; X is ACTOR,ACTOR,True,True
+313,Tommy Lee Jones:(ACTOR)::Tom Waits:X; X is PHILOSOPHER,ACTOR,False,True
+314,Tom Waits:(ACTOR)::Eric Hobsbawm:X; X is ACTOR,HISTORIAN,False,True
+315,Eric Hobsbawm:(HISTORIAN)::Carlo Cudicini:X; X is POLITICIAN,SOCCER PLAYER,False,True
+316,Carlo Cudicini:(SOCCER PLAYER)::Seamus Heaney:X; X is WRITER,WRITER,True,True
+317,Seamus Heaney:(WRITER)::Jugurtha:X; X is CHEMIST,POLITICIAN,False,True
+318,Jugurtha:(POLITICIAN)::Wolfgang Pauli:X; X is ACTOR,PHYSICIST,False,True
+319,Wolfgang Pauli:(PHYSICIST)::Frank P. Ramsey:X; X is MATHEMATICIAN,MATHEMATICIAN,True,True
+320,Frank P. Ramsey:(MATHEMATICIAN)::Francesco Borromini:X; X is SOCCER PLAYER,ARCHITECT,False,True
+321,Francesco Borromini:(ARCHITECT)::Alyattes II:X; X is POLITICIAN,POLITICIAN,True,True
+322,Alyattes II:(POLITICIAN)::Chris Cornell:X; X is RELIGIOUS FIGURE,SINGER,False,True
+323,Chris Cornell:(SINGER)::Johann Gottfried Galle:X; X is SOCCER PLAYER,ASTRONOMER,False,True
+324,Johann Gottfried Galle:(ASTRONOMER)::Michael Phelps:X; X is POLITICIAN,SWIMMER,False,True
+325,Michael Phelps:(SWIMMER)::Kellan Lutz:X; X is WRITER,ACTOR,False,True
+326,Kellan Lutz:(ACTOR)::Zeno of Elea:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+327,Zeno of Elea:(PHILOSOPHER)::David Attenborough:X; X is PRESENTER,PRESENTER,True,True
+328,David Attenborough:(PRESENTER)::Shunsuke Nakamura:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+329,Shunsuke Nakamura:(SOCCER PLAYER)::Utagawa Hiroshige:X; X is POLITICIAN,ARTIST,False,True
+330,Utagawa Hiroshige:(ARTIST)::Zhang Ziyi:X; X is POLITICIAN,ACTOR,False,True
+331,Zhang Ziyi:(ACTOR)::Thutmose III:X; X is ECONOMIST,POLITICIAN,False,True
+332,Thutmose III:(POLITICIAN)::Muhammad Iqbal:X; X is POLITICIAN,WRITER,False,True
+333,Muhammad Iqbal:(WRITER)::Pope Victor II:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+334,Pope Victor II:(RELIGIOUS FIGURE)::George Bush:X; X is BIOLOGIST,POLITICIAN,False,True
+335,George Bush:(POLITICIAN)::Erwin Rommel:X; X is RACECAR DRIVER,MILITARY PERSONNEL,False,True
+336,Erwin Rommel:(MILITARY PERSONNEL)::John Carpenter:X; X is RELIGIOUS FIGURE,FILM DIRECTOR,False,True
+337,John Carpenter:(FILM DIRECTOR)::Pope Boniface IV:X; X is SOCCER PLAYER,RELIGIOUS FIGURE,False,True
+338,Pope Boniface IV:(RELIGIOUS FIGURE)::Arash:X; X is POLITICIAN,SINGER,False,True
+339,Arash:(SINGER)::Marita Koch:X; X is ECONOMIST,ATHLETE,False,True
+340,Marita Koch:(ATHLETE)::Hicham El Guerrouj:X; X is ATHLETE,ATHLETE,True,True
+341,Hicham El Guerrouj:(ATHLETE)::Charles XIII of Sweden:X; X is POLITICIAN,POLITICIAN,True,True
+342,Charles XIII of Sweden:(POLITICIAN)::Janet Gaynor:X; X is PILOT,ACTOR,False,True
+343,Janet Gaynor:(ACTOR)::Juan Martin Del Potro:X; X is ACTOR,TENNIS PLAYER,False,True
+344,Juan Martin Del Potro:(TENNIS PLAYER)::David Lloyd George:X; X is WRITER,POLITICIAN,False,True
+345,David Lloyd George:(POLITICIAN)::Ulf von Euler:X; X is PHYSICIST,PHYSICIAN,False,True
+346,Ulf von Euler:(PHYSICIAN)::Neil Gaiman:X; X is COMPOSER,WRITER,False,True
+347,Neil Gaiman:(WRITER)::Ted Bundy:X; X is EXTREMIST,EXTREMIST,False,False
+348,Ted Bundy:(EXTREMIST)::Samuel Beckett:X; X is WRITER,WRITER,True,True
+349,Samuel Beckett:(WRITER)::Rosen Plevneliev:X; X is POLITICIAN,POLITICIAN,True,True
+350,Rosen Plevneliev:(POLITICIAN)::Felix Hausdorff:X; X is MATHEMATICIAN,MATHEMATICIAN,True,True
+351,Felix Hausdorff:(MATHEMATICIAN)::Alexandra Stan:X; X is ACTOR,SINGER,False,True
+352,Alexandra Stan:(SINGER)::Faye Dunaway:X; X is POLITICIAN,ACTOR,False,True
+353,Faye Dunaway:(ACTOR)::Gnaeus Naevius:X; X is WRITER,WRITER,True,True
+354,Gnaeus Naevius:(WRITER)::Garrett Hedlund:X; X is ACTOR,ACTOR,True,True
+355,Garrett Hedlund:(ACTOR)::Brian Molko:X; X is SOCIAL ACTIVIST,MUSICIAN,False,True
+356,Brian Molko:(MUSICIAN)::Richard Dedekind:X; X is MATHEMATICIAN,MATHEMATICIAN,True,True
+357,Richard Dedekind:(MATHEMATICIAN)::Franklin Pierce:X; X is POLITICIAN,POLITICIAN,True,True
+358,Franklin Pierce:(POLITICIAN)::Ruslan Rotan:X; X is ASTRONOMER,SOCCER PLAYER,False,True
+359,"Ruslan Rotan:(SOCCER PLAYER)::Miloš Obrenović I, Prince of Serbia:X; X is NOBLEMAN",NOBLEMAN,True,True
+360,"Miloš Obrenović I, Prince of Serbia:(NOBLEMAN)::David Gilmour:X; X is MUSICIAN",MUSICIAN,True,True
+361,David Gilmour:(MUSICIAN)::Carl Gustaf Emil Mannerheim:X; X is CONDUCTOR,POLITICIAN,False,True
+362,Carl Gustaf Emil Mannerheim:(POLITICIAN)::Mr. T:X; X is ACTOR,ACTOR,True,True
+363,Mr. T:(ACTOR)::Guillaume de l'Hôpital:X; X is MATHEMATICIAN,MATHEMATICIAN,True,True
+364,Guillaume de l'Hôpital:(MATHEMATICIAN)::William Hurt:X; X is ACTOR,ACTOR,True,True
+365,William Hurt:(ACTOR)::Robert Aumann:X; X is WRITER,MATHEMATICIAN,False,True
+366,Robert Aumann:(MATHEMATICIAN)::Joe DiMaggio:X; X is POLITICIAN,BASEBALL PLAYER,False,True
+367,Joe DiMaggio:(BASEBALL PLAYER)::Alan Baker:X; X is POLITICIAN,MATHEMATICIAN,False,True
+368,Alan Baker:(MATHEMATICIAN)::John Napier:X; X is MATHEMATICIAN,MATHEMATICIAN,True,True
+369,John Napier:(MATHEMATICIAN)::Charles XI of Sweden:X; X is POLITICIAN,POLITICIAN,True,True
+370,Charles XI of Sweden:(POLITICIAN)::Brigham Young:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+371,Brigham Young:(RELIGIOUS FIGURE)::Bernardo O'Higgins:X; X is RACECAR DRIVER,POLITICIAN,False,True
+372,Bernardo O'Higgins:(POLITICIAN)::Mira Sorvino:X; X is WRITER,ACTOR,False,True
+373,Mira Sorvino:(ACTOR)::Philip Jaisohn:X; X is WRITER,SOCIAL ACTIVIST,True,False
+374,Philip Jaisohn:(SOCIAL ACTIVIST)::Paul I of Russia:X; X is WRITER,POLITICIAN,False,True
+375,Paul I of Russia:(POLITICIAN)::Kiro Gligorov:X; X is WRITER,POLITICIAN,False,True
+376,Kiro Gligorov:(POLITICIAN)::Feodor Chaliapin:X; X is SINGER,SINGER,True,True
+377,Feodor Chaliapin:(SINGER)::Mark Ruffalo:X; X is PHYSICIST,ACTOR,False,True
+378,Mark Ruffalo:(ACTOR)::Theodosios III:X; X is SOCCER PLAYER,POLITICIAN,False,True
+379,Theodosios III:(POLITICIAN)::Paul Rudd:X; X is ACTOR,ACTOR,True,True
+380,Paul Rudd:(ACTOR)::Harel Skaat:X; X is POLITICIAN,SINGER,False,True
+381,Harel Skaat:(SINGER)::Dave Gahan:X; X is MUSICIAN,SINGER,True,False
+382,Dave Gahan:(SINGER)::Liv Tyler:X; X is ACTOR,ACTOR,True,True
+383,Liv Tyler:(ACTOR)::Ei-ichi Negishi:X; X is PHOTOGRAPHER,CHEMIST,False,True
+384,Ei-ichi Negishi:(CHEMIST)::Shem:X; X is ARTIST,RELIGIOUS FIGURE,False,True
+385,Shem:(RELIGIOUS FIGURE)::Tibor Sekelj:X; X is WRITER,WRITER,True,True
+386,Tibor Sekelj:(WRITER)::Vytautas Landsbergis:X; X is WRITER,POLITICIAN,False,True
+387,Vytautas Landsbergis:(POLITICIAN)::Mehmet Scholl:X; X is POLITICIAN,SOCCER PLAYER,False,True
+388,Mehmet Scholl:(SOCCER PLAYER)::William Dampier:X; X is RELIGIOUS FIGURE,EXPLORER,False,True
+389,William Dampier:(EXPLORER)::Otto Preminger:X; X is RELIGIOUS FIGURE,FILM DIRECTOR,False,True
+390,Otto Preminger:(FILM DIRECTOR)::H. David Politzer:X; X is PHYSICIST,PHYSICIST,True,True
+391,H. David Politzer:(PHYSICIST)::Koji Murofushi:X; X is ATHLETE,ATHLETE,True,True
+392,Koji Murofushi:(ATHLETE)::Lady Gaga:X; X is PSYCHOLOGIST,MUSICIAN,False,True
+393,Lady Gaga:(MUSICIAN)::Leslie Cheung:X; X is COMPANION,MUSICIAN,False,True
+394,Leslie Cheung:(MUSICIAN)::Ptolemy IV Philopator:X; X is POLITICIAN,POLITICIAN,True,True
+395,Ptolemy IV Philopator:(POLITICIAN)::Annette Bening:X; X is ACTOR,ACTOR,True,True
+396,Annette Bening:(ACTOR)::Nicklas Bendtner:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+397,Nicklas Bendtner:(SOCCER PLAYER)::Judi Dench:X; X is POLITICIAN,ACTOR,False,True
+398,Judi Dench:(ACTOR)::Harvey Milk:X; X is POLITICIAN,POLITICIAN,True,True
+399,Harvey Milk:(POLITICIAN)::Madeleine Albright:X; X is DIPLOMAT,DIPLOMAT,True,True
+400,Madeleine Albright:(DIPLOMAT)::Isabella of France:X; X is COMPANION,COMPANION,False,False
+401,Isabella of France:(COMPANION)::Antiochus III the Great:X; X is POLITICIAN,POLITICIAN,False,False
+402,Antiochus III the Great:(POLITICIAN)::Carmen Miranda:X; X is SINGER,SINGER,True,True
+403,Carmen Miranda:(SINGER)::Robert S. Mulliken:X; X is ACTOR,CHEMIST,False,True
+404,Robert S. Mulliken:(CHEMIST)::Bill Nighy:X; X is ARCHITECT,ACTOR,False,True
+405,Bill Nighy:(ACTOR)::Pope Benedict V:X; X is POLITICIAN,RELIGIOUS FIGURE,False,True
+406,Pope Benedict V:(RELIGIOUS FIGURE)::Jack White:X; X is MUSICIAN,MUSICIAN,True,True
+407,Jack White:(MUSICIAN)::Ed Sheeran:X; X is POLITICIAN,SINGER,False,True
+408,Ed Sheeran:(SINGER)::George Vancouver:X; X is SOCCER PLAYER,EXPLORER,False,True
+409,George Vancouver:(EXPLORER)::Louis-Nicolas Davout:X; X is MILITARY PERSONNEL,MILITARY PERSONNEL,True,True
+410,Louis-Nicolas Davout:(MILITARY PERSONNEL)::Taylor Lautner:X; X is POLITICIAN,ACTOR,False,True
+411,Taylor Lautner:(ACTOR)::Göran Persson:X; X is CHEMIST,POLITICIAN,False,True
+412,Göran Persson:(POLITICIAN)::Jean-Bédel Bokassa:X; X is POLITICIAN,POLITICIAN,False,False
+413,Jean-Bédel Bokassa:(POLITICIAN)::Edmund Ironside:X; X is ACTOR,POLITICIAN,False,True
+414,Edmund Ironside:(POLITICIAN)::Andrew Lloyd Webber:X; X is EXTREMIST,COMPOSER,False,True
+415,Andrew Lloyd Webber:(COMPOSER)::Scipio Aemilianus Africanus:X; X is POLITICIAN,POLITICIAN,True,True
+416,Scipio Aemilianus Africanus:(POLITICIAN)::Thomas the Apostle:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+417,Thomas the Apostle:(RELIGIOUS FIGURE)::Clotaire III:X; X is POLITICIAN,POLITICIAN,True,True
+418,Clotaire III:(POLITICIAN)::Philipp Kohlschreiber:X; X is TENNIS PLAYER,TENNIS PLAYER,True,True
+419,Philipp Kohlschreiber:(TENNIS PLAYER)::Philippe Gilbert:X; X is SOCCER PLAYER,CYCLIST,False,True
+420,Philippe Gilbert:(CYCLIST)::Catherine Howard:X; X is COMPANION,COMPANION,False,False
+421,Catherine Howard:(COMPANION)::Eric Maskin:X; X is COMPOSER,ECONOMIST,False,True
+422,Eric Maskin:(ECONOMIST)::Alexey Pazhitnov:X; X is POLITICIAN,COMPUTER SCIENTIST,False,True
+423,Alexey Pazhitnov:(COMPUTER SCIENTIST)::Helen Hayes:X; X is WRITER,ACTOR,False,True
+424,Helen Hayes:(ACTOR)::Jimmy Jump:X; X is CELEBRITY,CELEBRITY,False,False
+425,Jimmy Jump:(CELEBRITY)::Paul Ryan:X; X is POLITICIAN,POLITICIAN,True,True
+426,Paul Ryan:(POLITICIAN)::Rabbi Akiva:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+427,Rabbi Akiva:(RELIGIOUS FIGURE)::Steven Pienaar:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+428,Steven Pienaar:(SOCCER PLAYER)::Salman Khan:X; X is ACTOR,ACTOR,True,True
+429,Salman Khan:(ACTOR)::Abdullah II of Jordan:X; X is SOCIAL ACTIVIST,POLITICIAN,False,True
+430,Abdullah II of Jordan:(POLITICIAN)::Megasthenes:X; X is DIPLOMAT,DIPLOMAT,True,True
+431,Megasthenes:(DIPLOMAT)::Nerva:X; X is SOCCER PLAYER,POLITICIAN,False,True
+432,Nerva:(POLITICIAN)::Carlos Gamarra:X; X is WRITER,SOCCER PLAYER,False,True
+433,Carlos Gamarra:(SOCCER PLAYER)::William Butler Yeats:X; X is BIOLOGIST,WRITER,False,True
+434,William Butler Yeats:(WRITER)::Peter Paul Rubens:X; X is PAINTER,PAINTER,True,True
+435,Peter Paul Rubens:(PAINTER)::James Naismith:X; X is MUSICIAN,INVENTOR,False,True
+436,James Naismith:(INVENTOR)::William Shatner:X; X is SINGER,ACTOR,True,False
+437,William Shatner:(ACTOR)::Qaboos bin Said Al Said of Oman:X; X is ACTOR,POLITICIAN,False,True
+438,Qaboos bin Said Al Said of Oman:(POLITICIAN)::Pelayo of Asturias:X; X is POLITICIAN,POLITICIAN,True,True
+439,Pelayo of Asturias:(POLITICIAN)::Georgia O'Keeffe:X; X is ARTIST,ARTIST,True,True
+440,Georgia O'Keeffe:(ARTIST)::Karl Friedrich Abel:X; X is POLITICIAN,COMPOSER,False,True
+441,Karl Friedrich Abel:(COMPOSER)::Juan Pablo Montoya:X; X is PAINTER,RACECAR DRIVER,False,True
+442,Juan Pablo Montoya:(RACECAR DRIVER)::John Milnor:X; X is PHYSICIAN,MATHEMATICIAN,False,True
+443,John Milnor:(MATHEMATICIAN)::Claude Joseph Rouget de Lisle:X; X is POLITICIAN,COMPOSER,False,True
+444,Claude Joseph Rouget de Lisle:(COMPOSER)::John Wayne Gacy:X; X is EXTREMIST,EXTREMIST,False,False
+445,John Wayne Gacy:(EXTREMIST)::Titus:X; X is POLITICIAN,POLITICIAN,False,False
+446,Titus:(POLITICIAN)::Alvin Toffler:X; X is WRITER,WRITER,True,True
+447,Alvin Toffler:(WRITER)::Nikolai Trubetzkoy:X; X is ATHLETE,LINGUIST,False,True
+448,Nikolai Trubetzkoy:(LINGUIST)::Albert Hofmann:X; X is CHEMIST,CHEMIST,True,True
+449,Albert Hofmann:(CHEMIST)::Gustav Stresemann:X; X is POLITICIAN,POLITICIAN,True,True
+450,Gustav Stresemann:(POLITICIAN)::Shia LaBeouf:X; X is WRITER,ACTOR,False,True
+451,Shia LaBeouf:(ACTOR)::Qin Shi Huang:X; X is SOCCER PLAYER,POLITICIAN,False,True
+452,Qin Shi Huang:(POLITICIAN)::Willi Stoph:X; X is ACTOR,POLITICIAN,False,True
+453,Willi Stoph:(POLITICIAN)::Nicéphore Niépce:X; X is COMPOSER,INVENTOR,False,True
+454,Nicéphore Niépce:(INVENTOR)::Gene Kelly:X; X is ACTOR,ACTOR,True,True
+455,Gene Kelly:(ACTOR)::Jonny Greenwood:X; X is MUSICIAN,MUSICIAN,True,True
+456,Jonny Greenwood:(MUSICIAN)::Jason Newsted:X; X is POLITICIAN,MUSICIAN,False,True
+457,Jason Newsted:(MUSICIAN)::Carrie-Anne Moss:X; X is POLITICIAN,ACTOR,False,True
+458,Carrie-Anne Moss:(ACTOR)::Lily Tomlin:X; X is ACTOR,ACTOR,True,True
+459,Lily Tomlin:(ACTOR)::Fyodor Tyutchev:X; X is POLITICIAN,WRITER,False,True
+460,Fyodor Tyutchev:(WRITER)::Stiliyan Petrov:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+461,Stiliyan Petrov:(SOCCER PLAYER)::Lauryn Hill:X; X is MUSICIAN,MUSICIAN,True,True
+462,Lauryn Hill:(MUSICIAN)::Nelson Haedo Valdez:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+463,Nelson Haedo Valdez:(SOCCER PLAYER)::Tobey Maguire:X; X is COMPANION,ACTOR,False,True
+464,Tobey Maguire:(ACTOR)::Per Mertesacker:X; X is RELIGIOUS FIGURE,SOCCER PLAYER,False,True
+465,Per Mertesacker:(SOCCER PLAYER)::George Peppard:X; X is ACTOR,ACTOR,True,True
+466,George Peppard:(ACTOR)::Zinedine Zidane:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+467,Zinedine Zidane:(SOCCER PLAYER)::Gorgias:X; X is BUSINESSPERSON,PHILOSOPHER,False,True
+468,Gorgias:(PHILOSOPHER)::Pascal Couchepin:X; X is POLITICIAN,POLITICIAN,True,True
+469,Pascal Couchepin:(POLITICIAN)::Walter Gargano:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+470,"Walter Gargano:(SOCCER PLAYER)::Ferdinando I de' Medici, Grand Duke of Tuscany:X; X is POLITICIAN",NOBLEMAN,True,False
+471,"Ferdinando I de' Medici, Grand Duke of Tuscany:(NOBLEMAN)::Publius Quinctilius Varus:X; X is WRITER",POLITICIAN,False,True
+472,Publius Quinctilius Varus:(POLITICIAN)::Rob Halford:X; X is WRESTLER,SINGER,False,True
+473,Rob Halford:(SINGER)::D. W. Griffith:X; X is PHILOSOPHER,FILM DIRECTOR,False,True
+474,D. W. Griffith:(FILM DIRECTOR)::Djimon Hounsou:X; X is PSYCHOLOGIST,ACTOR,False,True
+475,Djimon Hounsou:(ACTOR)::Thibaut Courtois:X; X is PHYSICIAN,SOCCER PLAYER,False,True
+476,Thibaut Courtois:(SOCCER PLAYER)::Casimir IV Jagiellon:X; X is POLITICIAN,POLITICIAN,True,True
+477,Casimir IV Jagiellon:(POLITICIAN)::Debby Ryan:X; X is FILM DIRECTOR,ACTOR,False,True
+478,Debby Ryan:(ACTOR)::Andrea Mantegna:X; X is POLITICIAN,PAINTER,False,True
+479,Andrea Mantegna:(PAINTER)::V.S. Naipaul:X; X is CHEMIST,WRITER,False,True
+480,V.S. Naipaul:(WRITER)::Heinz Fischer:X; X is POLITICIAN,POLITICIAN,True,True
+481,Heinz Fischer:(POLITICIAN)::Amos Oz:X; X is WRITER,WRITER,True,True
+482,Amos Oz:(WRITER)::Jean-Marc Ayrault:X; X is SOCCER PLAYER,POLITICIAN,False,True
+483,Jean-Marc Ayrault:(POLITICIAN)::Ferenc Puskás:X; X is WRITER,SOCCER PLAYER,False,True
+484,Ferenc Puskás:(SOCCER PLAYER)::Kim Yong-nam:X; X is POLITICIAN,POLITICIAN,True,True
+485,Kim Yong-nam:(POLITICIAN)::Euzebiusz Smolarek:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+486,Euzebiusz Smolarek:(SOCCER PLAYER)::John McLaughlin:X; X is MUSICIAN,MUSICIAN,True,True
+487,John McLaughlin:(MUSICIAN)::Gabriella Cilmi:X; X is SINGER,SINGER,True,True
+488,Gabriella Cilmi:(SINGER)::Chuck Berry:X; X is RELIGIOUS FIGURE,MUSICIAN,False,True
+489,Chuck Berry:(MUSICIAN)::Ville Valo:X; X is SINGER,SINGER,True,True
+490,Ville Valo:(SINGER)::William Styron:X; X is WRITER,WRITER,True,True
+491,William Styron:(WRITER)::Theobald von Bethmann-Hollweg:X; X is POLITICIAN,POLITICIAN,True,True
+492,Theobald von Bethmann-Hollweg:(POLITICIAN)::Sinan:X; X is SOCCER PLAYER,ARCHITECT,False,True
+493,Sinan:(ARCHITECT)::Ivan Vladimirovich Michurin:X; X is BIOLOGIST,BIOLOGIST,True,True
+494,Ivan Vladimirovich Michurin:(BIOLOGIST)::Wilhelm Marx:X; X is PHILOSOPHER,POLITICIAN,False,True
+495,Wilhelm Marx:(POLITICIAN)::Howard Hawks:X; X is FILM DIRECTOR,FILM DIRECTOR,True,True
+496,Howard Hawks:(FILM DIRECTOR)::Pope Nicholas V:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+497,Pope Nicholas V:(RELIGIOUS FIGURE)::John Barry:X; X is COMPOSER,COMPOSER,True,True
+498,John Barry:(COMPOSER)::Charles Rennie Mackintosh:X; X is DESIGNER,DESIGNER,True,True
+499,Charles Rennie Mackintosh:(DESIGNER)::Demetrius Vikelas:X; X is WRITER,WRITER,True,True
+500,Demetrius Vikelas:(WRITER)::Michel Eugène Chevreul:X; X is POLITICIAN,CHEMIST,False,True
+501,Michel Eugène Chevreul:(CHEMIST)::Nadar:X; X is PHOTOGRAPHER,PHOTOGRAPHER,True,True
+502,Nadar:(PHOTOGRAPHER)::Pope Paul III:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+503,Pope Paul III:(RELIGIOUS FIGURE)::Lars Onsager:X; X is COMPOSER,CHEMIST,False,True
+504,Lars Onsager:(CHEMIST)::Prince Harry of Wales:X; X is WRITER,NOBLEMAN,False,True
+505,Prince Harry of Wales:(NOBLEMAN)::Bahram II:X; X is POLITICIAN,POLITICIAN,False,False
+506,Bahram II:(POLITICIAN)::Muawiyah I:X; X is WRITER,POLITICIAN,False,True
+507,Muawiyah I:(POLITICIAN)::Blake Griffin:X; X is SOCCER PLAYER,BASKETBALL PLAYER,False,True
+508,Blake Griffin:(BASKETBALL PLAYER)::Karen Blixen:X; X is MUSICIAN,WRITER,False,True
+509,Karen Blixen:(WRITER)::Sheryl Crow:X; X is POLITICIAN,SINGER,False,True
+510,Sheryl Crow:(SINGER)::Ambroise Thomas:X; X is COMPOSER,COMPOSER,True,True
+511,Ambroise Thomas:(COMPOSER)::William of Ockham:X; X is EXTREMIST,PHILOSOPHER,False,True
+512,William of Ockham:(PHILOSOPHER)::Sándor Petőfi:X; X is WRITER,WRITER,True,True
+513,Sándor Petőfi:(WRITER)::Ewan McGregor:X; X is POLITICIAN,ACTOR,False,True
+514,Ewan McGregor:(ACTOR)::Larissa Latynina:X; X is GYMNAST,GYMNAST,True,True
+515,Larissa Latynina:(GYMNAST)::Paulo Coelho:X; X is ACTOR,WRITER,False,True
+516,Paulo Coelho:(WRITER)::Johan Ludvig Runeberg:X; X is WRITER,WRITER,True,True
+517,Johan Ludvig Runeberg:(WRITER)::Herbert Simon:X; X is ECONOMIST,ECONOMIST,True,True
+518,Herbert Simon:(ECONOMIST)::Igor Semshov:X; X is FILM DIRECTOR,SOCCER PLAYER,False,True
+519,Igor Semshov:(SOCCER PLAYER)::Bradley Manning:X; X is MILITARY PERSONNEL,MILITARY PERSONNEL,True,True
+520,Bradley Manning:(MILITARY PERSONNEL)::Harry Kewell:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+521,Harry Kewell:(SOCCER PLAYER)::Joseph Kony:X; X is POLITICIAN,EXTREMIST,False,True
+522,Joseph Kony:(EXTREMIST)::Celeste Holm:X; X is MUSICIAN,ACTOR,False,True
+523,Celeste Holm:(ACTOR)::Melanie Chisholm:X; X is SINGER,SINGER,True,True
+524,Melanie Chisholm:(SINGER)::Woody Guthrie:X; X is MUSICIAN,MUSICIAN,True,True
+525,Woody Guthrie:(MUSICIAN)::Don Rosa:X; X is WRITER,COMIC ARTIST,True,False
+526,Don Rosa:(COMIC ARTIST)::Rod Laver:X; X is TENNIS PLAYER,TENNIS PLAYER,True,True
+527,Rod Laver:(TENNIS PLAYER)::Danica Patrick:X; X is RACECAR DRIVER,RACECAR DRIVER,True,True
+528,Danica Patrick:(RACECAR DRIVER)::William Crookes:X; X is MUSICIAN,CHEMIST,False,True
+529,William Crookes:(CHEMIST)::Dylan Thomas:X; X is ECONOMIST,WRITER,False,True
+530,Dylan Thomas:(WRITER)::Daniel Kahneman:X; X is PHILOSOPHER,PSYCHOLOGIST,False,True
+531,Daniel Kahneman:(PSYCHOLOGIST)::Mehmed III:X; X is POLITICIAN,POLITICIAN,True,True
+532,Mehmed III:(POLITICIAN)::Kate Winslet:X; X is ACTOR,ACTOR,True,True
+533,Kate Winslet:(ACTOR)::Hector Berlioz:X; X is COMPOSER,COMPOSER,True,True
+534,Hector Berlioz:(COMPOSER)::Herbert von Karajan:X; X is CONDUCTOR,CONDUCTOR,True,True
+535,Herbert von Karajan:(CONDUCTOR)::Mikhail Khodorkovsky:X; X is BUSINESSPERSON,BUSINESSPERSON,True,True
+536,Mikhail Khodorkovsky:(BUSINESSPERSON)::Clint Mansell:X; X is MOUNTAINEER,COMPOSER,False,True
+537,Clint Mansell:(COMPOSER)::Amr Moussa:X; X is DIPLOMAT,DIPLOMAT,True,True
+538,Amr Moussa:(DIPLOMAT)::Kim Campbell:X; X is POLITICIAN,POLITICIAN,True,True
+539,Kim Campbell:(POLITICIAN)::Gurbanguly Berdimuhammedow:X; X is PHYSICIST,POLITICIAN,False,True
+540,Gurbanguly Berdimuhammedow:(POLITICIAN)::Alberto Giacometti:X; X is ARTIST,ARTIST,True,True
+541,Alberto Giacometti:(ARTIST)::Nathuram Godse:X; X is MUSICIAN,EXTREMIST,False,True
+542,Nathuram Godse:(EXTREMIST)::Carla Del Ponte:X; X is MATHEMATICIAN,LAWYER,False,True
+543,Carla Del Ponte:(LAWYER)::Isaac:X; X is CHEMIST,RELIGIOUS FIGURE,True,False
+544,Isaac:(RELIGIOUS FIGURE)::Louis Daguerre:X; X is INVENTOR,INVENTOR,True,True
+545,Louis Daguerre:(INVENTOR)::Evangelista Torricelli:X; X is SINGER,PHYSICIST,False,True
+546,Evangelista Torricelli:(PHYSICIST)::Angus Young:X; X is MUSICIAN,MUSICIAN,True,True
+547,"Angus Young:(MUSICIAN)::Cesare, Marquis of Beccaria:X; X is MUSICIAN",PHILOSOPHER,False,True
+548,"Cesare, Marquis of Beccaria:(PHILOSOPHER)::Marin Marais:X; X is ACTOR",COMPOSER,False,True
+549,Marin Marais:(COMPOSER)::Richard Dunne:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+550,Richard Dunne:(SOCCER PLAYER)::Kate Beckinsale:X; X is PAINTER,ACTOR,False,True
+551,Kate Beckinsale:(ACTOR)::Pope Pius VI:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+552,Pope Pius VI:(RELIGIOUS FIGURE)::Jack Rodwell:X; X is PAINTER,SOCCER PLAYER,False,True
+553,Jack Rodwell:(SOCCER PLAYER)::Paavo Nurmi:X; X is NOBLEMAN,ATHLETE,False,True
+554,Paavo Nurmi:(ATHLETE)::Vittorio Gassman:X; X is ACTOR,ACTOR,True,True
+555,Vittorio Gassman:(ACTOR)::Victor Vasarely:X; X is SINGER,ARTIST,False,True
+556,Victor Vasarely:(ARTIST)::Myron Scholes:X; X is MATHEMATICIAN,ECONOMIST,False,True
+557,Myron Scholes:(ECONOMIST)::Malala Yousafzai:X; X is POLITICIAN,SOCIAL ACTIVIST,False,True
+558,Malala Yousafzai:(SOCIAL ACTIVIST)::Jacques Necker:X; X is POLITICIAN,POLITICIAN,True,True
+559,Jacques Necker:(POLITICIAN)::Cyaxares:X; X is CONDUCTOR,POLITICIAN,False,True
+560,Cyaxares:(POLITICIAN)::Larry Flynt:X; X is TENNIS PLAYER,BUSINESSPERSON,False,True
+561,Larry Flynt:(BUSINESSPERSON)::R. Kelly:X; X is SINGER,SINGER,True,True
+562,R. Kelly:(SINGER)::Jonny Evans:X; X is WRITER,SOCCER PLAYER,False,True
+563,Jonny Evans:(SOCCER PLAYER)::Robert Owen:X; X is SOCIAL ACTIVIST,SOCIAL ACTIVIST,True,True
+564,Robert Owen:(SOCIAL ACTIVIST)::Zoltán Kodály:X; X is EXPLORER,COMPOSER,False,True
+565,Zoltán Kodály:(COMPOSER)::Klaus Wowereit:X; X is COMPOSER,POLITICIAN,False,True
+566,Klaus Wowereit:(POLITICIAN)::Umaru Musa Yar'Adua:X; X is POLITICIAN,POLITICIAN,True,True
+567,Umaru Musa Yar'Adua:(POLITICIAN)::Wilhelm Grimm:X; X is POLITICIAN,WRITER,False,True
+568,Wilhelm Grimm:(WRITER)::Tetricus I:X; X is PAINTER,POLITICIAN,False,True
+569,Tetricus I:(POLITICIAN)::Alexandra Maria Lara:X; X is ACTOR,ACTOR,True,True
+570,Alexandra Maria Lara:(ACTOR)::Andronikos III Palaiologos:X; X is POLITICIAN,POLITICIAN,True,True
+571,Andronikos III Palaiologos:(POLITICIAN)::Childebert II:X; X is POLITICIAN,POLITICIAN,False,False
+572,Childebert II:(POLITICIAN)::Peter I of Portugal:X; X is POLITICIAN,POLITICIAN,True,True
+573,Peter I of Portugal:(POLITICIAN)::Emily Blunt:X; X is ACTOR,ACTOR,True,True
+574,Emily Blunt:(ACTOR)::Manuel Pinto da Costa:X; X is POLITICIAN,POLITICIAN,True,True
+575,Manuel Pinto da Costa:(POLITICIAN)::Panaetius:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+576,Panaetius:(PHILOSOPHER)::Ravshan Irmatov:X; X is REFEREE,REFEREE,True,True
+577,Ravshan Irmatov:(REFEREE)::Ron Perlman:X; X is TENNIS PLAYER,ACTOR,False,True
+578,Ron Perlman:(ACTOR)::Wilhelm Maybach:X; X is INVENTOR,INVENTOR,True,True
+579,Wilhelm Maybach:(INVENTOR)::Christopher Wren:X; X is ARCHITECT,ARCHITECT,True,True
+580,Christopher Wren:(ARCHITECT)::Joseph Erlanger:X; X is PHYSICIAN,PHYSICIAN,True,True
+581,Joseph Erlanger:(PHYSICIAN)::Cyndi Lauper:X; X is MUSICIAN,MUSICIAN,True,True
+582,Cyndi Lauper:(MUSICIAN)::Stamford Raffles:X; X is ACTOR,POLITICIAN,False,True
+583,Stamford Raffles:(POLITICIAN)::Sting:X; X is FILM DIRECTOR,MUSICIAN,False,True
+584,"Sting:(MUSICIAN)::Christina, Queen of Sweden:X; X is POLITICIAN",POLITICIAN,True,True
+585,"Christina, Queen of Sweden:(POLITICIAN)::Joachim du Bellay:X; X is WRITER",WRITER,True,True
+586,Joachim du Bellay:(WRITER)::Thabo Mbeki:X; X is POLITICIAN,POLITICIAN,True,True
+587,Thabo Mbeki:(POLITICIAN)::Rudyard Kipling:X; X is WRITER,WRITER,True,True
+588,Rudyard Kipling:(WRITER)::Donna Summer:X; X is POLITICIAN,SINGER,False,True
+589,Donna Summer:(SINGER)::Asif Ali Zardari:X; X is POLITICIAN,POLITICIAN,True,True
+590,Asif Ali Zardari:(POLITICIAN)::Heraclitus:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+591,Heraclitus:(PHILOSOPHER)::Hormizd I:X; X is POLITICIAN,POLITICIAN,True,True
+592,Hormizd I:(POLITICIAN)::Vasco da Gama:X; X is POLITICIAN,EXPLORER,False,True
+593,Vasco da Gama:(EXPLORER)::Eduardo Frei Montalva:X; X is FILM DIRECTOR,POLITICIAN,False,True
+594,Eduardo Frei Montalva:(POLITICIAN)::Clive Owen:X; X is ACTOR,ACTOR,True,True
+595,Clive Owen:(ACTOR)::Norodom Sihanouk:X; X is POLITICIAN,POLITICIAN,True,True
+596,Norodom Sihanouk:(POLITICIAN)::Henry the Lion:X; X is ACTOR,POLITICIAN,False,True
+597,Henry the Lion:(POLITICIAN)::Demetrio Albertini:X; X is CHEMIST,SOCCER PLAYER,False,True
+598,Demetrio Albertini:(SOCCER PLAYER)::Nuno Gomes:X; X is WRITER,SOCCER PLAYER,False,True
+599,Nuno Gomes:(SOCCER PLAYER)::Igor Belanov:X; X is RELIGIOUS FIGURE,SOCCER PLAYER,False,True
+600,Igor Belanov:(SOCCER PLAYER)::Hans Fallada:X; X is WRITER,WRITER,True,True
+601,Hans Fallada:(WRITER)::Robert Hofstadter:X; X is PHYSICIST,PHYSICIST,True,True
+602,Robert Hofstadter:(PHYSICIST)::Lhasa de Sela:X; X is POLITICIAN,SINGER,False,True
+603,Lhasa de Sela:(SINGER)::John Rawls:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+604,John Rawls:(PHILOSOPHER)::Bogdan Lobonţ:X; X is POLITICIAN,SOCCER PLAYER,False,True
+605,Bogdan Lobonţ:(SOCCER PLAYER)::Kangxi Emperor:X; X is PHILOSOPHER,POLITICIAN,False,True
+606,Kangxi Emperor:(POLITICIAN)::David Bohm:X; X is MILITARY PERSONNEL,PHYSICIST,False,True
+607,David Bohm:(PHYSICIST)::Thora Birch:X; X is ACTOR,ACTOR,True,True
+608,Thora Birch:(ACTOR)::Jean Reno:X; X is POLITICIAN,ACTOR,False,True
+609,Jean Reno:(ACTOR)::Julie Andrews:X; X is ACTOR,ACTOR,True,True
+610,Julie Andrews:(ACTOR)::Engelbert Humperdinck:X; X is ATHLETE,SINGER,False,True
+611,Engelbert Humperdinck:(SINGER)::Aeschylus:X; X is WRITER,WRITER,True,True
+612,Aeschylus:(WRITER)::Viktor Zubkov:X; X is CHEMIST,POLITICIAN,False,True
+613,Viktor Zubkov:(POLITICIAN)::Kaarlo Juho Ståhlberg:X; X is ACTOR,POLITICIAN,False,True
+614,Kaarlo Juho Ståhlberg:(POLITICIAN)::Luigi Pirandello:X; X is SOCCER PLAYER,WRITER,False,True
+615,Luigi Pirandello:(WRITER)::Saloninus:X; X is POLITICIAN,POLITICIAN,False,False
+616,Saloninus:(POLITICIAN)::Kazuki Nakajima:X; X is RACECAR DRIVER,RACECAR DRIVER,True,True
+617,Kazuki Nakajima:(RACECAR DRIVER)::Jenna Jameson:X; X is PORNOGRAPHIC ACTOR,PORNOGRAPHIC ACTOR,True,True
+618,Jenna Jameson:(PORNOGRAPHIC ACTOR)::Gerry Rafferty:X; X is WRITER,MUSICIAN,False,True
+619,Gerry Rafferty:(MUSICIAN)::Irina Bokova:X; X is MILITARY PERSONNEL,DIPLOMAT,False,True
+620,Irina Bokova:(DIPLOMAT)::Avram Hershko:X; X is PHYSICIAN,CHEMIST,False,True
+621,Avram Hershko:(CHEMIST)::Freida Pinto:X; X is ACTOR,ACTOR,True,True
+622,Freida Pinto:(ACTOR)::Gabriel Narutowicz:X; X is POLITICIAN,POLITICIAN,True,True
+623,Gabriel Narutowicz:(POLITICIAN)::Leona Lewis:X; X is SOCCER PLAYER,SINGER,False,True
+624,Leona Lewis:(SINGER)::Marie Tussaud:X; X is ACTOR,SCULPTOR,False,True
+625,Marie Tussaud:(SCULPTOR)::Matthew Perry:X; X is RELIGIOUS FIGURE,ACTOR,False,True
+626,Matthew Perry:(ACTOR)::Kim Novak:X; X is SINGER,ACTOR,False,True
+627,Kim Novak:(ACTOR)::Geoffrey Chaucer:X; X is WRITER,WRITER,True,True
+628,Geoffrey Chaucer:(WRITER)::Eoin Colfer:X; X is WRITER,WRITER,True,True
+629,Eoin Colfer:(WRITER)::Simon Marius:X; X is BOXER,ASTRONOMER,False,True
+630,Simon Marius:(ASTRONOMER)::Denílson Pereira Neves:X; X is ACTOR,SOCCER PLAYER,False,True
+631,Denílson Pereira Neves:(SOCCER PLAYER)::Luise Rainer:X; X is POLITICIAN,ACTOR,False,True
+632,Luise Rainer:(ACTOR)::Albrecht von Wallenstein:X; X is WRITER,MILITARY PERSONNEL,False,True
+633,Albrecht von Wallenstein:(MILITARY PERSONNEL)::Dave Brubeck:X; X is MUSICIAN,MUSICIAN,True,True
+634,Dave Brubeck:(MUSICIAN)::Abai Kunanbaiuli:X; X is WRITER,WRITER,True,True
+635,Abai Kunanbaiuli:(WRITER)::Hugh Hefner:X; X is BUSINESSPERSON,BUSINESSPERSON,True,True
+636,Hugh Hefner:(BUSINESSPERSON)::Enrique Granados:X; X is COMPOSER,COMPOSER,True,True
+637,Enrique Granados:(COMPOSER)::Epaminondas:X; X is TENNIS PLAYER,POLITICIAN,False,True
+638,Epaminondas:(POLITICIAN)::Cantinflas:X; X is ACTOR,ACTOR,True,True
+639,Cantinflas:(ACTOR)::William Saroyan:X; X is PHOTOGRAPHER,WRITER,False,True
+640,William Saroyan:(WRITER)::Steve Reich:X; X is COMPOSER,COMPOSER,True,True
+641,Steve Reich:(COMPOSER)::Yoshiro Mori:X; X is MUSICIAN,POLITICIAN,False,True
+642,Yoshiro Mori:(POLITICIAN)::Charles Greeley Abbot:X; X is ASTRONOMER,ASTRONOMER,True,True
+643,Charles Greeley Abbot:(ASTRONOMER)::Dominika Cibulková:X; X is TENNIS PLAYER,TENNIS PLAYER,True,True
+644,Dominika Cibulková:(TENNIS PLAYER)::Roger Waters:X; X is ATHLETE,MUSICIAN,False,True
+645,Roger Waters:(MUSICIAN)::Erich Hartmann:X; X is MILITARY PERSONNEL,MILITARY PERSONNEL,True,True
+646,Erich Hartmann:(MILITARY PERSONNEL)::George Harrison:X; X is MUSICIAN,MUSICIAN,True,True
+647,George Harrison:(MUSICIAN)::Odysseas Elytis:X; X is MUSICIAN,WRITER,False,True
+648,Odysseas Elytis:(WRITER)::Yaya Touré:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+649,Yaya Touré:(SOCCER PLAYER)::Robert Patrick:X; X is ACTOR,ACTOR,True,True
+650,Robert Patrick:(ACTOR)::Sarah Wayne Callies:X; X is PHILOSOPHER,ACTOR,False,True
+651,Sarah Wayne Callies:(ACTOR)::Louis VII of France:X; X is INVENTOR,POLITICIAN,False,True
+652,Louis VII of France:(POLITICIAN)::Wong Kar-wai:X; X is SOCCER PLAYER,FILM DIRECTOR,False,True
+653,Wong Kar-wai:(FILM DIRECTOR)::Jean-Pierre Serre:X; X is SINGER,MATHEMATICIAN,False,True
+654,Jean-Pierre Serre:(MATHEMATICIAN)::Thom Mayne:X; X is ARCHITECT,ARCHITECT,True,True
+655,Thom Mayne:(ARCHITECT)::Anders Behring Breivik:X; X is EXTREMIST,EXTREMIST,True,True
+656,Anders Behring Breivik:(EXTREMIST)::Teti:X; X is SOCCER PLAYER,POLITICIAN,False,True
+657,Teti:(POLITICIAN)::Paul-Henri Mathieu:X; X is COMPOSER,TENNIS PLAYER,False,True
+658,Paul-Henri Mathieu:(TENNIS PLAYER)::Muhammad:X; X is PHILOSOPHER,RELIGIOUS FIGURE,False,True
+659,Muhammad:(RELIGIOUS FIGURE)::Thomas Edison:X; X is POLITICIAN,INVENTOR,False,True
+660,Thomas Edison:(INVENTOR)::Ezra Pound:X; X is POLITICIAN,WRITER,False,True
+661,Ezra Pound:(WRITER)::Doutzen Kroes:X; X is MODEL,MODEL,True,True
+662,Doutzen Kroes:(MODEL)::Pope Adrian III:X; X is WRITER,RELIGIOUS FIGURE,False,True
+663,Pope Adrian III:(RELIGIOUS FIGURE)::Rosario Dawson:X; X is HISTORIAN,ACTOR,False,True
+664,Rosario Dawson:(ACTOR)::Pope Benedict VIII:X; X is SINGER,RELIGIOUS FIGURE,False,True
+665,Pope Benedict VIII:(RELIGIOUS FIGURE)::Miloš Forman:X; X is FILM DIRECTOR,FILM DIRECTOR,True,True
+666,Miloš Forman:(FILM DIRECTOR)::Kurt von Schleicher:X; X is COMPOSER,POLITICIAN,False,True
+667,Kurt von Schleicher:(POLITICIAN)::Katie Melua:X; X is SINGER,SINGER,True,True
+668,Katie Melua:(SINGER)::Beck Hansen:X; X is MUSICIAN,MUSICIAN,True,True
+669,Beck Hansen:(MUSICIAN)::Michael Rensing:X; X is COMPOSER,SOCCER PLAYER,False,True
+670,Michael Rensing:(SOCCER PLAYER)::Shania Twain:X; X is POLITICIAN,SINGER,False,True
+671,Shania Twain:(SINGER)::Tirunesh Dibaba:X; X is ACTOR,ATHLETE,False,True
+672,Tirunesh Dibaba:(ATHLETE)::David Albelda:X; X is ACTOR,SOCCER PLAYER,False,True
+673,David Albelda:(SOCCER PLAYER)::America Ferrera:X; X is ACTOR,ACTOR,True,True
+674,America Ferrera:(ACTOR)::Marek Edelman:X; X is PRESENTER,POLITICIAN,False,True
+675,Marek Edelman:(POLITICIAN)::Willie Nelson:X; X is MUSICIAN,MUSICIAN,True,True
+676,Willie Nelson:(MUSICIAN)::Maria II of Portugal:X; X is POLITICIAN,POLITICIAN,False,False
+677,Maria II of Portugal:(POLITICIAN)::Cindy Crawford:X; X is ACTOR,MODEL,False,True
+678,Cindy Crawford:(MODEL)::Bourvil:X; X is ACTOR,ACTOR,True,True
+679,Bourvil:(ACTOR)::Yasujiro Ozu:X; X is POLITICIAN,FILM DIRECTOR,False,True
+680,Yasujiro Ozu:(FILM DIRECTOR)::Michel Vorm:X; X is ACTOR,SOCCER PLAYER,False,True
+681,Michel Vorm:(SOCCER PLAYER)::Kevin Smith:X; X is FILM DIRECTOR,FILM DIRECTOR,True,True
+682,Kevin Smith:(FILM DIRECTOR)::Robert A. Heinlein:X; X is WRITER,WRITER,True,True
+683,Robert A. Heinlein:(WRITER)::Childebert III:X; X is CHEMIST,POLITICIAN,False,True
+684,Childebert III:(POLITICIAN)::Brian Cowen:X; X is COMPOSER,POLITICIAN,False,True
+685,Brian Cowen:(POLITICIAN)::Amadeo I of Spain:X; X is POLITICIAN,POLITICIAN,False,False
+686,Amadeo I of Spain:(POLITICIAN)::Valery Leontyev:X; X is SINGER,SINGER,True,True
+687,Valery Leontyev:(SINGER)::Mitchel Musso:X; X is SOCCER PLAYER,ACTOR,False,True
+688,Mitchel Musso:(ACTOR)::Chinghiz Aitmatov:X; X is POLITICIAN,WRITER,False,True
+689,Chinghiz Aitmatov:(WRITER)::Andrey Voznesensky:X; X is WRITER,WRITER,True,True
+690,Andrey Voznesensky:(WRITER)::Rani Mukerji:X; X is ACTOR,ACTOR,True,True
+691,Rani Mukerji:(ACTOR)::Sergei Witte:X; X is POLITICIAN,POLITICIAN,True,True
+692,Sergei Witte:(POLITICIAN)::John D. Rockefeller:X; X is BUSINESSPERSON,BUSINESSPERSON,True,True
+693,John D. Rockefeller:(BUSINESSPERSON)::Umberto Giordano:X; X is ACTOR,COMPOSER,False,True
+694,Umberto Giordano:(COMPOSER)::Goran Hadžić:X; X is POLITICIAN,POLITICIAN,True,True
+695,Goran Hadžić:(POLITICIAN)::Maximilian Kolbe:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+696,Maximilian Kolbe:(RELIGIOUS FIGURE)::Frida Kahlo:X; X is PAINTER,PAINTER,True,True
+697,Frida Kahlo:(PAINTER)::Sotirios Kyrgiakos:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+698,Sotirios Kyrgiakos:(SOCCER PLAYER)::Norah Jones:X; X is MILITARY PERSONNEL,MUSICIAN,False,True
+699,Norah Jones:(MUSICIAN)::Henri Lebesgue:X; X is ARTIST,MATHEMATICIAN,False,True
+700,Henri Lebesgue:(MATHEMATICIAN)::Asaph Hall:X; X is MUSICIAN,ASTRONOMER,False,True
+701,Asaph Hall:(ASTRONOMER)::Lucius Tarquinius Superbus:X; X is COMPOSER,POLITICIAN,False,True
+702,Lucius Tarquinius Superbus:(POLITICIAN)::Duccio:X; X is COMPOSER,ARTIST,False,True
+703,Duccio:(ARTIST)::Karlheinz Stockhausen:X; X is COMPOSER,COMPOSER,True,True
+704,Karlheinz Stockhausen:(COMPOSER)::Aphex Twin:X; X is POLITICIAN,MUSICIAN,False,True
+705,Aphex Twin:(MUSICIAN)::Gustavo Adolfo Bécquer:X; X is WRITER,WRITER,True,True
+706,Gustavo Adolfo Bécquer:(WRITER)::John Hunyadi:X; X is POLITICIAN,POLITICIAN,True,True
+707,John Hunyadi:(POLITICIAN)::Matthias Jakob Schleiden:X; X is ACTOR,BIOLOGIST,False,True
+708,Matthias Jakob Schleiden:(BIOLOGIST)::Al-Ghazali:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+709,Al-Ghazali:(PHILOSOPHER)::Yoshihiko Noda:X; X is POLITICIAN,POLITICIAN,True,True
+710,Yoshihiko Noda:(POLITICIAN)::Bill Cosby:X; X is ACTOR,ACTOR,True,True
+711,Bill Cosby:(ACTOR)::Alexander I of Macedon:X; X is WRITER,POLITICIAN,False,True
+712,Alexander I of Macedon:(POLITICIAN)::Alberto Santos-Dumont:X; X is ARCHITECT,INVENTOR,False,True
+713,Alberto Santos-Dumont:(INVENTOR)::Django Reinhardt:X; X is MILITARY PERSONNEL,MUSICIAN,False,True
+714,Django Reinhardt:(MUSICIAN)::Dinara Safina:X; X is TENNIS PLAYER,TENNIS PLAYER,True,True
+715,Dinara Safina:(TENNIS PLAYER)::Hank Azaria:X; X is ACTOR,ACTOR,True,True
+716,Hank Azaria:(ACTOR)::Christian Ziege:X; X is WRITER,SOCCER PLAYER,False,True
+717,Christian Ziege:(SOCCER PLAYER)::Pope Honorius I:X; X is MUSICIAN,RELIGIOUS FIGURE,False,True
+718,Pope Honorius I:(RELIGIOUS FIGURE)::John I of France:X; X is COMPOSER,POLITICIAN,False,True
+719,John I of France:(POLITICIAN)::Tim Allen:X; X is BUSINESSPERSON,ACTOR,False,True
+720,Tim Allen:(ACTOR)::Viktor Yushchenko:X; X is POLITICIAN,POLITICIAN,True,True
+721,Viktor Yushchenko:(POLITICIAN)::Eadweard Muybridge:X; X is PHOTOGRAPHER,PHOTOGRAPHER,True,True
+722,Eadweard Muybridge:(PHOTOGRAPHER)::Sébastien Bourdais:X; X is DESIGNER,RACECAR DRIVER,False,True
+723,Sébastien Bourdais:(RACECAR DRIVER)::Filippo Lippi:X; X is ACTOR,PAINTER,False,True
+724,Filippo Lippi:(PAINTER)::Stephen Hawking:X; X is PHYSICIST,PHYSICIST,True,True
+725,Stephen Hawking:(PHYSICIST)::Nick Clegg:X; X is ACTOR,POLITICIAN,False,True
+726,Nick Clegg:(POLITICIAN)::Claude Elwood Shannon:X; X is ACTOR,COMPUTER SCIENTIST,False,True
+727,Claude Elwood Shannon:(COMPUTER SCIENTIST)::Eumenes:X; X is POLITICIAN,MILITARY PERSONNEL,False,True
+728,Eumenes:(MILITARY PERSONNEL)::Larry Wall:X; X is WRITER,COMPUTER SCIENTIST,True,False
+729,Larry Wall:(COMPUTER SCIENTIST)::Burebista:X; X is JOURNALIST,POLITICIAN,False,True
+730,Burebista:(POLITICIAN)::T. E. Lawrence:X; X is MILITARY PERSONNEL,MILITARY PERSONNEL,True,True
+731,T. E. Lawrence:(MILITARY PERSONNEL)::Renzo Piano:X; X is ARCHITECT,ARCHITECT,True,True
+732,Renzo Piano:(ARCHITECT)::Stanisław Konarski:X; X is WRITER,WRITER,True,True
+733,Stanisław Konarski:(WRITER)::Władysław IV Vasa:X; X is SOCCER PLAYER,POLITICIAN,False,True
+734,Władysław IV Vasa:(POLITICIAN)::Joaquim Chissano:X; X is POLITICIAN,POLITICIAN,True,True
+735,Joaquim Chissano:(POLITICIAN)::Dr. Dre:X; X is ARTIST,SINGER,True,False
+736,Dr. Dre:(SINGER)::Mario Mandžukić:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+737,Mario Mandžukić:(SOCCER PLAYER)::Alexis de Tocqueville:X; X is MUSICIAN,HISTORIAN,False,True
+738,Alexis de Tocqueville:(HISTORIAN)::Shimon Peres:X; X is POLITICIAN,POLITICIAN,True,True
+739,Shimon Peres:(POLITICIAN)::Jean-Jacques Annaud:X; X is FILM DIRECTOR,FILM DIRECTOR,True,True
+740,Jean-Jacques Annaud:(FILM DIRECTOR)::Artaxerxes I of Persia:X; X is BIOLOGIST,POLITICIAN,False,True
+741,Artaxerxes I of Persia:(POLITICIAN)::Patty Schnyder:X; X is TENNIS PLAYER,TENNIS PLAYER,True,True
+742,Patty Schnyder:(TENNIS PLAYER)::Abigail Breslin:X; X is ACTOR,ACTOR,True,True
+743,Abigail Breslin:(ACTOR)::Martin de Porres:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+744,Martin de Porres:(RELIGIOUS FIGURE)::Bernie Mac:X; X is POLITICIAN,ACTOR,False,True
+745,Bernie Mac:(ACTOR)::Caetano Veloso:X; X is MUSICIAN,MUSICIAN,True,True
+746,Caetano Veloso:(MUSICIAN)::Émile Borel:X; X is WRITER,MATHEMATICIAN,False,True
+747,Émile Borel:(MATHEMATICIAN)::Val Kilmer:X; X is ACTOR,ACTOR,True,True
+748,Val Kilmer:(ACTOR)::Richard Burton:X; X is ACTOR,ACTOR,True,True
+749,Richard Burton:(ACTOR)::Simon Wiesenthal:X; X is PHYSICIST,SOCIAL ACTIVIST,False,True
+750,Simon Wiesenthal:(SOCIAL ACTIVIST)::Maurice Béjart:X; X is POLITICIAN,DANCER,False,True
+751,Maurice Béjart:(DANCER)::Michel Rocard:X; X is POLITICIAN,POLITICIAN,True,True
+752,Michel Rocard:(POLITICIAN)::Corazon Aquino:X; X is ACTOR,POLITICIAN,False,True
+753,Corazon Aquino:(POLITICIAN)::Baldwin IV of Jerusalem:X; X is SOCCER PLAYER,POLITICIAN,False,True
+754,Baldwin IV of Jerusalem:(POLITICIAN)::Amaziah of Judah:X; X is SOCCER PLAYER,POLITICIAN,False,True
+755,Amaziah of Judah:(POLITICIAN)::Paul J. Crutzen:X; X is EXTREMIST,CHEMIST,False,True
+756,Paul J. Crutzen:(CHEMIST)::Željko Kalac:X; X is PHYSICIST,SOCCER PLAYER,False,True
+757,Željko Kalac:(SOCCER PLAYER)::M. C. Escher:X; X is ARTIST,ARTIST,True,True
+758,M. C. Escher:(ARTIST)::Wilhelm Friedemann Bach:X; X is COMPOSER,COMPOSER,True,True
+759,Wilhelm Friedemann Bach:(COMPOSER)::Nynetjer:X; X is POLITICIAN,POLITICIAN,False,False
+760,Nynetjer:(POLITICIAN)::Naomi Campbell:X; X is MODEL,MODEL,True,True
+761,Naomi Campbell:(MODEL)::Ali Pasha:X; X is FILM DIRECTOR,POLITICIAN,False,True
+762,Ali Pasha:(POLITICIAN)::Keith Jarrett:X; X is RELIGIOUS FIGURE,MUSICIAN,False,True
+763,Keith Jarrett:(MUSICIAN)::Matthew Broderick:X; X is WRITER,ACTOR,False,True
+764,Matthew Broderick:(ACTOR)::Jacob Isaakszoon van Ruysdael:X; X is PAINTER,PAINTER,True,True
+765,Jacob Isaakszoon van Ruysdael:(PAINTER)::Victor Garber:X; X is SOCCER PLAYER,ACTOR,False,True
+766,Victor Garber:(ACTOR)::Aaron Copland:X; X is COMPOSER,COMPOSER,True,True
+767,Aaron Copland:(COMPOSER)::Rinko Kikuchi:X; X is BUSINESSPERSON,ACTOR,False,True
+768,Rinko Kikuchi:(ACTOR)::Dalida:X; X is SINGER,SINGER,True,True
+769,Dalida:(SINGER)::Carl Michael Bellman:X; X is MUSICIAN,MUSICIAN,True,True
+770,Carl Michael Bellman:(MUSICIAN)::George H. W. Bush:X; X is ACTOR,POLITICIAN,False,True
+771,George H. W. Bush:(POLITICIAN)::Sofonisba Anguissola:X; X is TENNIS PLAYER,ARTIST,False,True
+772,"Sofonisba Anguissola:(ARTIST)::Henry III, Holy Roman Emperor:X; X is POLITICIAN",POLITICIAN,True,True
+773,"Henry III, Holy Roman Emperor:(POLITICIAN)::Wilhelm Pieck:X; X is PAINTER",POLITICIAN,False,True
+774,Wilhelm Pieck:(POLITICIAN)::Erik Erikson:X; X is ASTRONOMER,PSYCHOLOGIST,False,True
+775,Erik Erikson:(PSYCHOLOGIST)::Martin Lewis Perl:X; X is POLITICIAN,PHYSICIST,False,True
+776,Martin Lewis Perl:(PHYSICIST)::Nikolai Andrianov:X; X is GYMNAST,GYMNAST,True,True
+777,Nikolai Andrianov:(GYMNAST)::Aldous Huxley:X; X is POLITICIAN,WRITER,False,True
+778,Aldous Huxley:(WRITER)::Richard Sorge:X; X is JOURNALIST,JOURNALIST,True,True
+779,Richard Sorge:(JOURNALIST)::Mikhail Illarionovich Kutuzov:X; X is MILITARY PERSONNEL,MILITARY PERSONNEL,True,True
+780,Mikhail Illarionovich Kutuzov:(MILITARY PERSONNEL)::Ronald de Boer:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+781,Ronald de Boer:(SOCCER PLAYER)::Anna Faris:X; X is ACTOR,ACTOR,True,True
+782,Anna Faris:(ACTOR)::Jerry Yang:X; X is WRITER,BUSINESSPERSON,False,True
+783,Jerry Yang:(BUSINESSPERSON)::Damon Hill:X; X is POLITICIAN,RACECAR DRIVER,False,True
+784,Damon Hill:(RACECAR DRIVER)::Pope Adeodatus II:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+785,Pope Adeodatus II:(RELIGIOUS FIGURE)::Gjorgje Ivanov:X; X is POLITICIAN,POLITICIAN,True,True
+786,Gjorgje Ivanov:(POLITICIAN)::Courteney Cox:X; X is ACTOR,ACTOR,True,True
+787,Courteney Cox:(ACTOR)::John the Evangelist:X; X is NOBLEMAN,WRITER,False,True
+788,John the Evangelist:(WRITER)::G. K. Chesterton:X; X is PRESENTER,WRITER,False,True
+789,G. K. Chesterton:(WRITER)::Jonathan dos Santos:X; X is SINGER,SOCCER PLAYER,False,True
+790,Jonathan dos Santos:(SOCCER PLAYER)::Ricardo Pereira:X; X is PHILOSOPHER,SOCCER PLAYER,False,True
+791,Ricardo Pereira:(SOCCER PLAYER)::Frédéric Passy:X; X is ECONOMIST,ECONOMIST,True,True
+792,Frédéric Passy:(ECONOMIST)::Kālidāsa:X; X is PHYSICIST,WRITER,False,True
+793,Kālidāsa:(WRITER)::Martine Aubry:X; X is POLITICIAN,POLITICIAN,True,True
+794,Martine Aubry:(POLITICIAN)::Pope Zachary:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+795,Pope Zachary:(RELIGIOUS FIGURE)::Anton Ivanovich Denikin:X; X is MILITARY PERSONNEL,MILITARY PERSONNEL,True,True
+796,Anton Ivanovich Denikin:(MILITARY PERSONNEL)::Rebiya Kadeer:X; X is POLITICIAN,BUSINESSPERSON,True,False
+797,Rebiya Kadeer:(BUSINESSPERSON)::Meat Loaf:X; X is SINGER,SINGER,True,True
+798,Meat Loaf:(SINGER)::Wesley Sneijder:X; X is SINGER,SOCCER PLAYER,False,True
+799,Wesley Sneijder:(SOCCER PLAYER)::Harriet Beecher Stowe:X; X is ACTOR,WRITER,False,True
+800,Harriet Beecher Stowe:(WRITER)::Pope Honorius IV:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+801,Pope Honorius IV:(RELIGIOUS FIGURE)::Giambattista Vico:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+802,Giambattista Vico:(PHILOSOPHER)::Marouf al-Bakhit:X; X is SOCCER PLAYER,POLITICIAN,False,True
+803,"Marouf al-Bakhit:(POLITICIAN)::Freddie Prinze, Jr.:X; X is ACTOR",ACTOR,True,True
+804,"Freddie Prinze, Jr.:(ACTOR)::Pope Sixtus III:X; X is POLITICIAN",RELIGIOUS FIGURE,False,True
+805,Pope Sixtus III:(RELIGIOUS FIGURE)::Valdas Adamkus:X; X is POLITICIAN,POLITICIAN,True,True
+806,Valdas Adamkus:(POLITICIAN)::Charlie Watts:X; X is MUSICIAN,MUSICIAN,True,True
+807,Charlie Watts:(MUSICIAN)::John Robert Schrieffer:X; X is WRITER,PHYSICIST,False,True
+808,John Robert Schrieffer:(PHYSICIST)::Ronald Ross:X; X is PHYSICIAN,PHYSICIAN,True,True
+809,Ronald Ross:(PHYSICIAN)::Mencius:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+810,Mencius:(PHILOSOPHER)::Jack London:X; X is POLITICIAN,WRITER,False,True
+811,Jack London:(WRITER)::Ivica Olić:X; X is ECONOMIST,SOCCER PLAYER,False,True
+812,Ivica Olić:(SOCCER PLAYER)::Martin Jol:X; X is MATHEMATICIAN,COACH,False,True
+813,Martin Jol:(COACH)::Mark Schwarzer:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+814,Mark Schwarzer:(SOCCER PLAYER)::Ali Khamenei:X; X is COMIC ARTIST,POLITICIAN,False,True
+815,Ali Khamenei:(POLITICIAN)::Lady Bird Johnson:X; X is BUSINESSPERSON,BUSINESSPERSON,False,False
+816,Lady Bird Johnson:(BUSINESSPERSON)::Moshe Katsav:X; X is POLITICIAN,POLITICIAN,True,True
+817,Moshe Katsav:(POLITICIAN)::Khosrau I:X; X is CHEMIST,POLITICIAN,False,True
+818,Khosrau I:(POLITICIAN)::Thomas Tallis:X; X is WRITER,RELIGIOUS FIGURE,True,False
+819,Thomas Tallis:(RELIGIOUS FIGURE)::Constantine P. Cavafy:X; X is ACTOR,WRITER,False,True
+820,Constantine P. Cavafy:(WRITER)::Lady Godiva:X; X is SOCIAL ACTIVIST,SOCIAL ACTIVIST,False,False
+821,Lady Godiva:(SOCIAL ACTIVIST)::Gaston Bachelard:X; X is ACTOR,PHILOSOPHER,False,True
+822,Gaston Bachelard:(PHILOSOPHER)::Michel de Montaigne:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+823,Michel de Montaigne:(PHILOSOPHER)::David Guetta:X; X is MUSICIAN,MUSICIAN,True,True
+824,David Guetta:(MUSICIAN)::Edward III of England:X; X is BIOLOGIST,POLITICIAN,False,True
+825,Edward III of England:(POLITICIAN)::Sasha Cohen:X; X is ACTOR,ACTOR,False,False
+826,Sasha Cohen:(ACTOR)::Georges J. F. Köhler:X; X is BIOLOGIST,BIOLOGIST,True,True
+827,Georges J. F. Köhler:(BIOLOGIST)::El Greco:X; X is PHOTOGRAPHER,PAINTER,False,True
+828,El Greco:(PAINTER)::Marcia Gay Harden:X; X is ACTOR,ACTOR,True,True
+829,Marcia Gay Harden:(ACTOR)::Stéphane Mallarmé:X; X is WRITER,WRITER,True,True
+830,Stéphane Mallarmé:(WRITER)::Jason Čulina:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+831,Jason Čulina:(SOCCER PLAYER)::Ibn Arabi:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+832,Ibn Arabi:(PHILOSOPHER)::Simeon of Russia:X; X is FILM DIRECTOR,POLITICIAN,False,True
+833,Simeon of Russia:(POLITICIAN)::Louis XVIII of France:X; X is POLITICIAN,POLITICIAN,True,True
+834,Louis XVIII of France:(POLITICIAN)::A. A. Milne:X; X is ACTOR,WRITER,False,True
+835,A. A. Milne:(WRITER)::Natalie Imbruglia:X; X is POLITICIAN,SINGER,False,True
+836,Natalie Imbruglia:(SINGER)::Sabbatai Zevi:X; X is MATHEMATICIAN,RELIGIOUS FIGURE,False,True
+837,Sabbatai Zevi:(RELIGIOUS FIGURE)::Richard Stone:X; X is SOCCER PLAYER,ECONOMIST,False,True
+838,Richard Stone:(ECONOMIST)::Matthias Grünewald:X; X is SOCCER PLAYER,PAINTER,False,True
+839,Matthias Grünewald:(PAINTER)::Philippikos:X; X is ACTOR,POLITICIAN,False,True
+840,Philippikos:(POLITICIAN)::Chaim Weizmann:X; X is MUSICIAN,POLITICIAN,False,True
+841,Chaim Weizmann:(POLITICIAN)::Álvaro Siza Vieira:X; X is ARCHITECT,ARCHITECT,True,True
+842,Álvaro Siza Vieira:(ARCHITECT)::Malena Ernman:X; X is WRITER,SINGER,False,True
+843,Malena Ernman:(SINGER)::Maxim Gorky:X; X is WRITER,WRITER,True,True
+844,Maxim Gorky:(WRITER)::James Madison:X; X is POLITICIAN,POLITICIAN,True,True
+845,James Madison:(POLITICIAN)::Benny Hill:X; X is ACTOR,ACTOR,True,True
+846,Benny Hill:(ACTOR)::Jason Derulo:X; X is POLITICIAN,SINGER,False,True
+847,Jason Derulo:(SINGER)::Mykola Azarov:X; X is POLITICIAN,POLITICIAN,True,True
+848,Mykola Azarov:(POLITICIAN)::Thutmose II:X; X is BIOLOGIST,POLITICIAN,False,True
+849,Thutmose II:(POLITICIAN)::Yuan Shikai:X; X is POLITICIAN,POLITICIAN,True,True
+850,Yuan Shikai:(POLITICIAN)::Santiago Cañizares:X; X is WRITER,SOCCER PLAYER,False,True
+851,Santiago Cañizares:(SOCCER PLAYER)::Stéphane Grappelli:X; X is POLITICIAN,MUSICIAN,False,True
+852,Stéphane Grappelli:(MUSICIAN)::Konstantinos Stephanopoulos:X; X is POLITICIAN,POLITICIAN,True,True
+853,Konstantinos Stephanopoulos:(POLITICIAN)::Vincent du Vigneaud:X; X is CHEMIST,CHEMIST,True,True
+854,Vincent du Vigneaud:(CHEMIST)::Elie Wiesel:X; X is POLITICIAN,WRITER,False,True
+855,Elie Wiesel:(WRITER)::Michael York:X; X is PHYSICIST,ACTOR,False,True
+856,Michael York:(ACTOR)::Anton LaVey:X; X is MODEL,WRITER,False,True
+857,Anton LaVey:(WRITER)::Marshall McLuhan:X; X is POLITICIAN,PHILOSOPHER,False,True
+858,Marshall McLuhan:(PHILOSOPHER)::Chris Hemsworth:X; X is MODEL,ACTOR,False,True
+859,Chris Hemsworth:(ACTOR)::Jacques Ibert:X; X is WRITER,COMPOSER,False,True
+860,Jacques Ibert:(COMPOSER)::Marcus Annaeus Lucanus:X; X is MUSICIAN,WRITER,False,True
+861,Marcus Annaeus Lucanus:(WRITER)::Muqtada al-Sadr:X; X is POLITICIAN,POLITICIAN,True,True
+862,Muqtada al-Sadr:(POLITICIAN)::Cao Xueqin:X; X is WRITER,WRITER,True,True
+863,Cao Xueqin:(WRITER)::Saint George:X; X is POLITICIAN,RELIGIOUS FIGURE,False,True
+864,Saint George:(RELIGIOUS FIGURE)::Totò:X; X is ACTOR,ACTOR,True,True
+865,Totò:(ACTOR)::Kareem Abdul-Jabbar:X; X is ACTOR,BASKETBALL PLAYER,False,True
+866,Kareem Abdul-Jabbar:(BASKETBALL PLAYER)::Paul Verlaine:X; X is SOCCER PLAYER,WRITER,False,True
+867,Paul Verlaine:(WRITER)::Oleg Blokhin:X; X is SINGER,SOCCER PLAYER,False,True
+868,Oleg Blokhin:(SOCCER PLAYER)::Charles Lindbergh:X; X is PILOT,PILOT,True,True
+869,Charles Lindbergh:(PILOT)::Claude Jade:X; X is MUSICIAN,ACTOR,False,True
+870,Claude Jade:(ACTOR)::Sher Shah Suri:X; X is MUSICIAN,POLITICIAN,False,True
+871,Sher Shah Suri:(POLITICIAN)::Alfonso García Robles:X; X is DIPLOMAT,DIPLOMAT,True,True
+872,Alfonso García Robles:(DIPLOMAT)::Teresa of Ávila:X; X is COMPOSER,RELIGIOUS FIGURE,False,True
+873,Teresa of Ávila:(RELIGIOUS FIGURE)::Mathieu Valbuena:X; X is ACTOR,SOCCER PLAYER,False,True
+874,Mathieu Valbuena:(SOCCER PLAYER)::Alicia Silverstone:X; X is ACTOR,ACTOR,True,True
+875,Alicia Silverstone:(ACTOR)::Zhuangzi:X; X is POLITICIAN,PHILOSOPHER,False,True
+876,Zhuangzi:(PHILOSOPHER)::Dustin Hoffman:X; X is MUSICIAN,ACTOR,False,True
+877,Dustin Hoffman:(ACTOR)::Lee Jung-Soo:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+878,Lee Jung-Soo:(SOCCER PLAYER)::Ronald Reagan:X; X is ACTOR,POLITICIAN,True,False
+879,Ronald Reagan:(POLITICIAN)::Vladimir Vysotsky:X; X is WRITER,WRITER,True,True
+880,Vladimir Vysotsky:(WRITER)::Henryk Górecki:X; X is POLITICIAN,COMPOSER,False,True
+881,Henryk Górecki:(COMPOSER)::John Robert Vane:X; X is CHEMIST,CHEMIST,True,True
+882,John Robert Vane:(CHEMIST)::Joseph I of Portugal:X; X is POLITICIAN,POLITICIAN,True,True
+883,Joseph I of Portugal:(POLITICIAN)::deadmau5:X; X is MUSICIAN,MUSICIAN,True,True
+884,deadmau5:(MUSICIAN)::Charles Ives:X; X is WRITER,COMPOSER,False,True
+885,Charles Ives:(COMPOSER)::Martina Navratilova:X; X is TENNIS PLAYER,TENNIS PLAYER,True,True
+886,Martina Navratilova:(TENNIS PLAYER)::Anne of Cleves:X; X is COMPANION,COMPANION,True,True
+887,Anne of Cleves:(COMPANION)::Reuben:X; X is WRITER,RELIGIOUS FIGURE,False,True
+888,Reuben:(RELIGIOUS FIGURE)::Giuseppe Favalli:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+889,Giuseppe Favalli:(SOCCER PLAYER)::Laurent Blanc:X; X is POLITICIAN,SOCCER PLAYER,False,True
+890,Laurent Blanc:(SOCCER PLAYER)::Charlemagne:X; X is BIOLOGIST,POLITICIAN,False,True
+891,Charlemagne:(POLITICIAN)::Lobsang Sangay:X; X is POLITICIAN,POLITICIAN,True,True
+892,Lobsang Sangay:(POLITICIAN)::Malcolm III of Scotland:X; X is POLITICIAN,POLITICIAN,True,True
+893,Malcolm III of Scotland:(POLITICIAN)::Huáscar:X; X is POLITICIAN,POLITICIAN,False,False
+894,Huáscar:(POLITICIAN)::Jordi Cruyff:X; X is POLITICIAN,SOCCER PLAYER,False,True
+895,Jordi Cruyff:(SOCCER PLAYER)::José Paolo Guerrero:X; X is ACTOR,SOCCER PLAYER,False,True
+896,José Paolo Guerrero:(SOCCER PLAYER)::Stefan Raab:X; X is PRESENTER,PRESENTER,True,True
+897,Stefan Raab:(PRESENTER)::Pope Damasus II:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+898,Pope Damasus II:(RELIGIOUS FIGURE)::Johannes Vilhelm Jensen:X; X is SOCCER PLAYER,WRITER,False,True
+899,Johannes Vilhelm Jensen:(WRITER)::Gyula Horn:X; X is ARCHITECT,POLITICIAN,False,True
+900,Gyula Horn:(POLITICIAN)::Charles-Augustin de Coulomb:X; X is GEOGRAPHER,PHYSICIST,False,True
+901,Charles-Augustin de Coulomb:(PHYSICIST)::Christian Panucci:X; X is POLITICIAN,SOCCER PLAYER,False,True
+902,Christian Panucci:(SOCCER PLAYER)::August Wilhelm von Schlegel:X; X is WRITER,WRITER,True,True
+903,August Wilhelm von Schlegel:(WRITER)::Jamie Lynn Spears:X; X is SINGER,ACTOR,True,False
+904,Jamie Lynn Spears:(ACTOR)::Karl Haushofer:X; X is PHYSICIAN,POLITICIAN,False,True
+905,Karl Haushofer:(POLITICIAN)::Tōgō Heihachirō:X; X is MILITARY PERSONNEL,MILITARY PERSONNEL,True,True
+906,Tōgō Heihachirō:(MILITARY PERSONNEL)::Antoine François Prévost:X; X is WRITER,WRITER,True,True
+907,Antoine François Prévost:(WRITER)::Georg Solti:X; X is TENNIS PLAYER,CONDUCTOR,False,True
+908,Georg Solti:(CONDUCTOR)::Anna Bergendahl:X; X is SINGER,SINGER,True,True
+909,Anna Bergendahl:(SINGER)::Jakaya Kikwete:X; X is ACTOR,POLITICIAN,False,True
+910,Jakaya Kikwete:(POLITICIAN)::Arcadius:X; X is SOCCER PLAYER,POLITICIAN,False,True
+911,Arcadius:(POLITICIAN)::Jack Johnson:X; X is MUSICIAN,MUSICIAN,True,True
+912,Jack Johnson:(MUSICIAN)::Pope Clement XIII:X; X is MUSICIAN,RELIGIOUS FIGURE,False,True
+913,Pope Clement XIII:(RELIGIOUS FIGURE)::Anton Webern:X; X is COMPOSER,COMPOSER,True,True
+914,Anton Webern:(COMPOSER)::Lysander:X; X is MILITARY PERSONNEL,MILITARY PERSONNEL,False,False
+915,Lysander:(MILITARY PERSONNEL)::David Strathairn:X; X is POLITICIAN,ACTOR,False,True
+916,David Strathairn:(ACTOR)::John Steinbeck:X; X is POLITICIAN,WRITER,False,True
+917,John Steinbeck:(WRITER)::Johan Neeskens:X; X is INVENTOR,COACH,False,True
+918,Johan Neeskens:(COACH)::Rob Van Dam:X; X is WRITER,WRESTLER,False,True
+919,"Rob Van Dam:(WRESTLER)::Lothair III, Holy Roman Emperor:X; X is POLITICIAN",POLITICIAN,True,True
+920,"Lothair III, Holy Roman Emperor:(POLITICIAN)::Angela Davis:X; X is SOCIAL ACTIVIST",SOCIAL ACTIVIST,True,True
+921,Angela Davis:(SOCIAL ACTIVIST)::Alessandro Petacchi:X; X is CYCLIST,CYCLIST,True,True
+922,Alessandro Petacchi:(CYCLIST)::Fernando Arrabal:X; X is WRITER,WRITER,True,True
+923,Fernando Arrabal:(WRITER)::Little Richard:X; X is COMPOSER,SINGER,False,True
+924,Little Richard:(SINGER)::Floriano Peixoto:X; X is WRITER,POLITICIAN,False,True
+925,Floriano Peixoto:(POLITICIAN)::Ptolemy XI Alexander II:X; X is POLITICIAN,POLITICIAN,False,False
+926,Ptolemy XI Alexander II:(POLITICIAN)::Charlize Theron:X; X is ACTOR,ACTOR,True,True
+927,Charlize Theron:(ACTOR)::Kurt Schwitters:X; X is ARTIST,ARTIST,True,True
+928,Kurt Schwitters:(ARTIST)::Daniel Cohn-Bendit:X; X is POLITICIAN,POLITICIAN,True,True
+929,Daniel Cohn-Bendit:(POLITICIAN)::Charles Maurice de Talleyrand-Périgord:X; X is DIPLOMAT,DIPLOMAT,True,True
+930,Charles Maurice de Talleyrand-Périgord:(DIPLOMAT)::Leon Osman:X; X is WRITER,SOCCER PLAYER,False,True
+931,"Leon Osman:(SOCCER PLAYER)::Louis-Antoine, Duke of Angouleme:X; X is NOBLEMAN",NOBLEMAN,True,True
+932,"Louis-Antoine, Duke of Angouleme:(NOBLEMAN)::George Emil Palade:X; X is SOCCER PLAYER",PHYSICIAN,False,True
+933,George Emil Palade:(PHYSICIAN)::Yun Bo-seon:X; X is ACTOR,POLITICIAN,False,True
+934,Yun Bo-seon:(POLITICIAN)::Herman Hollerith:X; X is INVENTOR,INVENTOR,True,True
+935,Herman Hollerith:(INVENTOR)::Paul Signac:X; X is PAINTER,PAINTER,True,True
+936,Paul Signac:(PAINTER)::Joseph Haydn:X; X is CELEBRITY,COMPOSER,False,True
+937,Joseph Haydn:(COMPOSER)::Tom Stoppard:X; X is POLITICIAN,WRITER,False,True
+938,Tom Stoppard:(WRITER)::Strabo:X; X is POLITICIAN,GEOGRAPHER,False,True
+939,Strabo:(GEOGRAPHER)::Mary Boleyn:X; X is POLITICIAN,COMPANION,False,True
+940,Mary Boleyn:(COMPANION)::Philo:X; X is POLITICIAN,PHILOSOPHER,False,True
+941,Philo:(PHILOSOPHER)::Florian Mayer:X; X is TENNIS PLAYER,TENNIS PLAYER,True,True
+942,Florian Mayer:(TENNIS PLAYER)::Devon Aoki:X; X is POLITICIAN,MODEL,False,True
+943,Devon Aoki:(MODEL)::Pope Boniface II:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+944,Pope Boniface II:(RELIGIOUS FIGURE)::Rush Limbaugh:X; X is PRESENTER,PRESENTER,True,True
+945,Rush Limbaugh:(PRESENTER)::Vincente Minnelli:X; X is RELIGIOUS FIGURE,FILM DIRECTOR,False,True
+946,Vincente Minnelli:(FILM DIRECTOR)::Daniela Hantuchová:X; X is TENNIS PLAYER,TENNIS PLAYER,True,True
+947,Daniela Hantuchová:(TENNIS PLAYER)::Samir Handanovič:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+948,Samir Handanovič:(SOCCER PLAYER)::Ian Wright:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+949,Ian Wright:(SOCCER PLAYER)::Aaron Ramsey:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+950,Aaron Ramsey:(SOCCER PLAYER)::Bruno Senna:X; X is ACTOR,RACECAR DRIVER,False,True
+951,Bruno Senna:(RACECAR DRIVER)::Aaron Burr:X; X is COMIC ARTIST,POLITICIAN,False,True
+952,"Aaron Burr:(POLITICIAN)::William IX, Duke of Aquitaine:X; X is NOBLEMAN",NOBLEMAN,True,True
+953,"William IX, Duke of Aquitaine:(NOBLEMAN)::Gérard Philipe:X; X is MUSICIAN",ACTOR,False,True
+954,Gérard Philipe:(ACTOR)::Alexander Grin:X; X is WRITER,WRITER,True,True
+955,Alexander Grin:(WRITER)::Lovis Corinth:X; X is ARTIST,ARTIST,True,True
+956,Lovis Corinth:(ARTIST)::Vasili IV of Russia:X; X is POLITICIAN,POLITICIAN,True,True
+957,Vasili IV of Russia:(POLITICIAN)::Günter Netzer:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+958,Günter Netzer:(SOCCER PLAYER)::Tigranes the Great:X; X is SINGER,POLITICIAN,False,True
+959,Tigranes the Great:(POLITICIAN)::David Cook:X; X is SCULPTOR,SINGER,False,True
+960,David Cook:(SINGER)::Samuel Adams:X; X is ATHLETE,POLITICIAN,False,True
+961,Samuel Adams:(POLITICIAN)::James Mirrlees:X; X is SOCCER PLAYER,ECONOMIST,False,True
+962,James Mirrlees:(ECONOMIST)::Ivo Andrić:X; X is WRITER,WRITER,True,True
+963,Ivo Andrić:(WRITER)::Oscar II of Sweden:X; X is ACTOR,POLITICIAN,False,True
+964,Oscar II of Sweden:(POLITICIAN)::Chester A. Arthur:X; X is BUSINESSPERSON,POLITICIAN,False,True
+965,Chester A. Arthur:(POLITICIAN)::Sokratis Papastathopoulos:X; X is POLITICIAN,SOCCER PLAYER,False,True
+966,Sokratis Papastathopoulos:(SOCCER PLAYER)::Angela Merkel:X; X is MILITARY PERSONNEL,POLITICIAN,False,True
+967,Angela Merkel:(POLITICIAN)::Kwadwo Asamoah:X; X is FILM DIRECTOR,SOCCER PLAYER,False,True
+968,Kwadwo Asamoah:(SOCCER PLAYER)::Eliot Spitzer:X; X is MILITARY PERSONNEL,POLITICIAN,False,True
+969,Eliot Spitzer:(POLITICIAN)::Zlatan Ibrahimović:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+970,Zlatan Ibrahimović:(SOCCER PLAYER)::Antigonus I Monophthalmus:X; X is POLITICIAN,POLITICIAN,False,False
+971,Antigonus I Monophthalmus:(POLITICIAN)::Nikolai Podgorny:X; X is PHYSICIST,POLITICIAN,False,True
+972,Nikolai Podgorny:(POLITICIAN)::Elena Paparizou:X; X is SINGER,SINGER,True,True
+973,Elena Paparizou:(SINGER)::Mahmud II:X; X is POLITICIAN,POLITICIAN,True,True
+974,Mahmud II:(POLITICIAN)::Kim Ki-duk:X; X is MILITARY PERSONNEL,FILM DIRECTOR,False,True
+975,Kim Ki-duk:(FILM DIRECTOR)::Slobodan Milošević:X; X is ACTOR,POLITICIAN,False,True
+976,Slobodan Milošević:(POLITICIAN)::J. D. Salinger:X; X is WRITER,WRITER,True,True
+977,J. D. Salinger:(WRITER)::Charles Glover Barkla:X; X is PHYSICIST,PHYSICIST,True,True
+978,Charles Glover Barkla:(PHYSICIST)::Edmond H. Fischer:X; X is CHEMIST,CHEMIST,True,True
+979,Edmond H. Fischer:(CHEMIST)::Henri Moissan:X; X is ACTOR,CHEMIST,False,True
+980,Henri Moissan:(CHEMIST)::John Newcombe:X; X is TENNIS PLAYER,TENNIS PLAYER,True,True
+981,John Newcombe:(TENNIS PLAYER)::Kimon:X; X is MILITARY PERSONNEL,MILITARY PERSONNEL,False,False
+982,Kimon:(MILITARY PERSONNEL)::Christian B. Anfinsen:X; X is CHEMIST,CHEMIST,True,True
+983,Christian B. Anfinsen:(CHEMIST)::Daniel Nestor:X; X is TENNIS PLAYER,TENNIS PLAYER,True,True
+984,Daniel Nestor:(TENNIS PLAYER)::Kristen Stewart:X; X is ACTOR,ACTOR,True,True
+985,Kristen Stewart:(ACTOR)::Patrick Rafter:X; X is TENNIS PLAYER,TENNIS PLAYER,True,True
+986,Patrick Rafter:(TENNIS PLAYER)::João Gilberto:X; X is PHILOSOPHER,MUSICIAN,False,True
+987,João Gilberto:(MUSICIAN)::Alex Jones:X; X is POLITICIAN,PRESENTER,False,True
+988,Alex Jones:(PRESENTER)::Cecilia Bartoli:X; X is SINGER,SINGER,True,True
+989,Cecilia Bartoli:(SINGER)::Tenzing Norgay:X; X is MOUNTAINEER,MOUNTAINEER,True,True
+990,Tenzing Norgay:(MOUNTAINEER)::Bert van Marwijk:X; X is COACH,COACH,True,True
+991,Bert van Marwijk:(COACH)::DJ Shadow:X; X is MUSICIAN,MUSICIAN,True,True
+992,DJ Shadow:(MUSICIAN)::Almaz Atambayev:X; X is RACECAR DRIVER,POLITICIAN,False,True
+993,Almaz Atambayev:(POLITICIAN)::Karl Ludwig Hencke:X; X is POLITICIAN,ASTRONOMER,False,True
+994,Karl Ludwig Hencke:(ASTRONOMER)::Andre Geim:X; X is PHYSICIST,PHYSICIST,True,True
+995,Andre Geim:(PHYSICIST)::Christina Ricci:X; X is PRESENTER,ACTOR,False,True
+996,Christina Ricci:(ACTOR)::Shinya Yamanaka:X; X is PHYSICIAN,PHYSICIAN,False,False
+997,Shinya Yamanaka:(PHYSICIAN)::Gary Moore:X; X is MUSICIAN,MUSICIAN,True,True
+998,Gary Moore:(MUSICIAN)::Kim Seong-su:X; X is SOCCER PLAYER,POLITICIAN,False,True
+999,Kim Seong-su:(POLITICIAN)::Matt Sydal:X; X is WRESTLER,WRESTLER,True,True
+1000,Matt Sydal:(WRESTLER)::Quintillus:X; X is POLITICIAN,POLITICIAN,False,False
+1001,Quintillus:(POLITICIAN)::Levi Eshkol:X; X is POLITICIAN,POLITICIAN,True,True
+1002,Levi Eshkol:(POLITICIAN)::Neil Armstrong:X; X is PHILOSOPHER,ASTRONAUT,False,True
+1003,Neil Armstrong:(ASTRONAUT)::Patricia Arquette:X; X is ACTOR,ACTOR,True,True
+1004,Patricia Arquette:(ACTOR)::Javier Aguirre:X; X is COACH,COACH,True,True
+1005,Javier Aguirre:(COACH)::Lloyd Banks:X; X is SINGER,SINGER,True,True
+1006,Lloyd Banks:(SINGER)::Yann Tiersen:X; X is MUSICIAN,MUSICIAN,True,True
+1007,Yann Tiersen:(MUSICIAN)::Andoni Zubizarreta:X; X is POLITICIAN,SOCCER PLAYER,False,True
+1008,Andoni Zubizarreta:(SOCCER PLAYER)::Janne Ahonen:X; X is SKIER,SKIER,True,True
+1009,Janne Ahonen:(SKIER)::Ernst Jünger:X; X is WRITER,WRITER,True,True
+1010,Ernst Jünger:(WRITER)::Amaury Nolasco:X; X is MILITARY PERSONNEL,ACTOR,False,True
+1011,Amaury Nolasco:(ACTOR)::Mirko Cvetković:X; X is PAINTER,POLITICIAN,False,True
+1012,Mirko Cvetković:(POLITICIAN)::Jean-Jacques Dessalines:X; X is POLITICIAN,POLITICIAN,True,True
+1013,Jean-Jacques Dessalines:(POLITICIAN)::Bode Miller:X; X is POLITICIAN,SKIER,False,True
+1014,Bode Miller:(SKIER)::Ritchie Valens:X; X is ACTOR,MUSICIAN,False,True
+1015,Ritchie Valens:(MUSICIAN)::Ludvík Svoboda:X; X is POLITICIAN,POLITICIAN,True,True
+1016,Ludvík Svoboda:(POLITICIAN)::Ernesto Zedillo:X; X is POLITICIAN,POLITICIAN,True,True
+1017,Ernesto Zedillo:(POLITICIAN)::Gaius Marius:X; X is MUSICIAN,DIPLOMAT,False,True
+1018,Gaius Marius:(DIPLOMAT)::Thorbjørn Jagland:X; X is SOCCER PLAYER,POLITICIAN,False,True
+1019,Thorbjørn Jagland:(POLITICIAN)::Robert Englund:X; X is ACTOR,ACTOR,True,True
+1020,Robert Englund:(ACTOR)::W. Somerset Maugham:X; X is WRITER,WRITER,True,True
+1021,W. Somerset Maugham:(WRITER)::Simon Rolfes:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+1022,Simon Rolfes:(SOCCER PLAYER)::Nicholas Roerich:X; X is SOCCER PLAYER,ARTIST,False,True
+1023,Nicholas Roerich:(ARTIST)::Thomas Morgenstern:X; X is SKIER,SKIER,True,True
+1024,Thomas Morgenstern:(SKIER)::Maggie Gyllenhaal:X; X is ACTOR,ACTOR,True,True
+1025,Maggie Gyllenhaal:(ACTOR)::John F. Kennedy:X; X is COMPANION,POLITICIAN,False,True
+1026,John F. Kennedy:(POLITICIAN)::Quett Masire:X; X is POLITICIAN,POLITICIAN,True,True
+1027,Quett Masire:(POLITICIAN)::Jesse Spencer:X; X is SOCCER PLAYER,ACTOR,False,True
+1028,Jesse Spencer:(ACTOR)::Eddie Izzard:X; X is ACTOR,ACTOR,True,True
+1029,Eddie Izzard:(ACTOR)::Derek Walcott:X; X is DIPLOMAT,WRITER,False,True
+1030,Derek Walcott:(WRITER)::Luís Fabiano:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+1031,Luís Fabiano:(SOCCER PLAYER)::Jean-Victor Poncelet:X; X is MATHEMATICIAN,MATHEMATICIAN,True,True
+1032,Jean-Victor Poncelet:(MATHEMATICIAN)::Baasha:X; X is MUSICIAN,POLITICIAN,False,True
+1033,Baasha:(POLITICIAN)::Claude Cohen-Tannoudji:X; X is PHYSICIST,PHYSICIST,True,True
+1034,Claude Cohen-Tannoudji:(PHYSICIST)::Massimo Oddo:X; X is MUSICIAN,SOCCER PLAYER,False,True
+1035,Massimo Oddo:(SOCCER PLAYER)::Gerd Müller:X; X is POLITICIAN,SOCCER PLAYER,False,True
+1036,Gerd Müller:(SOCCER PLAYER)::Igor of Kiev:X; X is POLITICIAN,POLITICIAN,True,True
+1037,Igor of Kiev:(POLITICIAN)::Tandja Mamadou:X; X is POLITICIAN,POLITICIAN,True,True
+1038,Tandja Mamadou:(POLITICIAN)::Frederick Sanger:X; X is CHEMIST,CHEMIST,True,True
+1039,Frederick Sanger:(CHEMIST)::Laura Pausini:X; X is ENGINEER,SINGER,False,True
+1040,Laura Pausini:(SINGER)::Horemheb:X; X is POLITICIAN,POLITICIAN,False,False
+1041,Horemheb:(POLITICIAN)::Christopher Plummer:X; X is MUSICIAN,ACTOR,False,True
+1042,Christopher Plummer:(ACTOR)::Tom Hardy:X; X is RELIGIOUS FIGURE,ACTOR,False,True
+1043,Tom Hardy:(ACTOR)::Osamu Tezuka:X; X is COMIC ARTIST,COMIC ARTIST,True,True
+1044,Osamu Tezuka:(COMIC ARTIST)::Spencer Tunick:X; X is PHOTOGRAPHER,PHOTOGRAPHER,True,True
+1045,Spencer Tunick:(PHOTOGRAPHER)::Baruch Spinoza:X; X is EXTREMIST,PHILOSOPHER,False,True
+1046,"Baruch Spinoza:(PHILOSOPHER)::Joseph Smith, Jr.:X; X is RELIGIOUS FIGURE",RELIGIOUS FIGURE,True,True
+1047,"Joseph Smith, Jr.:(RELIGIOUS FIGURE)::Apollonius of Rhodes:X; X is WRITER",WRITER,True,True
+1048,Apollonius of Rhodes:(WRITER)::Johannes Andreas Grib Fibiger:X; X is MATHEMATICIAN,PHYSICIAN,False,True
+1049,Johannes Andreas Grib Fibiger:(PHYSICIAN)::Italo Svevo:X; X is WRITER,WRITER,True,True
+1050,Italo Svevo:(WRITER)::Sienna Guillory:X; X is MUSICIAN,ACTOR,False,True
+1051,Sienna Guillory:(ACTOR)::Édouard Lalo:X; X is COMPOSER,COMPOSER,True,True
+1052,Édouard Lalo:(COMPOSER)::Doris Day:X; X is ACTOR,ACTOR,True,True
+1053,"Doris Day:(ACTOR)::Frederick North, Lord North:X; X is PHILOSOPHER",POLITICIAN,False,True
+1054,"Frederick North, Lord North:(POLITICIAN)::Aloysius Gonzaga:X; X is RELIGIOUS FIGURE",RELIGIOUS FIGURE,True,True
+1055,Aloysius Gonzaga:(RELIGIOUS FIGURE)::Ursula Andress:X; X is ACTOR,ACTOR,True,True
+1056,Ursula Andress:(ACTOR)::José Ramos-Horta:X; X is ACTOR,POLITICIAN,False,True
+1057,José Ramos-Horta:(POLITICIAN)::Hassan Nasrallah:X; X is POLITICIAN,POLITICIAN,True,True
+1058,Hassan Nasrallah:(POLITICIAN)::Chagatai Khan:X; X is POLITICIAN,POLITICIAN,True,True
+1059,Chagatai Khan:(POLITICIAN)::Aristippus:X; X is SOCCER PLAYER,PHILOSOPHER,False,True
+1060,Aristippus:(PHILOSOPHER)::Takuma Sato:X; X is RACECAR DRIVER,RACECAR DRIVER,True,True
+1061,Takuma Sato:(RACECAR DRIVER)::Hanna Reitsch:X; X is PILOT,PILOT,True,True
+1062,Hanna Reitsch:(PILOT)::Johannes Gutenberg:X; X is ACTOR,INVENTOR,False,True
+1063,Johannes Gutenberg:(INVENTOR)::Andreas Baader:X; X is ACTOR,EXTREMIST,False,True
+1064,Andreas Baader:(EXTREMIST)::Joan I of Navarre:X; X is POLITICIAN,POLITICIAN,False,False
+1065,Joan I of Navarre:(POLITICIAN)::Kenneth Arrow:X; X is ACTOR,ECONOMIST,False,True
+1066,Kenneth Arrow:(ECONOMIST)::Seleucus III Ceraunus:X; X is POLITICIAN,POLITICIAN,True,True
+1067,Seleucus III Ceraunus:(POLITICIAN)::Paolo Rossi:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+1068,Paolo Rossi:(SOCCER PLAYER)::Robert Coleman Richardson:X; X is ACTOR,PHYSICIST,False,True
+1069,Robert Coleman Richardson:(PHYSICIST)::Martti Ahtisaari:X; X is POLITICIAN,POLITICIAN,True,True
+1070,Martti Ahtisaari:(POLITICIAN)::Jürgen Habermas:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+1071,Jürgen Habermas:(PHILOSOPHER)::Ryan Nelsen:X; X is POLITICIAN,SOCCER PLAYER,False,True
+1072,Ryan Nelsen:(SOCCER PLAYER)::Debra Winger:X; X is ACTOR,ACTOR,True,True
+1073,Debra Winger:(ACTOR)::Robbie Fowler:X; X is MUSICIAN,SOCCER PLAYER,False,True
+1074,Robbie Fowler:(SOCCER PLAYER)::Hipólito Yrigoyen:X; X is POLITICIAN,POLITICIAN,True,True
+1075,Hipólito Yrigoyen:(POLITICIAN)::Spiridon Louis:X; X is ATHLETE,ATHLETE,True,True
+1076,Spiridon Louis:(ATHLETE)::Ivan Konev:X; X is MILITARY PERSONNEL,MILITARY PERSONNEL,True,True
+1077,Ivan Konev:(MILITARY PERSONNEL)::Domitian:X; X is POLITICIAN,POLITICIAN,True,True
+1078,Domitian:(POLITICIAN)::Mahinda Rajapaksa:X; X is FILM DIRECTOR,POLITICIAN,False,True
+1079,Mahinda Rajapaksa:(POLITICIAN)::Jacques-Yves Cousteau:X; X is EXPLORER,EXPLORER,True,True
+1080,Jacques-Yves Cousteau:(EXPLORER)::Klas Pontus Arnoldson:X; X is BUSINESSPERSON,POLITICIAN,False,True
+1081,Klas Pontus Arnoldson:(POLITICIAN)::François Viète:X; X is MATHEMATICIAN,MATHEMATICIAN,True,True
+1082,François Viète:(MATHEMATICIAN)::Robert Wagner:X; X is MATHEMATICIAN,ACTOR,False,True
+1083,Robert Wagner:(ACTOR)::Philip Warren Anderson:X; X is ACTOR,PHYSICIST,False,True
+1084,Philip Warren Anderson:(PHYSICIST)::Ernst Ruska:X; X is SKIER,PHYSICIST,False,True
+1085,Ernst Ruska:(PHYSICIST)::Ion Antonescu:X; X is POLITICIAN,POLITICIAN,True,True
+1086,Ion Antonescu:(POLITICIAN)::Mumtaz Mahal:X; X is FILM DIRECTOR,COMPANION,False,True
+1087,Mumtaz Mahal:(COMPANION)::Sergio Leone:X; X is ASTRONOMER,FILM DIRECTOR,False,True
+1088,Sergio Leone:(FILM DIRECTOR)::Thích Quảng Đức:X; X is COMPUTER SCIENTIST,SOCIAL ACTIVIST,False,True
+1089,Thích Quảng Đức:(SOCIAL ACTIVIST)::Gus Grissom:X; X is ASTRONAUT,ASTRONAUT,True,True
+1090,Gus Grissom:(ASTRONAUT)::Ralph Nader:X; X is CHEMIST,POLITICIAN,False,True
+1091,Ralph Nader:(POLITICIAN)::Martin Petrov:X; X is SINGER,SOCCER PLAYER,False,True
+1092,Martin Petrov:(SOCCER PLAYER)::Rudolf Clausius:X; X is WRITER,PHYSICIST,False,True
+1093,Rudolf Clausius:(PHYSICIST)::Diana Ross:X; X is SINGER,SINGER,True,True
+1094,Diana Ross:(SINGER)::Nelly Sachs:X; X is POLITICIAN,WRITER,False,True
+1095,Nelly Sachs:(WRITER)::Nikolai Chernyshevsky:X; X is WRITER,WRITER,True,True
+1096,Nikolai Chernyshevsky:(WRITER)::Lucas Neill:X; X is MUSICIAN,SOCCER PLAYER,False,True
+1097,Lucas Neill:(SOCCER PLAYER)::Santiago Carrillo:X; X is POLITICIAN,POLITICIAN,True,True
+1098,Santiago Carrillo:(POLITICIAN)::Antonios Nikopolidis:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+1099,Antonios Nikopolidis:(SOCCER PLAYER)::Armand Fallières:X; X is COMPOSER,POLITICIAN,False,True
+1100,Armand Fallières:(POLITICIAN)::Pope Benedict XV:X; X is RELIGIOUS FIGURE,RELIGIOUS FIGURE,True,True
+1101,Pope Benedict XV:(RELIGIOUS FIGURE)::Róbert Vittek:X; X is SOCCER PLAYER,SOCCER PLAYER,True,True
+1102,Róbert Vittek:(SOCCER PLAYER)::Tariq Ramadan:X; X is PHILOSOPHER,PHILOSOPHER,True,True
+1103,Tariq Ramadan:(PHILOSOPHER)::Jean-Baptiste Camille Corot:X; X is FILM DIRECTOR,PAINTER,False,True
+1104,Jean-Baptiste Camille Corot:(PAINTER)::Maria Schneider:X; X is ACTOR,ACTOR,True,True
+1105,Maria Schneider:(ACTOR)::Norbert Wiener:X; X is MATHEMATICIAN,MATHEMATICIAN,True,True
+1106,Norbert Wiener:(MATHEMATICIAN)::Pope Stephen IV:X; X is POLITICIAN,RELIGIOUS FIGURE,False,True
+1107,Pope Stephen IV:(RELIGIOUS FIGURE)::Joseph Schumpeter:X; X is WRITER,ECONOMIST,False,True
+1108,Joseph Schumpeter:(ECONOMIST)::Julie Walters:X; X is ACTOR,ACTOR,True,True
+1109,Julie Walters:(ACTOR)::Rick Perry:X; X is POLITICIAN,POLITICIAN,True,True
+1110,Rick Perry:(POLITICIAN)::Georges Bizet:X; X is POLITICIAN,COMPOSER,False,True
+1111,Georges Bizet:(COMPOSER)::Catherine of Alexandria:X; X is ARCHITECT,RELIGIOUS FIGURE,False,True
+1112,Catherine of Alexandria:(RELIGIOUS FIGURE)::Otto von Bismarck:X; X is POLITICIAN,POLITICIAN,True,True
+1113,Otto von Bismarck:(POLITICIAN)::Zosimus:X; X is WRITER,WRITER,True,True
+1114,Zosimus:(WRITER)::Pope Victor I:X; X is WRITER,RELIGIOUS FIGURE,False,True
+1115,Pope Victor I:(RELIGIOUS FIGURE)::Akshay Kumar:X; X is ACTOR,ACTOR,True,True
+1116,Akshay Kumar:(ACTOR)::Nathan Fillion:X; X is EXPLORER,ACTOR,False,True
+1117,Nathan Fillion:(ACTOR)::Franjo Tuđman:X; X is ACTOR,POLITICIAN,False,True
+1118,Franjo Tuđman:(POLITICIAN)::Ratko Mladić:X; X is WRITER,MILITARY PERSONNEL,False,True
+1119,Ratko Mladić:(MILITARY PERSONNEL)::James Connolly:X; X is WRITER,WRITER,True,True
+1120,James Connolly:(WRITER)::Vittorio Emanuele Orlando:X; X is WRITER,POLITICIAN,False,True
+1121,Vittorio Emanuele Orlando:(POLITICIAN)::Chad Kroeger:X; X is POLITICIAN,SINGER,False,True
+1122,Chad Kroeger:(SINGER)::Walther von Reichenau:X; X is PHYSICIAN,MILITARY PERSONNEL,False,True
+1123,Walther von Reichenau:(MILITARY PERSONNEL)::Bartolomeu Dias:X; X is WRITER,EXPLORER,False,True
+1124,Bartolomeu Dias:(EXPLORER)::Alphonse de Lamartine:X; X is WRITER,WRITER,True,True
+1125,Alphonse de Lamartine:(WRITER)::Charles Lyell:X; X is GEOLOGIST,GEOLOGIST,True,True
+1126,Charles Lyell:(GEOLOGIST)::Jet Li:X; X is WRITER,ACTOR,False,True
+1127,Jet Li:(ACTOR)::Sissy Spacek:X; X is ACTOR,ACTOR,True,True
+1128,Sissy Spacek:(ACTOR)::Andrea del Verrocchio:X; X is MUSICIAN,PAINTER,False,True
+1129,Andrea del Verrocchio:(PAINTER)::Arvid Carlsson:X; X is PHYSICIAN,PHYSICIAN,True,True
